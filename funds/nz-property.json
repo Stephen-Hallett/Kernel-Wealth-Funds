@@ -4,55 +4,64 @@
   "summary": "The Commercial Property Fund delivers diversification in the property sector by investing in the eight largest REITs on the New Zealand Exchange (NZX).",
   "holdings": [
     {
-      "company": "Goodman Property Trust",
+      "name": "Goodman Property Trust",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1757
     },
     {
-      "company": "Precinct Properties New Zealand Limited",
+      "name": "Precinct Properties New Zealand Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1748
     },
     {
-      "company": "Kiwi Property Group Limited",
+      "name": "Kiwi Property Group Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1729
     },
     {
-      "company": "Property for Industry Limited",
+      "name": "Property for Industry Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1392
     },
     {
-      "company": "Argosy Property Ltd",
+      "name": "Argosy Property Ltd",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1091
     },
     {
-      "company": "Vital Healthcare Property",
+      "name": "Vital Healthcare Property",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1044
     },
     {
-      "company": "Stride Property Limited",
+      "name": "Stride Property Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0815
     },
     {
-      "company": "Investore Property Limited",
+      "name": "Investore Property Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0416
     },
     {
-      "company": "Cash & Cash Equivalents",
+      "name": "Cash & Cash Equivalents",
+      "ticker": "Cash and Cash Equivalents",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0008

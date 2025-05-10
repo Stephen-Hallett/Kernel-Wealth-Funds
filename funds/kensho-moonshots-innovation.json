@@ -4,307 +4,358 @@
   "summary": "Own your share of 50 of the most innovative US-listed companies at the forefront of disruptive themes changing our tomorrow, e.g. Virgin Galactic Holdings, iRobot, Microvision and more.",
   "holdings": [
     {
-      "company": "Ehang Holdings ADR",
+      "name": "Ehang Holdings ADR",
+      "ticker": "EH",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0373
     },
     {
-      "company": "Okta Class A Ord",
+      "name": "Okta Class A Ord",
+      "ticker": "OKTA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0338
     },
     {
-      "company": "Eos Energy Enterprises Inc",
+      "name": "Eos Energy Enterprises Inc",
+      "ticker": "EOSE",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0321
     },
     {
-      "company": "Robinhood Markets Inc",
+      "name": "Robinhood Markets Inc",
+      "ticker": "HOOD",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.03
     },
     {
-      "company": "Cyber-Ark Software Ltd/Israel",
+      "name": "Cyber-Ark Software Ltd/Israel",
+      "ticker": "CYBR",
       "countryName": "Israel",
       "countryCode": "IL",
       "proportion": 0.0285
     },
     {
-      "company": "Baidu Inc ",
+      "name": "Baidu Inc ",
+      "ticker": "BIDU",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0281
     },
     {
-      "company": "Lucid Group Inc",
+      "name": "Lucid Group Inc",
+      "ticker": "LCID",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0272
     },
     {
-      "company": "Couchbase Inc",
+      "name": "Couchbase Inc",
+      "ticker": "Couchbase Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0268
     },
     {
-      "company": "Roblox Class A Ord",
+      "name": "Roblox Class A Ord",
+      "ticker": "RBLX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0266
     },
     {
-      "company": "Bilibili ADS",
+      "name": "Bilibili ADS",
+      "ticker": "BILI",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0258
     },
     {
-      "company": "Ouster Inc",
+      "name": "Ouster Inc",
+      "ticker": "OUST",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0255
     },
     {
-      "company": "Dropbox Inc.",
+      "name": "Dropbox Inc.",
+      "ticker": "DBX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0243
     },
     {
-      "company": "Silicon Laboratories Inc",
+      "name": "Silicon Laboratories Inc",
+      "ticker": "Silicon Laboratories Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0238
     },
     {
-      "company": "Rumble Inc Class A",
+      "name": "Rumble Inc Class A",
+      "ticker": "RUMBL",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0237
     },
     {
-      "company": "Planet Labs PBC Class A Ord",
+      "name": "Planet Labs PBC Class A Ord",
+      "ticker": "Planet Labs Public Benefit Corporation Class A Ordinary Shares",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0234
     },
     {
-      "company": "Roku, Inc. ",
+      "name": "Roku, Inc. ",
+      "ticker": "ROKU",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0234
     },
     {
-      "company": "Varonis Systems Inc",
+      "name": "Varonis Systems Inc",
+      "ticker": "VRNS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.023
     },
     {
-      "company": "Roivant Sciences Ord",
+      "name": "Roivant Sciences Ord",
+      "ticker": "Roivant Sciences Ordinary",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0228
     },
     {
-      "company": "Avidity Biosciences Ord",
+      "name": "Avidity Biosciences Ord",
+      "ticker": "Avidity Biosciences Ordinary Shares",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0227
     },
     {
-      "company": "Inspire Medical Systems Inc",
+      "name": "Inspire Medical Systems Inc",
+      "ticker": "INSP",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0225
     },
     {
-      "company": "Red Cat Holdings Inc",
+      "name": "Red Cat Holdings Inc",
+      "ticker": "Red Cat Holdings Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.022
     },
     {
-      "company": "SentinelOne Class A Ord",
+      "name": "SentinelOne Class A Ord",
+      "ticker": "S",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0211
     },
     {
-      "company": "Rocket Lab USA Inc",
+      "name": "Rocket Lab USA Inc",
+      "ticker": "RKLB",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0209
     },
     {
-      "company": "Unity Software Ord",
+      "name": "Unity Software Ord",
+      "ticker": "Unity Software",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0202
     },
     {
-      "company": "Snap, Inc.",
+      "name": "Snap, Inc.",
+      "ticker": "Snap Inc",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0198
     },
     {
-      "company": "Verve Therapeutics Ord",
+      "name": "Verve Therapeutics Ord",
+      "ticker": "Verve Therapeutics Ordinary Shares",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0198
     },
     {
-      "company": "Vimeo Ord",
+      "name": "Vimeo Ord",
+      "ticker": "VIMEO",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0197
     },
     {
-      "company": "Recursion Pharmaceuticals Inc Class A",
+      "name": "Recursion Pharmaceuticals Inc Class A",
+      "ticker": "Recursion Pharmaceuticals Inc Class A",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0191
     },
     {
-      "company": "Ambarella Inc",
+      "name": "Ambarella Inc",
+      "ticker": "AMBA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.019
     },
     {
-      "company": "Allogene Therapeutics Inc",
+      "name": "Allogene Therapeutics Inc",
+      "ticker": "ALLO",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0186
     },
     {
-      "company": "Butterfly Network Inc Class A",
+      "name": "Butterfly Network Inc Class A",
+      "ticker": "Butterfly Network Inc Class A",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0173
     },
     {
-      "company": "Microvision Inc",
+      "name": "Microvision Inc",
+      "ticker": "Microvision Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0172
     },
     {
-      "company": "Bandwidth Inc",
+      "name": "Bandwidth Inc",
+      "ticker": "BAND",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0171
     },
     {
-      "company": "IDEAYA Biosciences Inc",
+      "name": "IDEAYA Biosciences Inc",
+      "ticker": "IDEA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0165
     },
     {
-      "company": "Fastly CL A ORD",
+      "name": "Fastly CL A ORD",
+      "ticker": "Fastly Class A Ordinary Shares",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0164
     },
     {
-      "company": "Asana Inc. Class A",
+      "name": "Asana Inc. Class A",
+      "ticker": "Asana Incorporated Class A",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0164
     },
     {
-      "company": "MongoDB Inc",
+      "name": "MongoDB Inc",
+      "ticker": "MDB",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0161
     },
     {
-      "company": "Upstart Holdings Ord",
+      "name": "Upstart Holdings Ord",
+      "ticker": "Upstart Holdings Ordinary",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.016
     },
     {
-      "company": "Trump Media Technology Group Corp",
+      "name": "Trump Media Technology Group Corp",
+      "ticker": "Trump Media Technology Group Corporation",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0147
     },
     {
-      "company": "Autolus Therapeutics PLC",
+      "name": "Autolus Therapeutics PLC",
+      "ticker": "AUTL",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0146
     },
     {
-      "company": "Intellia Therapeutic Ord",
+      "name": "Intellia Therapeutic Ord",
+      "ticker": "Intellia Therapeutics Ordinary",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0138
     },
     {
-      "company": "4D Molecular Therapeutics Inc",
+      "name": "4D Molecular Therapeutics Inc",
+      "ticker": "FDMT",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0128
     },
     {
-      "company": "Flywire Corp",
+      "name": "Flywire Corp",
+      "ticker": "Flywire Corporation",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0128
     },
     {
-      "company": "Jumia Technologies ADR",
+      "name": "Jumia Technologies ADR",
+      "ticker": "JMIA",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0124
     },
     {
-      "company": "Indie Semiconductor Class A Ord",
+      "name": "Indie Semiconductor Class A Ord",
+      "ticker": "INDI",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0123
     },
     {
-      "company": "Iovance Biotherapeutics Inc",
+      "name": "Iovance Biotherapeutics Inc",
+      "ticker": "Iovance Biotherapeutics Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0106
     },
     {
-      "company": "Nano Dimension Ltd ADR",
+      "name": "Nano Dimension Ltd ADR",
+      "ticker": "NNDM",
       "countryName": "Israel",
       "countryCode": "IL",
       "proportion": 0.009
     },
     {
-      "company": "iRobot Corporation",
+      "name": "iRobot Corporation",
+      "ticker": "iRobot Corporation",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0085
     },
     {
-      "company": "Ballard Power Systems Inc",
+      "name": "Ballard Power Systems Inc",
+      "ticker": "Ballard Power Systems Incorporated",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0082
     },
     {
-      "company": "Lightwave Logic Inc",
+      "name": "Lightwave Logic Inc",
+      "ticker": "Lightwave Logic Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0072
     },
     {
-      "company": "Cash & Cash Equivalents",
+      "name": "Cash & Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": -0.0012

@@ -9,7 +9,7 @@ class TickerDetector:
     def __init__(self, openai_key: str) -> None:
         self.normalisation_chain = (
             normalisation_prompt
-            | ChatOpenAI(api_key=openai_key, model="gpt-4", temperature=0).bind_tools(
+            | ChatOpenAI(api_key=openai_key, temperature=0).bind_tools(
                 [NormalisationTools], strict=True, tool_choice="NormalisationTools"
             )
             | PydanticToolsParser(tools=[NormalisationTools])
@@ -17,7 +17,7 @@ class TickerDetector:
 
         self.information_chain = (
             information_prompt
-            | ChatOpenAI(api_key=openai_key, model="gpt-4", temperature=0).bind_tools(
+            | ChatOpenAI(api_key=openai_key, temperature=0).bind_tools(
                 [InformationTools], strict=True, tool_choice="InformationTools"
             )
             | PydanticToolsParser(tools=[InformationTools])
@@ -25,7 +25,7 @@ class TickerDetector:
 
         self.ticker_chain = (
             ticker_prompt
-            | ChatOpenAI(api_key=openai_key, model="gpt-4", temperature=0).bind_tools(
+            | ChatOpenAI(api_key=openai_key, temperature=0).bind_tools(
                 [TickerTools], strict=True, tool_choice="TickerTools"
             )
             | PydanticToolsParser(tools=[TickerTools])

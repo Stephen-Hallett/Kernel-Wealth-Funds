@@ -4,277 +4,323 @@
   "summary": "This fund includes and adjusts companies in the S&P/NZX 50 according to sustainability factors.",
   "holdings": [
     {
-      "company": "Fisher & Paykel Healthcare Corp Ltd",
+      "name": "Fisher & Paykel Healthcare Corp Ltd",
+      "ticker": "FPH.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1187
     },
     {
-      "company": "Auckland International Airport",
+      "name": "Auckland International Airport",
+      "ticker": "AIA.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1109
     },
     {
-      "company": "Fletcher Building Ltd (NZ Registry)",
+      "name": "Fletcher Building Ltd (NZ Registry)",
+      "ticker": "FBU.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1097
     },
     {
-      "company": "Contact Energy Ltd",
+      "name": "Contact Energy Ltd",
+      "ticker": "CEN.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0812
     },
     {
-      "company": "Meridian Energy",
+      "name": "Meridian Energy",
+      "ticker": "MEL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0665
     },
     {
-      "company": "The a2 Milk Company Ltd",
+      "name": "The a2 Milk Company Ltd",
+      "ticker": "ATM.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0596
     },
     {
-      "company": "Chorus Ltd",
+      "name": "Chorus Ltd",
+      "ticker": "CNU.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0376
     },
     {
-      "company": "Fonterra Shareholders' Fund",
+      "name": "Fonterra Shareholders' Fund",
+      "ticker": "FSF.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0353
     },
     {
-      "company": "Goodman Property Trust",
+      "name": "Goodman Property Trust",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0307
     },
     {
-      "company": "Spark New Zealand Limited (NZ Registered)",
+      "name": "Spark New Zealand Limited (NZ Registered)",
+      "ticker": "SPK.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0289
     },
     {
-      "company": "Kiwi Property Group Limited",
+      "name": "Kiwi Property Group Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0264
     },
     {
-      "company": "Infratil Limited",
+      "name": "Infratil Limited",
+      "ticker": "IFT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0262
     },
     {
-      "company": "Mercury NZ Limited",
+      "name": "Mercury NZ Limited",
+      "ticker": "MCY.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0259
     },
     {
-      "company": "Precinct Properties New Zealand Limited",
+      "name": "Precinct Properties New Zealand Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0236
     },
     {
-      "company": "ANZ (NZ Register)",
+      "name": "ANZ (NZ Register)",
+      "ticker": "Australia and New Zealand Banking Group (New Zealand Register)",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0221
     },
     {
-      "company": "EBOS",
+      "name": "EBOS",
+      "ticker": "EBO.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0173
     },
     {
-      "company": "Mainfreight Limited",
+      "name": "Mainfreight Limited",
+      "ticker": "MFT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0172
     },
     {
-      "company": "Summerset Group Holdings Limited",
+      "name": "Summerset Group Holdings Limited",
+      "ticker": "SUM.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0166
     },
     {
-      "company": "Westpac Banking Corporation (NZ Register)",
+      "name": "Westpac Banking Corporation (NZ Register)",
+      "ticker": "Westpac Banking Corporation (New Zealand Register)",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.013
     },
     {
-      "company": "Property for Industry Limited",
+      "name": "Property for Industry Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0123
     },
     {
-      "company": "Ryman Healthcare Limited",
+      "name": "Ryman Healthcare Limited",
+      "ticker": "RYM.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0115
     },
     {
-      "company": "Stride Property Limited",
+      "name": "Stride Property Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0092
     },
     {
-      "company": "Air New Zealand Ltd",
+      "name": "Air New Zealand Ltd",
+      "ticker": "Air New Zealand Limited",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0091
     },
     {
-      "company": "Vista Group International Limited",
+      "name": "Vista Group International Limited",
+      "ticker": "VGL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0086
     },
     {
-      "company": "Vital Healthcare Property",
+      "name": "Vital Healthcare Property",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0083
     },
     {
-      "company": "Vulcan Steel ORD (NZ Registry)",
+      "name": "Vulcan Steel ORD (NZ Registry)",
+      "ticker": "VSL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.008
     },
     {
-      "company": "Serko Limited (NZ Register)",
+      "name": "Serko Limited (NZ Register)",
+      "ticker": "SKO.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0071
     },
     {
-      "company": "Argosy Property Ltd",
+      "name": "Argosy Property Ltd",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0065
     },
     {
-      "company": "Port of Tauranga",
+      "name": "Port of Tauranga",
+      "ticker": "POT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0064
     },
     {
-      "company": "Freightways Group ORD",
+      "name": "Freightways Group ORD",
+      "ticker": "FRE.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0063
     },
     {
-      "company": "Hallenstein Glasson Holdings Ltd",
+      "name": "Hallenstein Glasson Holdings Ltd",
+      "ticker": "HLG.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0054
     },
     {
-      "company": "Sanford Limited",
+      "name": "Sanford Limited",
+      "ticker": "SAN.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.005
     },
     {
-      "company": "Turners Automotive Group Limited",
+      "name": "Turners Automotive Group Limited",
+      "ticker": "TRA.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0048
     },
     {
-      "company": "KMD Brands Limited",
+      "name": "KMD Brands Limited",
+      "ticker": "KMD.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0038
     },
     {
-      "company": "Skellerup Holdings Ltd",
+      "name": "Skellerup Holdings Ltd",
+      "ticker": "SKL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0033
     },
     {
-      "company": "Scales Corporation Limited",
+      "name": "Scales Corporation Limited",
+      "ticker": "SCL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0031
     },
     {
-      "company": "Oceania Healthcare Limited",
+      "name": "Oceania Healthcare Limited",
+      "ticker": "OCA.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0027
     },
     {
-      "company": "Investore Property Limited",
+      "name": "Investore Property Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0026
     },
     {
-      "company": "Vector Limited",
+      "name": "Vector Limited",
+      "ticker": "Vector Limited",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0021
     },
     {
-      "company": "Tourism Holdings Ltd",
+      "name": "Tourism Holdings Ltd",
+      "ticker": "THL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.002
     },
     {
-      "company": "The Warehouse Group Limited",
+      "name": "The Warehouse Group Limited",
+      "ticker": "The Warehouse Group Limited",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0013
     },
     {
-      "company": "NZX Limited",
+      "name": "NZX Limited",
+      "ticker": "NZX.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0008
     },
     {
-      "company": "Heartland Group Holdings Limited",
+      "name": "Heartland Group Holdings Limited",
+      "ticker": "HGH.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0007
     },
     {
-      "company": "Sky Network Television Ltd (NZ Registry)",
+      "name": "Sky Network Television Ltd (NZ Registry)",
+      "ticker": "SKT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0006
     },
     {
-      "company": "Manawa Energy Limited",
+      "name": "Manawa Energy Limited",
+      "ticker": "Manawa Energy Limited Company",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0005
     },
     {
-      "company": "Cash & Cash Equivalents",
+      "name": "Cash & Cash Equivalents",
+      "ticker": "Cash and Cash Equivalents",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0004

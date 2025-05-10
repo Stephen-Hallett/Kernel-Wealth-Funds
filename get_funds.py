@@ -25,14 +25,14 @@ def get_ticker(name: str, country: str) -> str:
     ticker = ticker_detector.detect(name, country)
     ticker_db.append({"name": name, "ticker": ticker})
     with Path("tickers/tickers.json").open("w") as f:
-        f.write(json.dumps(ticker_db))
+        f.write(json.dumps(ticker_db, indent=2))
 
     return ticker
 
 
 class FundHolding(BaseModel):
     _key: str
-    name: str
+    name: str = Field(validation_alias="company")
     ticker: str = ""
     countryName: str | None
     countryCode: str | None
@@ -46,7 +46,11 @@ class FundHolding(BaseModel):
         return 0
 
     def model_post_init(self, __context: Any) -> None:
-        if self.ticker == "" and self.countryName is not None:
+        if (
+            self.ticker == ""
+            and self.countryName is not None
+            and self.proportion >= 0.0001
+        ):
             self.ticker = get_ticker(self.name, self.countryName)
 
 

@@ -4,13 +4,15 @@
   "summary": "Own your piece of 500 US companies listed on the New York or Nasdaq stock exchanges. The S&P 500 is considered a proxy for the U.S. stock market, and this Fund is designed for growth and well-diversified.",
   "holdings": [
     {
-      "company": "Vanguard S&P 500 ETF",
+      "name": "Vanguard S&P 500 ETF",
+      "ticker": "VOO",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.9984
     },
     {
-      "company": "Cash & Cash Equivalents",
+      "name": "Cash & Cash Equivalents",
+      "ticker": "Cash and Cash Equivalents",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0016

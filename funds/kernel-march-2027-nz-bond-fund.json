@@ -4,7 +4,8 @@
   "summary": "An accessible alternative to investing in individual bonds or income-generating assets maturing in March 2027. ",
   "holdings": [
     {
-      "company": "Coming Soon",
+      "name": "Coming Soon",
+      "ticker": "",
       "countryName": null,
       "countryCode": null,
       "proportion": 0.0
