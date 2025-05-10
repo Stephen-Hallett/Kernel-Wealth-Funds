@@ -1,0 +1,3541 @@
+{
+  "title": "Global ESG (NZD Hedged) ",
+  "slug": "global-esg-nzd-hedged",
+  "summary": "A globally diversified fund that adjusts companies to be in alignment with the 2016 Paris Agreement. Hedged against currency fluctuations.",
+  "holdings": [
+    {
+      "company": "Apple Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0542
+    },
+    {
+      "company": "Microsoft",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0493
+    },
+    {
+      "company": "Nvidia Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0472
+    },
+    {
+      "company": "Amazon.com Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0249
+    },
+    {
+      "company": "Tesla Inc Ordinary Shares",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0242
+    },
+    {
+      "company": "Visa Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0241
+    },
+    {
+      "company": "Alphabet Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0195
+    },
+    {
+      "company": "Meta Platforms Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0184
+    },
+    {
+      "company": "Alphabet Inc Class C",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0161
+    },
+    {
+      "company": "Mastercard Inc Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0149
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0147
+    },
+    {
+      "company": "Abbvie Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.013
+    },
+    {
+      "company": "Eli Lilly ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0111
+    },
+    {
+      "company": "Seven & I Holdings Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0094
+    },
+    {
+      "company": "Abbott Laboratories",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0094
+    },
+    {
+      "company": "Schneider Electric SE Ordinary",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0093
+    },
+    {
+      "company": "Salesforce.com Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0087
+    },
+    {
+      "company": "Monster Beverage Corp New",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0085
+    },
+    {
+      "company": "Cisco Systems Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0083
+    },
+    {
+      "company": "Uber Technologies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.008
+    },
+    {
+      "company": "Bank of America Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0079
+    },
+    {
+      "company": "SAP SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0079
+    },
+    {
+      "company": "ASML Holdings ORD",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0078
+    },
+    {
+      "company": "Home Depot Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0073
+    },
+    {
+      "company": "Union Pacific Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0068
+    },
+    {
+      "company": "Novartis AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0063
+    },
+    {
+      "company": "Qualcomm ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0063
+    },
+    {
+      "company": "Astrazeneca PLC ORD Shs",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0063
+    },
+    {
+      "company": "International Business Machines Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0062
+    },
+    {
+      "company": "AT&T Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0057
+    },
+    {
+      "company": "Accenture plc A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0055
+    },
+    {
+      "company": "Deutsche Telekom AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0052
+    },
+    {
+      "company": "RELX Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0052
+    },
+    {
+      "company": "Adobe Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0052
+    },
+    {
+      "company": "Automatic Data Processing",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.005
+    },
+    {
+      "company": "S&P Global Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0049
+    },
+    {
+      "company": "JPMorgan Chase & Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0048
+    },
+    {
+      "company": "Deere & Company Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0048
+    },
+    {
+      "company": "Servicenow Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0048
+    },
+    {
+      "company": "McCormick & Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0048
+    },
+    {
+      "company": "Sony Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0047
+    },
+    {
+      "company": "Commonwealth Bank of Australia",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0046
+    },
+    {
+      "company": "Lowe's Cos Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0042
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0042
+    },
+    {
+      "company": "UnitedHealth Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0042
+    },
+    {
+      "company": "Recruit Holdings Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0041
+    },
+    {
+      "company": "UBS Group AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0041
+    },
+    {
+      "company": "Centrica",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.004
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0039
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0039
+    },
+    {
+      "company": "HSBC Holdings PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0038
+    },
+    {
+      "company": "Oracle Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0037
+    },
+    {
+      "company": "Cencora ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0037
+    },
+    {
+      "company": "McDonald's Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0036
+    },
+    {
+      "company": "Lam Research Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Waste Management Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Hermes Intl",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Gilead Sciences Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Moody's Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Canadian National Railways",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Broadcom Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Roche Hldgs AG Ptg Genus",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0034
+    },
+    {
+      "company": "BlackRock Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0034
+    },
+    {
+      "company": "ProLogis Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0034
+    },
+    {
+      "company": "Toyota Motor Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0033
+    },
+    {
+      "company": "KLA ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0033
+    },
+    {
+      "company": "Amgen Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0033
+    },
+    {
+      "company": "Danaher Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0032
+    },
+    {
+      "company": "Palo Alto Networks, Inc. Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0031
+    },
+    {
+      "company": "T-Mobile US Incorporated",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0031
+    },
+    {
+      "company": "Allianz SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0031
+    },
+    {
+      "company": "Applied Materials Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0031
+    },
+    {
+      "company": "Cardinal Health Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.003
+    },
+    {
+      "company": "Intel Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.003
+    },
+    {
+      "company": "Mitsubishi UFJ Financial Group Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.003
+    },
+    {
+      "company": "TJX Cos Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0029
+    },
+    {
+      "company": "Sanofi SA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0029
+    },
+    {
+      "company": "Novo Nordisk AS B",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0029
+    },
+    {
+      "company": "Wells Fargo & Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Booking Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Bristol-Myers Squibb",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Canadian Pacific Railway Ltd",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Walt Disney Co Ordinary Shares",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0026
+    },
+    {
+      "company": "GSK PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0026
+    },
+    {
+      "company": "Citigroup Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0026
+    },
+    {
+      "company": "Intuit ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0026
+    },
+    {
+      "company": "SoftBank Group Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0026
+    },
+    {
+      "company": "National Australia Bank Limited (AU Register)",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0025
+    },
+    {
+      "company": "Welltower Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0024
+    },
+    {
+      "company": "Micron Technology Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0024
+    },
+    {
+      "company": "United Parcel Service Inc B",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0024
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0024
+    },
+    {
+      "company": "Bank of Nova Scotia Halifax",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Bank of Montreal Ord",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Fiserv Incorporated",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Verisk Analytics Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Verizon Communications Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Intercontinental Exchange Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Stryker Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Eaton Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Intesa SanPaolo",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Tokyo Electron",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0021
+    },
+    {
+      "company": "American Express Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Starbucks Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
+    },
+    {
+      "company": "CSX Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.002
+    },
+    {
+      "company": "AXA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.002
+    },
+    {
+      "company": "PayPal Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.002
+    },
+    {
+      "company": "ANZ Bank (AU Register)",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.002
+    },
+    {
+      "company": "Goldman Sachs Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.002
+    },
+    {
+      "company": "Banco Santander Common Shares",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.002
+    },
+    {
+      "company": "Regeneron Pharmaceuticals Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.002
+    },
+    {
+      "company": "Equinix REIT Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0019
+    },
+    {
+      "company": "Paychex Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0019
+    },
+    {
+      "company": "Fast Retailing Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0019
+    },
+    {
+      "company": "Mizuho Financial Group Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Cintas Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Sumitomo Mitsui Financial Group",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Medtronic plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Autodesk Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Keurig Dr Pepper Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0017
+    },
+    {
+      "company": "Experian PLC Ord USD",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0017
+    },
+    {
+      "company": "Ferrari NV",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0017
+    },
+    {
+      "company": "SoftBank Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0017
+    },
+    {
+      "company": "AIA Group Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0017
+    },
+    {
+      "company": "BNP Paribas",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0017
+    },
+    {
+      "company": "eBay Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0017
+    },
+    {
+      "company": "The Bank of New York Mellon Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0016
+    },
+    {
+      "company": "DBS Group Holdings",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0016
+    },
+    {
+      "company": "London Stock Exchange Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Banco Bilbao Vizcaya Argentaria SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0016
+    },
+    {
+      "company": "CME Group Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Cadence Design Systems Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Manulife Financial Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Investor AB B (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Takeda Pharmaceutical Ord",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Nike INC - CL B",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0015
+    },
+    {
+      "company": "Copart Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0015
+    },
+    {
+      "company": "O'Reilly Automotive",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0015
+    },
+    {
+      "company": "Edwards Lifesciences Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0015
+    },
+    {
+      "company": "DEUTSCHE BOERSE NA O.N.",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0015
+    },
+    {
+      "company": "Transurban Group Stapled",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0015
+    },
+    {
+      "company": "Canadian Imperial Bank of Commerce",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0015
+    },
+    {
+      "company": "E.ON SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Becton Dickinson & Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Daiichi Sankyo Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Unicredit SpA Ord",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Westpac Banking Corporation (AU Register)",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Hong Kong Exchanges and Clearing Ltd.",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Arista Networks",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Yum Brands Inc Ordinary Shares",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Tokyo Ohka Kogyo Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0014
+    },
+    {
+      "company": "DSV A/S",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Hewlett Packard Enterprise Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "company": "United Rentals Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "company": "TE Connectivity ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0013
+    },
+    {
+      "company": "ABB Ltd",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Fortinet",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Wheaton Precious Metals Corp.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Kroger Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Consolidated Edison Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0013
+    },
+    {
+      "company": "American Tower Corp A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Hershey Foods Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Nasdaq Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "CRH Plc USD",
+      "countryName": "Ireland",
+      "countryCode": "IE",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Hilton Worldwide Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Norfolk Southern Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Aon plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "National Grid PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Agnico Eagle Mines Limited",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Advantest Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Wesfarmers Ltd",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0012
+    },
+    {
+      "company": "D.R. Horton, Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Chugai Pharmaceutical Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0012
+    },
+    {
+      "company": "NetFlix Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Broadridge Financial Solutions Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Zurich Insurance Group AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Ferguson Enterprises Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Aeon Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0011
+    },
+    {
+      "company": "WSP Global Inc.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Fastenal Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "MSCI Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Quanta Services Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Barclays PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Agilent Technologies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Thomson Reuters Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Ross Stores Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Legrand Promesses",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Marsh & McLennan Companies",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Digital Realty Trust",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Intuitive Surgical Inc Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Prosus",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.001
+    },
+    {
+      "company": "Partners Group Hldg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.001
+    },
+    {
+      "company": "Exelon Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.001
+    },
+    {
+      "company": "Chipotle Mexican Grill Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.001
+    },
+    {
+      "company": "Assa Abloy B (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.001
+    },
+    {
+      "company": "Nordea Bank Abp (SEK)",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.001
+    },
+    {
+      "company": "Iberdrola SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.001
+    },
+    {
+      "company": "Synopsys Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.001
+    },
+    {
+      "company": "Tokio Marine Holdings Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.001
+    },
+    {
+      "company": "Societe Generale",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Truist Financial Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Old Dominion Freight Line Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "DNB Bank ASA",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Workday Inc-Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Equifax Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Rio Tinto PLC Ord (UK Register)",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Lloyds Banking Group PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Deutsche Post N ORD",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0009
+    },
+    {
+      "company": "National Bank of Canada",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Eversource Energy",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Weyerhaeuser Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Lotus Bakeries NV",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Arthur J. Gallagher & Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Blackstone Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "EssilorLuxottica",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Spotify Technology S.A.",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Suntory Beverage & Food Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Geberit AG Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Lululemon Athletica inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Wolters Kluwer NV",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0008
+    },
+    {
+      "company": "KDDI Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Delta Air Lines Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Zoetis Inc Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Johnson Controls International plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Biogen Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "United Overseas Bank",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0008
+    },
+    {
+      "company": "DoorDash, Inc. Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Capital One Financial",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Renesas Electronics Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Waste Connections, Inc.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Tesco",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0008
+    },
+    {
+      "company": "US Bancorp ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Newmont Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "HubSpot Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "KBC Group NV",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Vulcan Materials Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Dover Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Texas Instruments Incorporated",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "company": "PNC Finl Services Group",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "SEB-Skand Enskilda Banken A (EUR)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0007
+    },
+    {
+      "company": "State Street Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Fidelity National Information",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Pultegroup Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "AutoZone Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Nucor Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Swedbank AB (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Shopify Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0007
+    },
+    {
+      "company": "NEC Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Brambles",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Fifth Third Bancorp (OH)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "ResMed Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Svenska Handelsbanken A (EUR)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Macquarie Group Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Republic Services Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Tractor Supply Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Nintendo Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Ventas Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Marriott International Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Amadeus IT Group SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Martin Merietta Materials Inc Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "3I Group",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Munich Re AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Public Storage",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Public Service Enterprise Grp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "AFLAC Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Crown Castle Intl Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Daiwa House Industry Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Airbnb, Inc. Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Bunzl PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Murata Manufacturing Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Nomura Research Institute Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Oriental Land Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Kingspan Group Plc",
+      "countryName": "Ireland",
+      "countryCode": "IE",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Overseas-Chinese Banking",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0006
+    },
+    {
+      "company": "CaixaBank",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0006
+    },
+    {
+      "company": "ANSYS Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Alcon",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Deutsche Bank AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Ashtead Group",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Freeport McMoRan Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Marvell Technology, Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Mettler-Toledo Intl",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Assicurazioni Generali SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Genuine Parts Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Nippon Tel & Tel Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Ferrovial SE Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Extra Space Storage Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Dollar Tree Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Simon Property Group A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Royal Caribbean Cruises Ltd",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "KKR & Co Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Equity Residential",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Coca-Cola Europacific Partners plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Chubb Limited",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Roper Technologies, Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Palantir Technologies Inc. Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Axon Enterprise Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Kone Corp B",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Waters Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "NatWest Group",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Realty Income Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "M&T Bank Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Wabtec",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "KUEHNE & NAGEL INTL AG-REG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Atlassian Corporation Plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "CAPGEMINI SE",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Take Two Interactive Software",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "EQT AB",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Discover Financial Services",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Cellnex Telecom SA Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0005
+    },
+    {
+      "company": "AvalonBay Communities Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Ball Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Sugi Holdings Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0005
+    },
+    {
+      "company": "NetApp Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Sun Life Financial ORD",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Huntington Bancshares (OH)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Metro Inc.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0005
+    },
+    {
+      "company": "DexCom Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Mitsubishi Estate Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Restaurant Brands International Inc.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Schindler-Hldg AG Ptg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Investor AB A (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Nippon Yusen KK",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0005
+    },
+    {
+      "company": "J.B. Hunt Transport Services",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Erste Group Bank AG",
+      "countryName": "Austria",
+      "countryCode": "AT",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Dollar General Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Ameriprise Financial Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Apollo Global Management Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Sonova Holding AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Best Buy ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "company": "UPM-Kymmene Oyj",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Lonza AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Gartner Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Cloudflare Inc.-A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Terna SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Dollarama Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Credit Agricole SA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Illumina Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Sea Ltd. (Singapore)-A",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Woolworths Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Iron Mountain Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Aptiv plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Lennar Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Otis Worldwide Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Fortive Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Danske Bank A/S",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0004
+    },
+    {
+      "company": "ON Semiconductor Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Fujitsu",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Vertiv Holdings Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Steel Dynamics Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Informa PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0004
+    },
+    {
+      "company": "CDW Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "CGI Inc. Class A SV",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Garmin Ltd",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Fanuc Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Infineon Technologies AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0004
+    },
+    {
+      "company": "American Water Works Co Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "CSL Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Comcast Corp A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Olympus Corporation",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "UCB SA",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Singapore Telecommunications Ltd",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Taisei Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Coles Group Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Pan Pacific International Holdings Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Hydro One Limited",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Rockwell Automation Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Dell Technologies Inc-C",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Astellas Pharma Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Obayashi Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "ASM Intl",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Barrick Gold Corp Ord",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "NXP Semiconductor NV",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Rio Tinto (AU Register)",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Dassault Systemes SA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0004
+    },
+    {
+      "company": "SKANSKA AB-B (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Telefonica SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Swiss Life Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Vonovia SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Vestas Wind Systems AS (DKK)",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Adidas AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0004
+    },
+    {
+      "company": "NTT DATA GROUP CORP",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Computershare",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Japan Post Holdings co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Next",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Cognizant Tech Solutions Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "SBA Communications Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Kawasaki Kisen Kaisha Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Aristocrat Leisure Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Moncler SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Loblaw Companies Ltd",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Fortis Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Mitsui OSK Lines Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Link REIT",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Swiss Re Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Medipal Holdings Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Stantec Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Heidelberg Materials AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Aviva PLC ORD",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Sun Hung Kai Properties Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Addtech AB B (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "NVR Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Secom Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Orange",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Leroy Seafood Group ASA",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Alexandria Real Estate Eqty",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "CAE Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Regions Financial Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Swisscom AG Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Publicis Groupe",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Boliden AB (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Baxter International Incorporated",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Legal & General Group PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0003
+    },
+    {
+      "company": "T Rowe Price Group ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "MatsukiyoCocokara & Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Kyocera Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Costar Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Moderna Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Willis Towers Watson PLC",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Tyson Foods Inc A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Rakuten Group Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "James Hardie Industries PLC Cdi 1:1",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0003
+    },
+    {
+      "company": "AP Moller - Maersk AS B",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Sumitomo Mitsui Ord",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Toppan Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Ares Management Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "FinecoBank Spa",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0003
+    },
+    {
+      "company": "TELUS Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Shionogi & Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Electronic Arts",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Asics Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Smiths Group PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Hartford Finl Services Group",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Hologic Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Zimmer Biomet Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Japan Post Bank co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Principal Financial Group",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Kesko Oyj B",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Eisai Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Sumitomo Realty & Dev Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0003
+    },
+    {
+      "company": "CCL Industries Inc. Class B NV",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Lifco AB",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "MTU Aero Engines AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Hormel Foods Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Hexagon AB (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Tele2 AB B (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Prudential PLC Ord (GBP)",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Sainsbury (J) PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Pearson",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Tradeweb Markets Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Grab Holdings Limited Class A",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Auckland International Airport",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Stockland Stapled",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0002
+    },
+    {
+      "company": "SEGRO PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Alnylam Pharmaceuticals Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "AIB Group Plc",
+      "countryName": "Ireland",
+      "countryCode": "IE",
+      "proportion": 0.0002
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Rollins Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "GFL Environmental Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Global Payments Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Pinterest Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Zscaler, Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "STMicroelectronics NV",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Hang Seng Bank Ltd.",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Element Fleet Management Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Sekisui House",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Orsted",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Intermediate Capital Group PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Schindler-Hldg AG Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0002
+    },
+    {
+      "company": "United Utilities Group PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Ackermans & Van Haaren NV",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Sysmex Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Arch Capital Group Ltd",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "LY Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Land Securities Group PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Smith & Nephew",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Sumitomo Forestry Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Toyo Suisan Kaisha",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Bouygues",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Mediobanca SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0002
+    },
+    {
+      "company": "VeriSign Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Chocoladefabriken Lindt & Spruengli PAR",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0002
+    },
+    {
+      "company": "BOC Hong Kong (Holdings) Ltd.",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Marks and Spencer Group PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Nitori Holdings Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "First Solar Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "ACS Actividades de Construccion y Servicios SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0002
+    },
+    {
+      "company": "STERIS plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "UOL Group Limited",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Swedish Orphan Biovitrum AB (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Telenor Ord",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Norsk Hydro AS",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Berkeley Group Holdings Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Fujikura Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Xero Limited (Australian Exchange)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Bawag Group AG",
+      "countryName": "Austria",
+      "countryCode": "AT",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Chubu Electric Power Co Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Nippon Express Holdings Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Telia Company AB",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Alamos Gold Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0002
+    },
+    {
+      "company": "AP Moller - Maersk AS A",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Dexus Units",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Hong Kong Land Hldgs Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Fisher & Paykel Healthcare Corp Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0002
+    },
+    {
+      "company": "ArcelorMittal Inc Ord",
+      "countryName": "Luxembourg",
+      "countryCode": "LU",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Nomura Holdings Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Super Micro Computer Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Hennes & Mauritz AB B",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0002
+    },
+    {
+      "company": "West Fraser Timber Co Ltd (CAD)",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Edison Intl",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "SCREEN Holdings Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Gjensidige Forsikring ASA",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Tomra Systems Ord",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Fortescue Metals Group LTD",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Contact Energy Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Bluescope Steel Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0002
+    },
+    {
+      "company": "JB Hi-Fi ORD",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Yokogawa Electric Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Sampo Oyj A",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Singapore Airlines",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Kinross Gold Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Poste Italiane Spa",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0002
+    },
+    {
+      "company": "AGEAS",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Bank of Ireland Group PLC",
+      "countryName": "Ireland",
+      "countryCode": "IE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Ono Pharmaceutical Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "ALS Ltd",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Roche Hldgs AG Br",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Makita Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "VERBUND AG",
+      "countryName": "Austria",
+      "countryCode": "AT",
+      "proportion": 0.0001
+    },
+    {
+      "company": "SKF AB",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Allstate Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0001
+    },
+    {
+      "company": "JFE Holdings Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Corpay Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Qantas Airways Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Shimizu Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Saputo Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Siemens Healthineers AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Toromont Industries Ltd",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Tenaris SA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Kajima Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Severn Trent PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Insurance Australia Group Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Taylor Wimpey Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0001
+    },
+    {
+      "company": "SGH Ltd",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "West Japan Railway",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Isetan Mitsukoshi Holdings Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Koninklijke KPN NV",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0001
+    },
+    {
+      "company": "ZOZO Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Rogers Communications Inc B",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Stora Enso OYJ R",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Sumitomo Metal Mining Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Trade Desk Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0001
+    },
+    {
+      "company": "MongoDB Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Santen Pharmaceutical Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "PTC Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Tsuruha Holdings Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Coinbase Global Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0001
+    },
+    {
+      "company": "CapitaLand Integrated Commercial Trust",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Capitaland Investment Ord",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0001
+    },
+    {
+      "company": "TMX Group Ltd",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Sweco B",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "George Weston Ltd",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Energias de Portugal SA",
+      "countryName": "Portugal",
+      "countryCode": "PT",
+      "proportion": 0.0001
+    },
+    {
+      "company": "ASX Limited",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "ABN Amro Bank NV",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Svenska Cellulosa AB - B  (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Nikon Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Tokyu Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Empire Company Limited Class A",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Meridian Energy",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Castellum AB",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "AerCap Holdings NV (US)",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Latour Investment AB B",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "REA Group LTD",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Aena SME SA Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Minebea Mitsumi Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "BCE Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Yamaha Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Seiko Epson Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Daito Trust Construction Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Atlas Arteria ORD",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0001
+    },
+    {
+      "company": "SSAB AB",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "MTR Corporation Ltd.",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Mondi Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0001
+    },
+    {
+      "company": "NIBE Industrier AB B (SEK)",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Currency Hedging",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0039
+    }
+  ]
+}

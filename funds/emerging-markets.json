@@ -1,0 +1,19 @@
+{
+  "title": "Emerging Markets",
+  "slug": "emerging-markets",
+  "summary": "Own your share of the fastest growing economies across the globe.",
+  "holdings": [
+    {
+      "company": "SPDR Portfolio Emerging Markets ETF",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 1.0002
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": -0.0002
+    }
+  ]
+}

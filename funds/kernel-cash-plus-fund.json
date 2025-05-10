@@ -1,0 +1,13 @@
+{
+  "title": "Cash Plus",
+  "slug": "kernel-cash-plus-fund",
+  "summary": "Made up of short-term interest bearing assets and other NZ fixed income and floating rate note assets.",
+  "holdings": [
+    {
+      "company": "Cash Plus Fund",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 1.0
+    }
+  ]
+}

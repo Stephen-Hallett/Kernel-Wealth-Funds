@@ -1,0 +1,283 @@
+{
+  "title": "NZ 50 ESG Tilted",
+  "slug": "nz-50-esg-tilted",
+  "summary": "This fund includes and adjusts companies in the S&P/NZX 50 according to sustainability factors.",
+  "holdings": [
+    {
+      "company": "Fisher & Paykel Healthcare Corp Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.1187
+    },
+    {
+      "company": "Auckland International Airport",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.1109
+    },
+    {
+      "company": "Fletcher Building Ltd (NZ Registry)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.1097
+    },
+    {
+      "company": "Contact Energy Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0812
+    },
+    {
+      "company": "Meridian Energy",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0665
+    },
+    {
+      "company": "The a2 Milk Company Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0596
+    },
+    {
+      "company": "Chorus Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0376
+    },
+    {
+      "company": "Fonterra Shareholders' Fund",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0353
+    },
+    {
+      "company": "Goodman Property Trust",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0307
+    },
+    {
+      "company": "Spark New Zealand Limited (NZ Registered)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0289
+    },
+    {
+      "company": "Kiwi Property Group Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0264
+    },
+    {
+      "company": "Infratil Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0262
+    },
+    {
+      "company": "Mercury NZ Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0259
+    },
+    {
+      "company": "Precinct Properties New Zealand Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0236
+    },
+    {
+      "company": "ANZ (NZ Register)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0221
+    },
+    {
+      "company": "EBOS",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0173
+    },
+    {
+      "company": "Mainfreight Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0172
+    },
+    {
+      "company": "Summerset Group Holdings Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0166
+    },
+    {
+      "company": "Westpac Banking Corporation (NZ Register)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.013
+    },
+    {
+      "company": "Property for Industry Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0123
+    },
+    {
+      "company": "Ryman Healthcare Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0115
+    },
+    {
+      "company": "Stride Property Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0092
+    },
+    {
+      "company": "Air New Zealand Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0091
+    },
+    {
+      "company": "Vista Group International Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0086
+    },
+    {
+      "company": "Vital Healthcare Property",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0083
+    },
+    {
+      "company": "Vulcan Steel ORD (NZ Registry)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.008
+    },
+    {
+      "company": "Serko Limited (NZ Register)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0071
+    },
+    {
+      "company": "Argosy Property Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0065
+    },
+    {
+      "company": "Port of Tauranga",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0064
+    },
+    {
+      "company": "Freightways Group ORD",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0063
+    },
+    {
+      "company": "Hallenstein Glasson Holdings Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0054
+    },
+    {
+      "company": "Sanford Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.005
+    },
+    {
+      "company": "Turners Automotive Group Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0048
+    },
+    {
+      "company": "KMD Brands Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0038
+    },
+    {
+      "company": "Skellerup Holdings Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0033
+    },
+    {
+      "company": "Scales Corporation Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0031
+    },
+    {
+      "company": "Oceania Healthcare Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Investore Property Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0026
+    },
+    {
+      "company": "Vector Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Tourism Holdings Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.002
+    },
+    {
+      "company": "The Warehouse Group Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0013
+    },
+    {
+      "company": "NZX Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Heartland Group Holdings Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Sky Network Television Ltd (NZ Registry)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Manawa Energy Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0004
+    }
+  ]
+}

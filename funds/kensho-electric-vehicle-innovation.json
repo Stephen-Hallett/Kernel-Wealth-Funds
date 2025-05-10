@@ -1,0 +1,235 @@
+{
+  "title": "S&P Kensho Electric Vehicle Innovation",
+  "slug": "kensho-electric-vehicle-innovation",
+  "summary": "Invest in a diversified mix of global companies involved in the electric vehicles sector and the ecosystems supporting it – energy storage systems, clean fuel technology, charging infrastructure and more.",
+  "holdings": [
+    {
+      "company": "XPeng Inc. ADR Class A",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0575
+    },
+    {
+      "company": "Dana Incorporated",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0529
+    },
+    {
+      "company": "Rivian Automotive Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0438
+    },
+    {
+      "company": "Lucid Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0388
+    },
+    {
+      "company": "Garrett Motion Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0374
+    },
+    {
+      "company": "Li Auto Inc.-A",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0348
+    },
+    {
+      "company": "Honda Motor Co ADR",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0332
+    },
+    {
+      "company": "Tesla Inc Ordinary Shares",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0307
+    },
+    {
+      "company": "Polestar Automotive Holding Class A ADS",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0305
+    },
+    {
+      "company": "Cummins Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.03
+    },
+    {
+      "company": "General Motors Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0292
+    },
+    {
+      "company": "VinFast Auto Ltd",
+      "countryName": "Vietnam",
+      "countryCode": "VN",
+      "proportion": 0.029
+    },
+    {
+      "company": "Visteon Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0285
+    },
+    {
+      "company": "Borgwarner Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0281
+    },
+    {
+      "company": "Allison Transmission Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0279
+    },
+    {
+      "company": "Ballard Power Systems Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0278
+    },
+    {
+      "company": "ArcelorMittal Inc",
+      "countryName": "Luxembourg",
+      "countryCode": "LU",
+      "proportion": 0.0276
+    },
+    {
+      "company": "SolarEdge Technologies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0268
+    },
+    {
+      "company": "NIO Inc-ADR",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.026
+    },
+    {
+      "company": "REV Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.026
+    },
+    {
+      "company": "Toyota Motor Corp ADR",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0245
+    },
+    {
+      "company": "Plug Power Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0234
+    },
+    {
+      "company": "American Axle & Manufacturing Holdings",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0224
+    },
+    {
+      "company": "Lear Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0222
+    },
+    {
+      "company": "Ford Motor Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0218
+    },
+    {
+      "company": "PACCAR Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0204
+    },
+    {
+      "company": "Gentherm Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0202
+    },
+    {
+      "company": "Enphase Energy Inc (NASDAQ)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0202
+    },
+    {
+      "company": "Textron Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.02
+    },
+    {
+      "company": "Stellantis Ordinary Shares",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0197
+    },
+    {
+      "company": "ON Semiconductor Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0192
+    },
+    {
+      "company": "Blue Bird Corporation (Common)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0189
+    },
+    {
+      "company": "Hyster-Yale Materials Handling Inc A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.018
+    },
+    {
+      "company": "Sensata Technologies Holding plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0177
+    },
+    {
+      "company": "Blink Charging Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0164
+    },
+    {
+      "company": "Modine Manufacturing Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.015
+    },
+    {
+      "company": "Aspen Aerogels Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0129
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0006
+    }
+  ]
+}

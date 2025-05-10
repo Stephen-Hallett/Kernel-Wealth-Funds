@@ -1,0 +1,313 @@
+{
+  "title": "S&P Kensho Moonshots Innovation",
+  "slug": "kensho-moonshots-innovation",
+  "summary": "Own your share of 50 of the most innovative US-listed companies at the forefront of disruptive themes changing our tomorrow, e.g. Virgin Galactic Holdings, iRobot, Microvision and more.",
+  "holdings": [
+    {
+      "company": "Ehang Holdings ADR",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0373
+    },
+    {
+      "company": "Okta Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0338
+    },
+    {
+      "company": "Eos Energy Enterprises Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0321
+    },
+    {
+      "company": "Robinhood Markets Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.03
+    },
+    {
+      "company": "Cyber-Ark Software Ltd/Israel",
+      "countryName": "Israel",
+      "countryCode": "IL",
+      "proportion": 0.0285
+    },
+    {
+      "company": "Baidu Inc ",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0281
+    },
+    {
+      "company": "Lucid Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0272
+    },
+    {
+      "company": "Couchbase Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0268
+    },
+    {
+      "company": "Roblox Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0266
+    },
+    {
+      "company": "Bilibili ADS",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0258
+    },
+    {
+      "company": "Ouster Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0255
+    },
+    {
+      "company": "Dropbox Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0243
+    },
+    {
+      "company": "Silicon Laboratories Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0238
+    },
+    {
+      "company": "Rumble Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0237
+    },
+    {
+      "company": "Planet Labs PBC Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0234
+    },
+    {
+      "company": "Roku, Inc. ",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0234
+    },
+    {
+      "company": "Varonis Systems Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.023
+    },
+    {
+      "company": "Roivant Sciences Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0228
+    },
+    {
+      "company": "Avidity Biosciences Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0227
+    },
+    {
+      "company": "Inspire Medical Systems Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0225
+    },
+    {
+      "company": "Red Cat Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.022
+    },
+    {
+      "company": "SentinelOne Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0211
+    },
+    {
+      "company": "Rocket Lab USA Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0209
+    },
+    {
+      "company": "Unity Software Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0202
+    },
+    {
+      "company": "Snap, Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0198
+    },
+    {
+      "company": "Verve Therapeutics Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0198
+    },
+    {
+      "company": "Vimeo Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0197
+    },
+    {
+      "company": "Recursion Pharmaceuticals Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0191
+    },
+    {
+      "company": "Ambarella Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.019
+    },
+    {
+      "company": "Allogene Therapeutics Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0186
+    },
+    {
+      "company": "Butterfly Network Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0173
+    },
+    {
+      "company": "Microvision Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0172
+    },
+    {
+      "company": "Bandwidth Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0171
+    },
+    {
+      "company": "IDEAYA Biosciences Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0165
+    },
+    {
+      "company": "Fastly CL A ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0164
+    },
+    {
+      "company": "Asana Inc. Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0164
+    },
+    {
+      "company": "MongoDB Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0161
+    },
+    {
+      "company": "Upstart Holdings Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.016
+    },
+    {
+      "company": "Trump Media Technology Group Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0147
+    },
+    {
+      "company": "Autolus Therapeutics PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0146
+    },
+    {
+      "company": "Intellia Therapeutic Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0138
+    },
+    {
+      "company": "4D Molecular Therapeutics Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0128
+    },
+    {
+      "company": "Flywire Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0128
+    },
+    {
+      "company": "Jumia Technologies ADR",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0124
+    },
+    {
+      "company": "Indie Semiconductor Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0123
+    },
+    {
+      "company": "Iovance Biotherapeutics Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0106
+    },
+    {
+      "company": "Nano Dimension Ltd ADR",
+      "countryName": "Israel",
+      "countryCode": "IL",
+      "proportion": 0.009
+    },
+    {
+      "company": "iRobot Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0085
+    },
+    {
+      "company": "Ballard Power Systems Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0082
+    },
+    {
+      "company": "Lightwave Logic Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0072
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": -0.0012
+    }
+  ]
+}

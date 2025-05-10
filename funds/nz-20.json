@@ -1,0 +1,133 @@
+{
+  "title": "NZ 20",
+  "slug": "nz-20",
+  "summary": "Designed for long-term capital growth, the NZ 20 fund invests in 20 of the largest companies listed on the NZX.",
+  "holdings": [
+    {
+      "company": "Fisher & Paykel Healthcare Corp Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.1519
+    },
+    {
+      "company": "Auckland International Airport",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.1364
+    },
+    {
+      "company": "Infratil Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0998
+    },
+    {
+      "company": "Contact Energy Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0726
+    },
+    {
+      "company": "Meridian Energy",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.071
+    },
+    {
+      "company": "The a2 Milk Company Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0627
+    },
+    {
+      "company": "EBOS",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0604
+    },
+    {
+      "company": "Mainfreight Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0524
+    },
+    {
+      "company": "Spark New Zealand Limited (NZ Registered)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0375
+    },
+    {
+      "company": "Mercury NZ Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0373
+    },
+    {
+      "company": "Chorus Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0348
+    },
+    {
+      "company": "Fletcher Building Ltd (NZ Registry)",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0348
+    },
+    {
+      "company": "Summerset Group Holdings Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0268
+    },
+    {
+      "company": "Ryman Healthcare Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0247
+    },
+    {
+      "company": "Port of Tauranga",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0206
+    },
+    {
+      "company": "Goodman Property Trust",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0194
+    },
+    {
+      "company": "Precinct Properties New Zealand Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0176
+    },
+    {
+      "company": "Freightways Group ORD",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0174
+    },
+    {
+      "company": "Kiwi Property Group Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0139
+    },
+    {
+      "company": "Sky City Entertainment Group Limited",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0095
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": -0.0017
+    }
+  ]
+}

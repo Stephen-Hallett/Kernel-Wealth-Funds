@@ -1,0 +1,325 @@
+{
+  "title": "S&P Global Clean Energy",
+  "slug": "global-clean-energy",
+  "summary": "Invests in global companies involved in the production or provision of Clean Energy.",
+  "holdings": [
+    {
+      "company": "Vestas Wind Systems AS (EUR)",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.0848
+    },
+    {
+      "company": "Iberdrola SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0708
+    },
+    {
+      "company": "SSE Plc Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0655
+    },
+    {
+      "company": "Energias de Portugal SA",
+      "countryName": "Portugal",
+      "countryCode": "PT",
+      "proportion": 0.0559
+    },
+    {
+      "company": "First Solar Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0545
+    },
+    {
+      "company": "E.ON SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0537
+    },
+    {
+      "company": "Enphase Energy Inc (NASDAQ)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0523
+    },
+    {
+      "company": "Chubu Electric Power Co Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0485
+    },
+    {
+      "company": "Orsted (EUR)",
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "proportion": 0.047
+    },
+    {
+      "company": "Nextracker Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0381
+    },
+    {
+      "company": "Edison Intl",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0349
+    },
+    {
+      "company": "GE Vernova Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0343
+    },
+    {
+      "company": "Snam SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0334
+    },
+    {
+      "company": "Ormat Technologies",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0256
+    },
+    {
+      "company": "Fortum Oyj",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0226
+    },
+    {
+      "company": "Northland Power Inc.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0167
+    },
+    {
+      "company": "EDP Renovaveis SA",
+      "countryName": "Portugal",
+      "countryCode": "PT",
+      "proportion": 0.0158
+    },
+    {
+      "company": "Clearway Energy Inc Class C",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0158
+    },
+    {
+      "company": "Centrais Electricas Brasileiras SA ADR",
+      "countryName": "Brazil",
+      "countryCode": "BR",
+      "proportion": 0.0155
+    },
+    {
+      "company": "Brookfield Renewable Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0141
+    },
+    {
+      "company": "VERBUND AG",
+      "countryName": "Austria",
+      "countryCode": "AT",
+      "proportion": 0.0132
+    },
+    {
+      "company": "BKW SA Ord",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0129
+    },
+    {
+      "company": "Neste Oyj",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0125
+    },
+    {
+      "company": "Algonquin Power & Utilities Corp.",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0124
+    },
+    {
+      "company": "Nordex SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0121
+    },
+    {
+      "company": "Boralex Inc. 'A'",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.011
+    },
+    {
+      "company": "Acciona SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0101
+    },
+    {
+      "company": "Innergex Renewable Energy Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.009
+    },
+    {
+      "company": "Conch Venture ORD",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.009
+    },
+    {
+      "company": "Central New Energy Holding Group Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0073
+    },
+    {
+      "company": "Plug Power Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0072
+    },
+    {
+      "company": "Meridian Energy",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0072
+    },
+    {
+      "company": "Enlight Renewable Energy Ltd",
+      "countryName": "Israel",
+      "countryCode": "IL",
+      "proportion": 0.007
+    },
+    {
+      "company": "ERG SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0063
+    },
+    {
+      "company": "Sunrun Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0062
+    },
+    {
+      "company": "SolarEdge Technologies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0059
+    },
+    {
+      "company": "Cia Energetica de Minas Gerais Pref ADR",
+      "countryName": "Brazil",
+      "countryCode": "BR",
+      "proportion": 0.0056
+    },
+    {
+      "company": "Contact Energy Ltd",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0055
+    },
+    {
+      "company": "Array Technologies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0044
+    },
+    {
+      "company": "China Datang Corp Renewable Power Co Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0042
+    },
+    {
+      "company": "Corporacion Acciona Energias Renovables SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0041
+    },
+    {
+      "company": "Solaria Energia y Medioambiente SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0037
+    },
+    {
+      "company": "Rex American Resources ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0037
+    },
+    {
+      "company": "Shoals Technologies Group, Inc. Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Goldwind Science & Technology Co Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0031
+    },
+    {
+      "company": "Canadian Solar Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0026
+    },
+    {
+      "company": "Renew Energy Global CL A ORD",
+      "countryName": "India",
+      "countryCode": "IN",
+      "proportion": 0.0025
+    },
+    {
+      "company": "NEL ASA",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0023
+    },
+    {
+      "company": "SMA Solar Technology AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0019
+    },
+    {
+      "company": "Altus Power Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "RENOVA Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Sunnova Energy International Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0008
+    }
+  ]
+}

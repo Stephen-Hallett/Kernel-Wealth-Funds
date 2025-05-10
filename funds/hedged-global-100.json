@@ -1,0 +1,619 @@
+{
+  "title": "Global 100 (NZD Hedged)",
+  "slug": "hedged-global-100",
+  "summary": " \n\nOwn your piece of 100 blue chip companies across major equity markets, hedged against currency fluctuations. The biggest household names, they provide global diversification and long-term capital growth. ",
+  "holdings": [
+    {
+      "company": "Apple Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.1197
+    },
+    {
+      "company": "Microsoft",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.1001
+    },
+    {
+      "company": "Nvidia Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0952
+    },
+    {
+      "company": "Amazon.com Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0644
+    },
+    {
+      "company": "Alphabet Inc Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0324
+    },
+    {
+      "company": "Broadcom Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0282
+    },
+    {
+      "company": "Alphabet Inc Class C",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0265
+    },
+    {
+      "company": "JPMorgan Chase & Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0246
+    },
+    {
+      "company": "Eli Lilly ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0234
+    },
+    {
+      "company": "Exxon Mobil Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0186
+    },
+    {
+      "company": "Mastercard Inc Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.016
+    },
+    {
+      "company": "Procter & Gamble Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0143
+    },
+    {
+      "company": "Johnson & Johnson",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0143
+    },
+    {
+      "company": "Tencent",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0141
+    },
+    {
+      "company": "Wal-Mart Stores Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0137
+    },
+    {
+      "company": "Chevron Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.01
+    },
+    {
+      "company": "The Coca-Cola Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.01
+    },
+    {
+      "company": "SAP SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0097
+    },
+    {
+      "company": "Nestle SA (CH Registry)",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0095
+    },
+    {
+      "company": "ASML Holdings ORD",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0093
+    },
+    {
+      "company": "Philip Morris International",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0089
+    },
+    {
+      "company": "Cisco Systems Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0088
+    },
+    {
+      "company": "Roche Hldgs AG Ptg Genus",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0083
+    },
+    {
+      "company": "Abbott Laboratories",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0083
+    },
+    {
+      "company": "International Business Machines Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0083
+    },
+    {
+      "company": "Merck & Co Inc Common Stock",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0081
+    },
+    {
+      "company": "Astrazeneca PLC ORD Shs",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0081
+    },
+    {
+      "company": "McDonald's Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.008
+    },
+    {
+      "company": "Shell Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.008
+    },
+    {
+      "company": "Linde PLC",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.008
+    },
+    {
+      "company": "Novartis AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0078
+    },
+    {
+      "company": "Toyota Motor Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0077
+    },
+    {
+      "company": "General Electric Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0077
+    },
+    {
+      "company": "PepsiCo Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0074
+    },
+    {
+      "company": "HSBC Holdings PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0072
+    },
+    {
+      "company": "Accenture plc A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.007
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0068
+    },
+    {
+      "company": "Samsung Electronics",
+      "countryName": "Korea, Republic of",
+      "countryCode": "KR",
+      "proportion": 0.0068
+    },
+    {
+      "company": "Siemens AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0062
+    },
+    {
+      "company": "Goldman Sachs Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0061
+    },
+    {
+      "company": "Qualcomm ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0061
+    },
+    {
+      "company": "Servicenow Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0059
+    },
+    {
+      "company": "Texas Instruments Incorporated",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0059
+    },
+    {
+      "company": "Mitsubishi UFJ Financial Group Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0058
+    },
+    {
+      "company": "LVMH-Moet Vuitton",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0057
+    },
+    {
+      "company": "Caterpillar Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0057
+    },
+    {
+      "company": "Sony Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0056
+    },
+    {
+      "company": "Unilever PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0054
+    },
+    {
+      "company": "Allianz SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0053
+    },
+    {
+      "company": "Morgan Stanley ORD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0052
+    },
+    {
+      "company": "Total SE",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0052
+    },
+    {
+      "company": "Pfizer Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0052
+    },
+    {
+      "company": "Citigroup Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0048
+    },
+    {
+      "company": "Deutsche Telekom AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0046
+    },
+    {
+      "company": "Bristol-Myers Squibb",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0044
+    },
+    {
+      "company": "Schneider Electric SE Ordinary",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0044
+    },
+    {
+      "company": "Sanofi SA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0044
+    },
+    {
+      "company": "BHP Group Ltd (AU register)",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0043
+    },
+    {
+      "company": "Marsh & McLennan Companies",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0043
+    },
+    {
+      "company": "American Tower Corp A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0036
+    },
+    {
+      "company": "Banco Santander Common Shares",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0036
+    },
+    {
+      "company": "Intel Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0035
+    },
+    {
+      "company": "UBS Group AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0035
+    },
+    {
+      "company": "BP PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0032
+    },
+    {
+      "company": "Aon plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0031
+    },
+    {
+      "company": "L'oreal Ordinary Shares",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0031
+    },
+    {
+      "company": "Munich Re AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.003
+    },
+    {
+      "company": "ABB Ltd",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0029
+    },
+    {
+      "company": "3M Company",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0029
+    },
+    {
+      "company": "GSK PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Banco Bilbao Vizcaya Argentaria SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Colgate-Palmolive Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Nike INC - CL B",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "company": "AXA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0026
+    },
+    {
+      "company": "National Grid PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Rio Tinto PLC Ord (UK Register)",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Emerson Electric Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0022
+    },
+    {
+      "company": "ING Groep NV",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0022
+    },
+    {
+      "company": "Diageo PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Barclays PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0019
+    },
+    {
+      "company": "Johnson Controls International plc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0019
+    },
+    {
+      "company": "Saint-Gobain Cie de",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Swiss Re Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Kimberly-Clark",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0017
+    },
+    {
+      "company": "Deutsche Bank AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0016
+    },
+    {
+      "company": "BASF SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Honda Motor Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Mercedes-Benz Group AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0015
+    },
+    {
+      "company": "Ford Motor Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Anglo American PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0013
+    },
+    {
+      "company": "Seven & I Holdings Co Ltd",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0012
+    },
+    {
+      "company": "Engie",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0012
+    },
+    {
+      "company": "E.ON SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0012
+    },
+    {
+      "company": "DuPont De Nemours Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Canon Inc",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Prudential PLC Ord (GBP)",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.001
+    },
+    {
+      "company": "HP Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Bridgestone Corp",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Bayer AG-REG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0008
+    },
+    {
+      "company": "Roche Hldgs AG Br",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0039
+    },
+    {
+      "company": "Currency Hedging",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0056
+    }
+  ]
+}

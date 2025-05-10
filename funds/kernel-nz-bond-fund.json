@@ -1,0 +1,13 @@
+{
+  "title": "NZ Bond",
+  "slug": "kernel-nz-bond-fund",
+  "summary": "Invests primarily in New Zealand issued bonds, deposits and more. ",
+  "holdings": [
+    {
+      "company": "Coming Soon",
+      "countryName": null,
+      "countryCode": null,
+      "proportion": 0.0
+    }
+  ]
+}

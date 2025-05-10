@@ -1,0 +1,613 @@
+{
+  "title": "Global Infrastructure (NZD Hedged)",
+  "slug": "hedged-global-infrastructure",
+  "summary": "A globally diversified investment in mostly infrastructure lines of business, e.g. utilities, storage and telecommunications, providing relatively stable cash flow, inflation hedging and also hedged against currency fluctuations.",
+  "holdings": [
+    {
+      "company": "Enbridge Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0751
+    },
+    {
+      "company": "American Tower Corp A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0626
+    },
+    {
+      "company": "National Grid PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0497
+    },
+    {
+      "company": "Vinci Ord",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0496
+    },
+    {
+      "company": "The Williams Companies Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0448
+    },
+    {
+      "company": "TC Energy Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0382
+    },
+    {
+      "company": "ONEOK Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0379
+    },
+    {
+      "company": "Kinder Morgan Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0339
+    },
+    {
+      "company": "Cheniere Energy Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0319
+    },
+    {
+      "company": "Exelon Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0285
+    },
+    {
+      "company": "Crown Castle Intl Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0279
+    },
+    {
+      "company": "Sempra Energy",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0278
+    },
+    {
+      "company": "Targa Resources Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0269
+    },
+    {
+      "company": "Consolidated Edison Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0236
+    },
+    {
+      "company": "PG&E Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0232
+    },
+    {
+      "company": "Transurban Group Stapled",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0202
+    },
+    {
+      "company": "Pembina Pipeline Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0181
+    },
+    {
+      "company": "Fortis Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0177
+    },
+    {
+      "company": "American Water Works Co Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0177
+    },
+    {
+      "company": "Ferrovial SE Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0169
+    },
+    {
+      "company": "Cellnex Telecom SA Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0162
+    },
+    {
+      "company": "Atmos Energy Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0151
+    },
+    {
+      "company": "SBA Communications Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0146
+    },
+    {
+      "company": "Centerpoint Energy Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0145
+    },
+    {
+      "company": "Edison Intl",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.014
+    },
+    {
+      "company": "Eversource Energy",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.014
+    },
+    {
+      "company": "Aena SME SA Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0134
+    },
+    {
+      "company": "Nisource Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0116
+    },
+    {
+      "company": "Terna SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0099
+    },
+    {
+      "company": "Tokyo Gas Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0086
+    },
+    {
+      "company": "Hydro One Limited",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0083
+    },
+    {
+      "company": "Snam SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0083
+    },
+    {
+      "company": "Hong Kong and China Gas Co Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0073
+    },
+    {
+      "company": "United Utilities Group PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0069
+    },
+    {
+      "company": "Severn Trent PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0067
+    },
+    {
+      "company": "Cia de Saneamento Basico Es de S Paulo ADR",
+      "countryName": "Brazil",
+      "countryCode": "BR",
+      "proportion": 0.0064
+    },
+    {
+      "company": "Red Electrica Corporacion SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0063
+    },
+    {
+      "company": "Essential Utilities Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0061
+    },
+    {
+      "company": "Auckland International Airport",
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "proportion": 0.0061
+    },
+    {
+      "company": "DT Midstream Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.006
+    },
+    {
+      "company": "Grupo Aeroportuario del Pacifico S A B de C V ADR",
+      "countryName": "Mexico",
+      "countryCode": "MX",
+      "proportion": 0.0059
+    },
+    {
+      "company": "Keyera Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0055
+    },
+    {
+      "company": "APA Group Stapled",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.005
+    },
+    {
+      "company": "ENN Energy Holdings Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0049
+    },
+    {
+      "company": "China Tower Corporation Ltd - H Shares",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0049
+    },
+    {
+      "company": "Getlink SE Ord",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0042
+    },
+    {
+      "company": "South Bow Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0041
+    },
+    {
+      "company": "Grupo Aeroportuario del Sureste SAB de CV B ADR",
+      "countryName": "Mexico",
+      "countryCode": "MX",
+      "proportion": 0.0037
+    },
+    {
+      "company": "Antero Midstream Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0037
+    },
+    {
+      "company": "Flughafen Zurich AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0035
+    },
+    {
+      "company": "Naturgy Energy Group SA",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0034
+    },
+    {
+      "company": "Brookfield Infrastructure Corporation Class A",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0034
+    },
+    {
+      "company": "ADP Promesses",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0031
+    },
+    {
+      "company": "New Jersey Resources Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.003
+    },
+    {
+      "company": "INWIT - Infrastrutture Wireless Spa",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Spire Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Kunlun Energy Co. Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Italgas SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Southwest Gas Holdings Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "company": "Enagas SA Ord",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0026
+    },
+    {
+      "company": "ONE Gas Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0026
+    },
+    {
+      "company": "Atlas Arteria ORD",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0025
+    },
+    {
+      "company": "Elia Group Ord",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0023
+    },
+    {
+      "company": "HICL Infrastructure Co Ltd",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0023
+    },
+    {
+      "company": "Northwestern Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0022
+    },
+    {
+      "company": "Pennon Group Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0021
+    },
+    {
+      "company": "China Resources Gas Group Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Grupo Aeroportuario Cen-Adr",
+      "countryName": "Mexico",
+      "countryCode": "MX",
+      "proportion": 0.0021
+    },
+    {
+      "company": "3i Infrastructure Plc",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Vopak NV",
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Toho Gas Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.002
+    },
+    {
+      "company": "Japan Airport Terminal Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.002
+    },
+    {
+      "company": "Gibson Energy Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.002
+    },
+    {
+      "company": "China Gas Holdings Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0019
+    },
+    {
+      "company": "American States Water Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "Chesapeake Utilities Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "California Water Services Group",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0018
+    },
+    {
+      "company": "SES SA",
+      "countryName": "Luxembourg",
+      "countryCode": "LU",
+      "proportion": 0.0016
+    },
+    {
+      "company": "China Merchants Port Holdings Co Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0016
+    },
+    {
+      "company": "Fraport AG",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0015
+    },
+    {
+      "company": "Beijing Enterprises Holdings Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0014
+    },
+    {
+      "company": "Jiangsu Expressway Co Ltd H Shares",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0011
+    },
+    {
+      "company": "Northwest Natural Holding Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "company": "SJW Group",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.001
+    },
+    {
+      "company": "Beijing Enterprises Water Group Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.001
+    },
+    {
+      "company": "Helios Towers PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0009
+    },
+    {
+      "company": "Acea Spa Ord",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0007
+    },
+    {
+      "company": "New Fortress Energy Class A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "company": "Hutchison Port Holdings Trust",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0007
+    },
+    {
+      "company": "COSCO SHIPPING Ports Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0006
+    },
+    {
+      "company": "UNITIL Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
+    },
+    {
+      "company": "China Water Affairs Group Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Beijing Capital International Airport Co. Ltd. - H Shares",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Rai Way Spa",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0005
+    },
+    {
+      "company": "Westshore Terminals Investment Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Corporacion America Airports SA",
+      "countryName": "Luxembourg",
+      "countryCode": "LU",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Shenzhen Expressway Co Ltd H Shares",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0004
+    },
+    {
+      "company": "Yuexiu Transport Infrastructure Ltd",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0003
+    },
+    {
+      "company": "Elia Group Ord Rights",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0001
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": -0.0023
+    },
+    {
+      "company": "Currency Hedging",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0017
+    }
+  ]
+}

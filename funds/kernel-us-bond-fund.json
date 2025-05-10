@@ -1,0 +1,25 @@
+{
+  "title": "US Bond",
+  "slug": "kernel-us-bond-fund",
+  "summary": "Invest in the world’s biggest bond market, hedged to the New Zealand dollar. ",
+  "holdings": [
+    {
+      "company": "iShares Core US Aggregate Bond ETF",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.9888
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0006
+    },
+    {
+      "company": "Currency Hedging",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0106
+    }
+  ]
+}

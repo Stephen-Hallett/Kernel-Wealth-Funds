@@ -1,0 +1,535 @@
+{
+  "title": "S&P Global Dividend Aristocrats",
+  "slug": "global-dividend-aristocrats",
+  "summary": "After a strong, regular distribution payment? Look no further than Dividend Aristocrats. This Fund includes global companies that have a record of maintaining a high dividend over a sustained period of time.",
+  "holdings": [
+    {
+      "company": "Altria Group Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0289
+    },
+    {
+      "company": "Verizon Communications Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0247
+    },
+    {
+      "company": "CVS Health Corporation",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0238
+    },
+    {
+      "company": "LTC Properties",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0213
+    },
+    {
+      "company": "LyondellBasell Industries CL A Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0207
+    },
+    {
+      "company": "Universal Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0206
+    },
+    {
+      "company": "APA Group Stapled",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0203
+    },
+    {
+      "company": "Highwoods Properties",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0202
+    },
+    {
+      "company": "Getty Realty Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.02
+    },
+    {
+      "company": "Western Union Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0199
+    },
+    {
+      "company": "Pfizer Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0198
+    },
+    {
+      "company": "AES Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0191
+    },
+    {
+      "company": "Avista Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0188
+    },
+    {
+      "company": "Bouygues",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0179
+    },
+    {
+      "company": "Amcor Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.017
+    },
+    {
+      "company": "Northwest Natural Holding Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0167
+    },
+    {
+      "company": "Northwestern Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0166
+    },
+    {
+      "company": "Spire Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0163
+    },
+    {
+      "company": "Portland General Electric Co",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0155
+    },
+    {
+      "company": "Boston Properties Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0153
+    },
+    {
+      "company": "Chevron Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0151
+    },
+    {
+      "company": "Energias de Portugal SA",
+      "countryName": "Portugal",
+      "countryCode": "PT",
+      "proportion": 0.0149
+    },
+    {
+      "company": "Black Hills Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0147
+    },
+    {
+      "company": "HA Sustainable Infrastructure Capital Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0145
+    },
+    {
+      "company": "Flowers Foods Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0139
+    },
+    {
+      "company": "Deutsche Post N ORD",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0138
+    },
+    {
+      "company": "LondonMetric Property PLC",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0137
+    },
+    {
+      "company": "United Parcel Service Inc B",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0135
+    },
+    {
+      "company": "MSC Industrial Direct Class A",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0134
+    },
+    {
+      "company": "Franklin Resources Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0133
+    },
+    {
+      "company": "Warehouses De Pauw SCA",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0133
+    },
+    {
+      "company": "Whirlpool Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0131
+    },
+    {
+      "company": "Elisa Corporation",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0128
+    },
+    {
+      "company": "Valmet OYJ",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0125
+    },
+    {
+      "company": "TELUS Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0121
+    },
+    {
+      "company": "Northwest Bancshares Inc.",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0121
+    },
+    {
+      "company": "Legal & General Group PLC Ord",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0118
+    },
+    {
+      "company": "Deluxe Corp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0118
+    },
+    {
+      "company": "Takeda Pharmaceutical Ord",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0117
+    },
+    {
+      "company": "FMC Corporation Ordinary Shares",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0116
+    },
+    {
+      "company": "First Interstate Bancsystem Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0112
+    },
+    {
+      "company": "Teleperformance",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0111
+    },
+    {
+      "company": "Ono Pharmaceutical Co",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0111
+    },
+    {
+      "company": "Polaris Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0109
+    },
+    {
+      "company": "Japan Real Estate Invest Corp JREIT",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0106
+    },
+    {
+      "company": "DNB Bank ASA",
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "proportion": 0.0106
+    },
+    {
+      "company": "Enel SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0105
+    },
+    {
+      "company": "Columbia Banking System Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0101
+    },
+    {
+      "company": "Provident Financial Services",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.01
+    },
+    {
+      "company": "Wesbanco Inc (VA)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0096
+    },
+    {
+      "company": "KeyCorp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0096
+    },
+    {
+      "company": "Valley National Bancorp",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0096
+    },
+    {
+      "company": "Comerica Inc (MI)",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0094
+    },
+    {
+      "company": "Navient Ord",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0093
+    },
+    {
+      "company": "Schroders ORD",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0089
+    },
+    {
+      "company": "Emera Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0088
+    },
+    {
+      "company": "Hope Bancorp Inc",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0086
+    },
+    {
+      "company": "Canadian Utilities Ltd A NV",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0082
+    },
+    {
+      "company": "Pembina Pipeline Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0081
+    },
+    {
+      "company": "Sino Land Co. Ltd.",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0077
+    },
+    {
+      "company": "Henderson Land Development Co Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0076
+    },
+    {
+      "company": "Terna SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0073
+    },
+    {
+      "company": "Keyera Corp",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0072
+    },
+    {
+      "company": "Canadian Natural Resources Ltd",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0072
+    },
+    {
+      "company": "TC Energy Corporation",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0071
+    },
+    {
+      "company": "ERG SpA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.007
+    },
+    {
+      "company": "Banque Cant Vaudoise Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0069
+    },
+    {
+      "company": "Zurich Insurance Group AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0068
+    },
+    {
+      "company": "Cembra Money Bank AG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0068
+    },
+    {
+      "company": "Allianz SE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0067
+    },
+    {
+      "company": "A2A ORD",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0066
+    },
+    {
+      "company": "Baloise N Ord",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0065
+    },
+    {
+      "company": "Swiss Life Reg",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0064
+    },
+    {
+      "company": "Canadian Tire Corporation ORD (Class A)",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0064
+    },
+    {
+      "company": "Rogers Communications Inc B",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0062
+    },
+    {
+      "company": "Magna International Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0056
+    },
+    {
+      "company": "Julius Baer Group",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0054
+    },
+    {
+      "company": "IG Group Holdings",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0052
+    },
+    {
+      "company": "CLP Holdings Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0048
+    },
+    {
+      "company": "Power Assets Holdings Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0047
+    },
+    {
+      "company": "CK Infrastructure Holdings Ltd",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0037
+    },
+    {
+      "company": "Power Corporation of Canada",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0029
+    },
+    {
+      "company": "Toronto-Dominion Bank (US)",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Great-West Lifeco Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0028
+    },
+    {
+      "company": "Bank of Nova Scotia Halifax",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0025
+    },
+    {
+      "company": "IGM Financial Inc",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0024
+    },
+    {
+      "company": "Bank of Montreal Ord",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0021
+    },
+    {
+      "company": "Cash & Cash Equivalents",
+      "countryName": "",
+      "countryCode": "",
+      "proportion": 0.0015
+    }
+  ]
+}
