@@ -4,127 +4,148 @@
   "summary": "Designed for long-term capital growth, the NZ 20 fund invests in 20 of the largest companies listed on the NZX.",
   "holdings": [
     {
-      "company": "Fisher & Paykel Healthcare Corp Ltd",
+      "name": "Fisher & Paykel Healthcare Corp Ltd",
+      "ticker": "FPH.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1519
     },
     {
-      "company": "Auckland International Airport",
+      "name": "Auckland International Airport",
+      "ticker": "AIA.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.1364
     },
     {
-      "company": "Infratil Limited",
+      "name": "Infratil Limited",
+      "ticker": "IFT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0998
     },
     {
-      "company": "Contact Energy Ltd",
+      "name": "Contact Energy Ltd",
+      "ticker": "CEN.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0726
     },
     {
-      "company": "Meridian Energy",
+      "name": "Meridian Energy",
+      "ticker": "MEL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.071
     },
     {
-      "company": "The a2 Milk Company Ltd",
+      "name": "The a2 Milk Company Ltd",
+      "ticker": "ATM.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0627
     },
     {
-      "company": "EBOS",
+      "name": "EBOS",
+      "ticker": "EBO.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0604
     },
     {
-      "company": "Mainfreight Limited",
+      "name": "Mainfreight Limited",
+      "ticker": "MFT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0524
     },
     {
-      "company": "Spark New Zealand Limited (NZ Registered)",
+      "name": "Spark New Zealand Limited (NZ Registered)",
+      "ticker": "SPK.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0375
     },
     {
-      "company": "Mercury NZ Limited",
+      "name": "Mercury NZ Limited",
+      "ticker": "MCY.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0373
     },
     {
-      "company": "Chorus Ltd",
+      "name": "Chorus Ltd",
+      "ticker": "CNU.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0348
     },
     {
-      "company": "Fletcher Building Ltd (NZ Registry)",
+      "name": "Fletcher Building Ltd (NZ Registry)",
+      "ticker": "FBU.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0348
     },
     {
-      "company": "Summerset Group Holdings Limited",
+      "name": "Summerset Group Holdings Limited",
+      "ticker": "SUM.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0268
     },
     {
-      "company": "Ryman Healthcare Limited",
+      "name": "Ryman Healthcare Limited",
+      "ticker": "RYM.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0247
     },
     {
-      "company": "Port of Tauranga",
+      "name": "Port of Tauranga",
+      "ticker": "POT.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0206
     },
     {
-      "company": "Goodman Property Trust",
+      "name": "Goodman Property Trust",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0194
     },
     {
-      "company": "Precinct Properties New Zealand Limited",
+      "name": "Precinct Properties New Zealand Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0176
     },
     {
-      "company": "Freightways Group ORD",
+      "name": "Freightways Group ORD",
+      "ticker": "FRE.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0174
     },
     {
-      "company": "Kiwi Property Group Limited",
+      "name": "Kiwi Property Group Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0139
     },
     {
-      "company": "Sky City Entertainment Group Limited",
+      "name": "Sky City Entertainment Group Limited",
+      "ticker": "SKC.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0095
     },
     {
-      "company": "Cash & Cash Equivalents",
+      "name": "Cash & Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": -0.0017

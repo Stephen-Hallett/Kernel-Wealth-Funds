@@ -1,18 +1,39 @@
+import json
 import logging
+import os
 from pathlib import Path
+from typing import Any
 
 import requests
 from pydantic import AliasPath, BaseModel, Field, field_validator
+
+from tickers import TickerDetector
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://kernelwealth.co.nz/_next/data/ymRZnwtwIAb2HNKx26G78/en/"
+ticker_detector = TickerDetector(os.environ["OPENAI_API_KEY"])
+
+
+def get_ticker(name: str, country: str) -> str:
+    ticker_db = json.load(Path("tickers/tickers.json").open())  # NOQA
+    ticker_dict = {entry["name"]: entry["ticker"] for entry in ticker_db}
+    if name in ticker_dict:
+        return ticker_dict[name]
+
+    ticker = ticker_detector.detect(name, country)
+    ticker_db.append({"name": name, "ticker": ticker})
+    with Path("tickers/tickers.json").open("w") as f:
+        f.write(json.dumps(ticker_db, indent=2))
+
+    return ticker
 
 
 class FundHolding(BaseModel):
     _key: str
-    company: str
+    name: str = Field(validation_alias="company")
+    ticker: str = ""
     countryName: str | None
     countryCode: str | None
     proportion: float = Field(validation_alias="percentage")
@@ -23,6 +44,14 @@ class FundHolding(BaseModel):
         if isinstance(v, str) and v.endswith("%"):
             return round(float(v.strip("%")) / 100, 4)
         return 0
+
+    def model_post_init(self, __context: Any) -> None:
+        if (
+            self.ticker == ""
+            and self.countryName is not None
+            and self.proportion >= 0.0001
+        ):
+            self.ticker = get_ticker(self.name, self.countryName)
 
 
 def get_holdings(slug: str) -> list[FundHolding]:

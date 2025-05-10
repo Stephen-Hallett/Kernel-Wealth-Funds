@@ -1,0 +1,18 @@
+[project]
+name = "tickers"
+version = "0.1.0"
+description = "Langchain implementation to find tickers for stocks"
+readme = "README.md"
+authors = [
+    { name = "Stephen-Hallett", email = "stevohallett@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-openai>=0.3.16",
+    "langchain>=0.3.25",
+    "pydantic>=2.11.4",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

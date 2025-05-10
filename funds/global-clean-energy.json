@@ -4,319 +4,372 @@
   "summary": "Invests in global companies involved in the production or provision of Clean Energy.",
   "holdings": [
     {
-      "company": "Vestas Wind Systems AS (EUR)",
+      "name": "Vestas Wind Systems AS (EUR)",
+      "ticker": "VWS.CO",
       "countryName": "Denmark",
       "countryCode": "DK",
       "proportion": 0.0848
     },
     {
-      "company": "Iberdrola SA",
+      "name": "Iberdrola SA",
+      "ticker": "IBE.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0708
     },
     {
-      "company": "SSE Plc Ord",
+      "name": "SSE Plc Ord",
+      "ticker": "SSE.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0655
     },
     {
-      "company": "Energias de Portugal SA",
+      "name": "Energias de Portugal SA",
+      "ticker": "EDP.LS",
       "countryName": "Portugal",
       "countryCode": "PT",
       "proportion": 0.0559
     },
     {
-      "company": "First Solar Inc",
+      "name": "First Solar Inc",
+      "ticker": "First Solar Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0545
     },
     {
-      "company": "E.ON SE",
+      "name": "E.ON SE",
+      "ticker": "EONG.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0537
     },
     {
-      "company": "Enphase Energy Inc (NASDAQ)",
+      "name": "Enphase Energy Inc (NASDAQ)",
+      "ticker": "ENPH",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0523
     },
     {
-      "company": "Chubu Electric Power Co Inc",
+      "name": "Chubu Electric Power Co Inc",
+      "ticker": "Chubu Electric Power Company Incorporated",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0485
     },
     {
-      "company": "Orsted (EUR)",
+      "name": "Orsted (EUR)",
+      "ticker": "Orsted",
       "countryName": "Denmark",
       "countryCode": "DK",
       "proportion": 0.047
     },
     {
-      "company": "Nextracker Inc Class A",
+      "name": "Nextracker Inc Class A",
+      "ticker": "NEXA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0381
     },
     {
-      "company": "Edison Intl",
+      "name": "Edison Intl",
+      "ticker": "Edison International",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0349
     },
     {
-      "company": "GE Vernova Inc",
+      "name": "GE Vernova Inc",
+      "ticker": "GE",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0343
     },
     {
-      "company": "Snam SpA",
+      "name": "Snam SpA",
+      "ticker": "SNM.MI",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0334
     },
     {
-      "company": "Ormat Technologies",
+      "name": "Ormat Technologies",
+      "ticker": "ORA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0256
     },
     {
-      "company": "Fortum Oyj",
+      "name": "Fortum Oyj",
+      "ticker": "Fortum Oyj",
       "countryName": "Finland",
       "countryCode": "FI",
       "proportion": 0.0226
     },
     {
-      "company": "Northland Power Inc.",
+      "name": "Northland Power Inc.",
+      "ticker": "Northland Power Incorporated",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0167
     },
     {
-      "company": "EDP Renovaveis SA",
+      "name": "EDP Renovaveis SA",
+      "ticker": "EDPR.LS",
       "countryName": "Portugal",
       "countryCode": "PT",
       "proportion": 0.0158
     },
     {
-      "company": "Clearway Energy Inc Class C",
+      "name": "Clearway Energy Inc Class C",
+      "ticker": "Clearway Energy Inc Class C",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0158
     },
     {
-      "company": "Centrais Electricas Brasileiras SA ADR",
+      "name": "Centrais Electricas Brasileiras SA ADR",
+      "ticker": "EBR",
       "countryName": "Brazil",
       "countryCode": "BR",
       "proportion": 0.0155
     },
     {
-      "company": "Brookfield Renewable Corporation",
+      "name": "Brookfield Renewable Corporation",
+      "ticker": "BEP-UN.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0141
     },
     {
-      "company": "VERBUND AG",
+      "name": "VERBUND AG",
+      "ticker": "VER",
       "countryName": "Austria",
       "countryCode": "AT",
       "proportion": 0.0132
     },
     {
-      "company": "BKW SA Ord",
+      "name": "BKW SA Ord",
+      "ticker": "BKW.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0129
     },
     {
-      "company": "Neste Oyj",
+      "name": "Neste Oyj",
+      "ticker": "Neste Corporation",
       "countryName": "Finland",
       "countryCode": "FI",
       "proportion": 0.0125
     },
     {
-      "company": "Algonquin Power & Utilities Corp.",
+      "name": "Algonquin Power & Utilities Corp.",
+      "ticker": "Algonquin Power and Utilities Corporation",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0124
     },
     {
-      "company": "Nordex SE",
+      "name": "Nordex SE",
+      "ticker": "NDX1.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0121
     },
     {
-      "company": "Boralex Inc. 'A'",
+      "name": "Boralex Inc. 'A'",
+      "ticker": "Boralex Inc. Class A",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.011
     },
     {
-      "company": "Acciona SA",
+      "name": "Acciona SA",
+      "ticker": "Acciona Sociedad Anonima",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0101
     },
     {
-      "company": "Innergex Renewable Energy Inc",
+      "name": "Innergex Renewable Energy Inc",
+      "ticker": "Innergex Renewable Energy Corporation.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.009
     },
     {
-      "company": "Conch Venture ORD",
+      "name": "Conch Venture ORD",
+      "ticker": "Conch Venture Ordinary Shares",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.009
     },
     {
-      "company": "Central New Energy Holding Group Ltd",
+      "name": "Central New Energy Holding Group Ltd",
+      "ticker": "Central New Energy Holding Group Limited",
       "countryName": "Hong Kong",
       "countryCode": "HK",
       "proportion": 0.0073
     },
     {
-      "company": "Plug Power Inc",
+      "name": "Plug Power Inc",
+      "ticker": "Plug Power Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0072
     },
     {
-      "company": "Meridian Energy",
+      "name": "Meridian Energy",
+      "ticker": "MEL.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0072
     },
     {
-      "company": "Enlight Renewable Energy Ltd",
+      "name": "Enlight Renewable Energy Ltd",
+      "ticker": "Enlight Renewable Energy Limited",
       "countryName": "Israel",
       "countryCode": "IL",
       "proportion": 0.007
     },
     {
-      "company": "ERG SpA",
+      "name": "ERG SpA",
+      "ticker": "ERG.MI",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0063
     },
     {
-      "company": "Sunrun Inc.",
+      "name": "Sunrun Inc.",
+      "ticker": "Sunrun Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0062
     },
     {
-      "company": "SolarEdge Technologies Inc",
+      "name": "SolarEdge Technologies Inc",
+      "ticker": "SolarEdge Technologies Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0059
     },
     {
-      "company": "Cia Energetica de Minas Gerais Pref ADR",
+      "name": "Cia Energetica de Minas Gerais Pref ADR",
+      "ticker": "CIG.C",
       "countryName": "Brazil",
       "countryCode": "BR",
       "proportion": 0.0056
     },
     {
-      "company": "Contact Energy Ltd",
+      "name": "Contact Energy Ltd",
+      "ticker": "CEN.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0055
     },
     {
-      "company": "Array Technologies Inc",
+      "name": "Array Technologies Inc",
+      "ticker": "Array Technologies Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0044
     },
     {
-      "company": "China Datang Corp Renewable Power Co Ltd",
+      "name": "China Datang Corp Renewable Power Co Ltd",
+      "ticker": "China Datang Corporation Renewable Power Company Limited",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0042
     },
     {
-      "company": "Corporacion Acciona Energias Renovables SA",
+      "name": "Corporacion Acciona Energias Renovables SA",
+      "ticker": "Corporacion Acciona Energias Renovables Sociedad Anonima",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0041
     },
     {
-      "company": "Solaria Energia y Medioambiente SA",
+      "name": "Solaria Energia y Medioambiente SA",
+      "ticker": "Solaria Energia y Medioambiente Sociedad Anonima",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0037
     },
     {
-      "company": "Rex American Resources ORD",
+      "name": "Rex American Resources ORD",
+      "ticker": "REX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0037
     },
     {
-      "company": "Shoals Technologies Group, Inc. Class A",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "ticker": "Shoals Technologies Group, Inc. Class A",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0035
     },
     {
-      "company": "Goldwind Science & Technology Co Ltd",
+      "name": "Goldwind Science & Technology Co Ltd",
+      "ticker": "Goldwind Science and Technology Company Limited",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0031
     },
     {
-      "company": "Canadian Solar Inc",
+      "name": "Canadian Solar Inc",
+      "ticker": "Canadian Solar Incorporated",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0026
     },
     {
-      "company": "Renew Energy Global CL A ORD",
+      "name": "Renew Energy Global CL A ORD",
+      "ticker": "RENEWENERGY.BO",
       "countryName": "India",
       "countryCode": "IN",
       "proportion": 0.0025
     },
     {
-      "company": "NEL ASA",
+      "name": "NEL ASA",
+      "ticker": "NEL.OL",
       "countryName": "Norway",
       "countryCode": "NO",
       "proportion": 0.0023
     },
     {
-      "company": "SMA Solar Technology AG",
+      "name": "SMA Solar Technology AG",
+      "ticker": "S92.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0019
     },
     {
-      "company": "Altus Power Inc",
+      "name": "Altus Power Inc",
+      "ticker": "Altus Power Incorporated",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0018
     },
     {
-      "company": "RENOVA Inc",
+      "name": "RENOVA Inc",
+      "ticker": "RENOVA Incorporated",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0012
     },
     {
-      "company": "Sunnova Energy International Inc.",
+      "name": "Sunnova Energy International Inc.",
+      "ticker": "NOVA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
     },
     {
-      "company": "Cash & Cash Equivalents",
+      "name": "Cash & Cash Equivalents",
+      "ticker": "Cash and Cash Equivalents",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0008
