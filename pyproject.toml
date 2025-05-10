@@ -7,7 +7,11 @@ requires-python = ">=3.13"
 dependencies = [
     "pydantic>=2.11.4",
     "requests>=2.32.3",
+    "tickers",
 ]
 
 [tool.uv.workspace]
 members = ["tickers"]
+
+[tool.uv.sources]
+tickers = { workspace = true }
