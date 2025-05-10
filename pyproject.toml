@@ -1,0 +1,9 @@
+[project]
+name = "kernelwealthfunds"
+version = "0.1.0"
+description = "A repository to keep track of the components of Kernel Wealth funds"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.3",
+]
