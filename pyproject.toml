@@ -8,3 +8,6 @@ dependencies = [
     "pydantic>=2.11.4",
     "requests>=2.32.3",
 ]
+
+[tool.uv.workspace]
+members = ["tickers"]
