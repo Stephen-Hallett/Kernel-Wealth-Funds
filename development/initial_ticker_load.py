@@ -1,4 +1,5 @@
 import json
+import os
 from pathlib import Path
 
 import requests
@@ -11,19 +12,24 @@ class Stock(BaseModel):
     ticker: str = Field(validation_alias="symbol")
 
 
-kernel_shares_url = (
-    "https://kernelwealth.co.nz/_next/data/ymRZnwtwIAb2HNKx26G78/en/shares-etfs.json"
-)
+urls = [
+    f"https://chelly.kernelwealth.co.nz/api/Direct/browse-stocks?page={i}&pageSize=200"
+    for i in range(1, 6)
+]
 
-shares_response = requests.get(kernel_shares_url, timeout=30).json()["pageProps"][
-    "data"
-]["highlightedStocks"]
+
+shares_response = [
+    requests.get(
+        url, headers={"Authorization": os.environ["KERNEL_AUTH"]}, timeout=30
+    ).json()["data"]
+    for url in urls
+]
 
 all_stocks = [
     Stock.model_validate(stock)
-    for section in shares_response
-    for stock in section["stocks"]
+    for response in shares_response
+    for stock in response
 ]
 
-with Path("tickers/tickers.json").open("w") as f:
+with Path("../tickers/tickers.json").open("w") as f:
     f.write(json.dumps(to_jsonable_python(all_stocks)))
