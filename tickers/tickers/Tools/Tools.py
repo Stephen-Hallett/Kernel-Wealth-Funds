@@ -4,12 +4,16 @@ from pydantic import BaseModel, Field
 
 
 class NormalisationTools(BaseModel):
+    """Normalise an assets name to its most expanded version."""
+
     expanded_name: str = Field(
         ..., description="The expanded version of a given assets name."
     )
 
 
 class InformationTools(BaseModel):
+    """Locate information about a given asset including asset name, type and the exchange it is listed on"""
+
     asset_name: str = Field(
         ..., description="The expanded version of a given assets name."
     )
@@ -24,6 +28,8 @@ class InformationTools(BaseModel):
 
 
 class TickerTools(BaseModel):
+    """Detect the ticker for a specified asset as it appears on Yahoo Finance."""
+
     ticker: str = Field(
         ...,
         description="A ticker symbol for an exchange traded asset as it would appear on yahoo finance - or an empty string where no ticker is found.",
