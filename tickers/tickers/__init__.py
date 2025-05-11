@@ -25,9 +25,9 @@ class TickerDetector:
 
         self.ticker_chain = (
             ticker_prompt
-            | ChatOpenAI(api_key=openai_key, temperature=0).bind_tools(
-                [TickerTools], strict=True, tool_choice="TickerTools"
-            )
+            | ChatOpenAI(
+                api_key=openai_key, model="gpt-4-turbo", temperature=0
+            ).bind_tools([TickerTools], strict=True, tool_choice="TickerTools")
             | PydanticToolsParser(tools=[TickerTools])
         )
 

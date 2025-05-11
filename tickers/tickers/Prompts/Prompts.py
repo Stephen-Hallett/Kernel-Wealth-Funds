@@ -48,28 +48,8 @@ information_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-ticker_prompt = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system",
-            "You are extremely knowledgeable about stocks and assets. If there is a stock listed on any exchange you can find its ticker symbol. You are praised for your honesty and your ability to not make up tickers.",
-        ),
-        (
-            "system",
-            "If there is no ticker for the asset you should return an empty string '' as the detected ticker.",
-        ),
-        (
-            "human",
-            "Given the United States stock asset 'SPDR Portfolio Emerging Markets Exchange Traded Fund' listed on the NYSE Arca exchange,\
-            please locate and return the ticker symbol as it appears on Yahoo Finance - or as it would appear in the python package yfinance. \
-            Return the ticker in JSON format.",
-        ),
-        ("ai", "{{'ticker': 'SPEM'}}"),
-        (
-            "human",
-            "Given the {country_name} {asset_type} asset '{asset_name}' listed on the {exchange} exchange,\
-            Please locate and return the ticker symbol as it appears on Yahoo Finance - as it would appear in the python package yfinance. \
-            Return the ticker in JSON format.",
-        ),
-    ]
+ticker_prompt = ChatPromptTemplate.from_template(
+    "Given the {country_name} {asset_type} asset '{asset_name}' listed on the {exchange} exchange,\
+    Please locate and return the ticker symbol as it appears on Yahoo Finance, or an empty string if there is no ticker. \
+    Return the ticker in JSON format."
 )

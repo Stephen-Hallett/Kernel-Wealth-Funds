@@ -4056,10 +4056,6 @@
     "ticker": "THL.NZ"
   },
   {
-    "name": "Manawa Energy Limited",
-    "ticker": "Manawa Energy Limited Company"
-  },
-  {
     "name": "Sky Network Television Ltd (NZ Registry)",
     "ticker": "SKT.NZ"
   },
@@ -4220,10 +4216,6 @@
     "ticker": "NPH.NZ"
   },
   {
-    "name": "Cencora ORD",
-    "ticker": "Cencora Ordinary Shares"
-  },
-  {
     "name": "Munich Re AG",
     "ticker": "MUV2.F"
   },
@@ -4252,20 +4244,8 @@
     "ticker": "MCO"
   },
   {
-    "name": "Canadian National Railways",
-    "ticker": "Canadian National Railway"
-  },
-  {
     "name": "Briscoe Group Ltd",
     "ticker": "BGP.NZ"
-  },
-  {
-    "name": "Ferrovial SE Ord",
-    "ticker": "Ferrovial SE Ordinary"
-  },
-  {
-    "name": "BlackRock Ord",
-    "ticker": "BlackRock Ordinary"
   },
   {
     "name": "American Water Works Co Inc",
@@ -4274,10 +4254,6 @@
   {
     "name": "Tax Traders 4.330% 24 Apr 2025",
     "ticker": ""
-  },
-  {
-    "name": "Fortis Inc",
-    "ticker": "Fortis Incorporated"
   },
   {
     "name": "KLA ORD",
@@ -4292,32 +4268,16 @@
     "ticker": "AMGN"
   },
   {
-    "name": "Cellnex Telecom SA Ord",
-    "ticker": "Cellnex Telecom SA Ordinary"
-  },
-  {
     "name": "BP PLC",
     "ticker": "BP.L"
-  },
-  {
-    "name": "Danaher Corp",
-    "ticker": "Danaher Corporation"
   },
   {
     "name": "Palo Alto Networks, Inc. Common Stock",
     "ticker": "PANW"
   },
   {
-    "name": "Rio Tinto PLC Ord (UK Register)",
-    "ticker": "Rio Tinto Public Limited Company Ordinary Shares"
-  },
-  {
     "name": "T-Mobile US Incorporated",
     "ticker": "TMO"
-  },
-  {
-    "name": "Applied Materials Inc",
-    "ticker": "Applied Materials Incorporated"
   },
   {
     "name": "Pembina Pipeline Corporation",
@@ -4330,10 +4290,6 @@
   {
     "name": "Essex Property Trust",
     "ticker": ""
-  },
-  {
-    "name": "Cardinal Health Inc",
-    "ticker": "Cardinal Health Incorporated"
   },
   {
     "name": "Barclays PLC Ord",
@@ -4364,24 +4320,8 @@
     "ticker": "WFC"
   },
   {
-    "name": "Booking Holdings Inc",
-    "ticker": "Booking Holdings Incorporated"
-  },
-  {
-    "name": "Colgate-Palmolive Co",
-    "ticker": "Colgate-Palmolive Company"
-  },
-  {
-    "name": "Canadian Pacific Railway Ltd",
-    "ticker": "Canadian Pacific Railway Limited"
-  },
-  {
     "name": "E.ON SE",
     "ticker": "EONG.DE"
-  },
-  {
-    "name": "Walt Disney Co Ordinary Shares",
-    "ticker": "Walt Disney Company Common Stock"
   },
   {
     "name": "Intuit ORD",
@@ -4396,40 +4336,12 @@
     "ticker": "ATO"
   },
   {
-    "name": "Edison Intl",
-    "ticker": "Edison International"
-  },
-  {
-    "name": "National Australia Bank Limited (AU Register)",
-    "ticker": "National Australia Bank Limited"
-  },
-  {
-    "name": "Centerpoint Energy Inc",
-    "ticker": "CenterPoint Energy Incorporated"
-  },
-  {
-    "name": "Micron Technology Inc",
-    "ticker": "Micron Technology Incorporated"
-  },
-  {
-    "name": "United Parcel Service Inc B",
-    "ticker": "United Parcel Service Inc Class B"
-  },
-  {
     "name": "Aena SME SA Ord",
     "ticker": "AENA.MC"
   },
   {
     "name": "Alexandria Real Estate Eqty",
     "ticker": ""
-  },
-  {
-    "name": "Bank of Nova Scotia Halifax",
-    "ticker": "Bank of Nova Scotia Halifax"
-  },
-  {
-    "name": "Bank of Montreal Ord",
-    "ticker": "Bank of Montreal Ordinary Shares"
   },
   {
     "name": "Fiserv Incorporated",
@@ -4448,16 +4360,8 @@
     "ticker": ""
   },
   {
-    "name": "Deutsche Bank AG",
-    "ticker": "Deutsche Bank Aktiengesellschaft"
-  },
-  {
     "name": "Invitation Homes",
     "ticker": ""
-  },
-  {
-    "name": "Emerson Electric Co",
-    "ticker": "Emerson Electric Company"
   },
   {
     "name": "ING Groep NV",
@@ -4472,56 +4376,16 @@
     "ticker": "TRN.MI"
   },
   {
-    "name": "Intercontinental Exchange Inc",
-    "ticker": "Intercontinental Exchange Incorporated"
-  },
-  {
-    "name": "Stryker Corp",
-    "ticker": "Stryker Corporation"
-  },
-  {
     "name": "Eaton Corporation",
     "ticker": "EAT"
-  },
-  {
-    "name": "Swiss Re Reg",
-    "ticker": "Swiss Reinsurance"
-  },
-  {
-    "name": "Intesa SanPaolo",
-    "ticker": "Intesa SanPaolo"
-  },
-  {
-    "name": "Tokyo Electron",
-    "ticker": "Tokyo Electron"
-  },
-  {
-    "name": "American Express Co",
-    "ticker": "American Express Company"
-  },
-  {
-    "name": "Starbucks Corp",
-    "ticker": "Starbucks Corporation"
-  },
-  {
-    "name": "Diageo PLC",
-    "ticker": "Diageo Public Limited Company"
   },
   {
     "name": "PayPal Holdings Inc",
     "ticker": "PYPL"
   },
   {
-    "name": "ANZ Bank (AU Register)",
-    "ticker": "Australia and New Zealand Banking Group Limited"
-  },
-  {
     "name": "Nisource Inc",
     "ticker": "NI"
-  },
-  {
-    "name": "Regeneron Pharmaceuticals Inc",
-    "ticker": "Regeneron Pharmaceuticals Incorporated"
   },
   {
     "name": "Paychex Inc",
@@ -4530,10 +4394,6 @@
   {
     "name": "NZGS 4.50% 15/04/2027",
     "ticker": ""
-  },
-  {
-    "name": "Fast Retailing Co",
-    "ticker": "Fast Retailing Company"
   },
   {
     "name": "ASB FRN 18/10/2027",
@@ -4552,28 +4412,8 @@
     "ticker": ""
   },
   {
-    "name": "Sumitomo Mitsui Financial Group",
-    "ticker": "Sumitomo Mitsui Financial Group"
-  },
-  {
-    "name": "Hydro One Limited",
-    "ticker": "Hydro One Limited"
-  },
-  {
     "name": "American Homes 4 Rent A",
     "ticker": ""
-  },
-  {
-    "name": "Restaurant Brands New Zealand Limited",
-    "ticker": "Restaurant Brands New Zealand Limited"
-  },
-  {
-    "name": "Autodesk Inc",
-    "ticker": "Autodesk Incorporated"
-  },
-  {
-    "name": "Saint-Gobain Cie de",
-    "ticker": "Saint-Gobain Compagnie de"
   },
   {
     "name": "Steel & Tube Holdings Limited",
@@ -4582,10 +4422,6 @@
   {
     "name": "Sun Communities",
     "ticker": ""
-  },
-  {
-    "name": "Keurig Dr Pepper Inc",
-    "ticker": "Keurig Dr Pepper Incorporated"
   },
   {
     "name": "Kimco Realty Corp",
@@ -4620,10 +4456,6 @@
     "ticker": "AAGIY"
   },
   {
-    "name": "Kimberly-Clark",
-    "ticker": "Kimberly-Clark"
-  },
-  {
     "name": "BNP Paribas",
     "ticker": "BNP.PA"
   },
@@ -4652,24 +4484,8 @@
     "ticker": ""
   },
   {
-    "name": "The Warehouse Group Limited",
-    "ticker": "The Warehouse Group Limited"
-  },
-  {
-    "name": "Cadence Design Systems Inc",
-    "ticker": "Cadence Design Systems Incorporated"
-  },
-  {
-    "name": "Manulife Financial Corporation",
-    "ticker": "Manulife Financial Corporation"
-  },
-  {
     "name": "BASF SE",
     "ticker": "BAS.DE"
-  },
-  {
-    "name": "Investor AB B (SEK)",
-    "ticker": "Investor AB Class B"
   },
   {
     "name": "Takeda Pharmaceutical Ord",
@@ -4678,10 +4494,6 @@
   {
     "name": "Christchurch City Holdings FRN 15/10/2027",
     "ticker": ""
-  },
-  {
-    "name": "Honda Motor Co",
-    "ticker": "Honda Motor Company"
   },
   {
     "name": "BNZ FRN 19/11/2027",
@@ -4708,36 +4520,16 @@
     "ticker": "EW"
   },
   {
-    "name": "DEUTSCHE BOERSE NA O.N.",
-    "ticker": "Deutsche Boerse Namens-Aktien"
-  },
-  {
-    "name": "Canadian Imperial Bank of Commerce",
-    "ticker": "Canadian Imperial Bank of Commerce"
-  },
-  {
     "name": "Vector 3.45% 27/05/2025",
     "ticker": ""
-  },
-  {
-    "name": "Tokyo Gas Co",
-    "ticker": "Tokyo Gas Company"
   },
   {
     "name": "Becton Dickinson & Co",
     "ticker": "BDX"
   },
   {
-    "name": "Daiichi Sankyo Co Ltd",
-    "ticker": "Daiichi Sankyo Company Limited"
-  },
-  {
     "name": "WP Carey Inc",
     "ticker": ""
-  },
-  {
-    "name": "Mercedes-Benz Group AG",
-    "ticker": "Mercedes-Benz Group Aktiengesellschaft"
   },
   {
     "name": "SEGRO PLC",
@@ -4746,10 +4538,6 @@
   {
     "name": "Unicredit SpA Ord",
     "ticker": "UCG.MI"
-  },
-  {
-    "name": "Westpac Banking Corporation (AU Register)",
-    "ticker": "Westpac Banking Corporation"
   },
   {
     "name": "Regency Centers Corp",
@@ -4772,24 +4560,12 @@
     "ticker": "ANET"
   },
   {
-    "name": "United Utilities Group PLC Ord",
-    "ticker": "United Utilities Group Public Limited Company Ordinary"
-  },
-  {
     "name": "Yum Brands Inc Ordinary Shares",
     "ticker": "YUM"
   },
   {
-    "name": "Tokyo Ohka Kogyo Co Ltd",
-    "ticker": "Tokyo Ohka Kogyo Company Limited"
-  },
-  {
     "name": "Boston Properties Inc",
     "ticker": ""
-  },
-  {
-    "name": "Ford Motor Co",
-    "ticker": "Ford Motor Company"
   },
   {
     "name": "DSV A/S",
@@ -4800,10 +4576,6 @@
     "ticker": "HPE"
   },
   {
-    "name": "United Rentals Ord",
-    "ticker": "United Rentals Ordinary"
-  },
-  {
     "name": "AFT Pharmaceuticals Limited",
     "ticker": "AFT.NZ"
   },
@@ -4812,16 +4584,8 @@
     "ticker": "TEL"
   },
   {
-    "name": "Fortinet",
-    "ticker": "Fortinet"
-  },
-  {
     "name": "Federal Realty Invt Trust",
     "ticker": ""
-  },
-  {
-    "name": "Anglo American PLC",
-    "ticker": "Anglo American Public Limited Company"
   },
   {
     "name": "Wheaton Precious Metals Corp.",
@@ -4832,16 +4596,8 @@
     "ticker": "KRO"
   },
   {
-    "name": "Severn Trent PLC Ord",
-    "ticker": "Severn Trent Public Limited Company Ordinary"
-  },
-  {
     "name": "Hershey Foods Corp",
     "ticker": "HSY"
-  },
-  {
-    "name": "Prudential PLC Ord (GBP)",
-    "ticker": "Prudential Public Limited Company Ordinary Shares"
   },
   {
     "name": "Nasdaq Inc",
@@ -4856,10 +4612,6 @@
     "ticker": ""
   },
   {
-    "name": "Vertex Pharmaceuticals",
-    "ticker": "Vertex Pharmaceuticals"
-  },
-  {
     "name": "TSB Bank TD 4.450% 13 Dec 2025",
     "ticker": ""
   },
@@ -4868,28 +4620,12 @@
     "ticker": "HLT"
   },
   {
-    "name": "Norfolk Southern Corp",
-    "ticker": "Norfolk Southern Corporation"
-  },
-  {
     "name": "Toyota Finance NZ Ltd FRN 30/09/2027",
     "ticker": ""
   },
   {
-    "name": "Hong Kong and China Gas Co Ltd",
-    "ticker": "Hong Kong and China Gas Company Limited"
-  },
-  {
     "name": "Agnico Eagle Mines Limited",
     "ticker": "AEM.TO"
-  },
-  {
-    "name": "Engie",
-    "ticker": "Engie"
-  },
-  {
-    "name": "Advantest Corp",
-    "ticker": "Advantest Corporation"
   },
   {
     "name": "Wesfarmers Ltd",
@@ -4900,20 +4636,8 @@
     "ticker": ""
   },
   {
-    "name": "Chugai Pharmaceutical Co",
-    "ticker": "Chugai Pharmaceutical Company"
-  },
-  {
-    "name": "NetFlix Inc",
-    "ticker": "Netflix Inc"
-  },
-  {
     "name": "Broadridge Financial Solutions Inc.",
     "ticker": "BR"
-  },
-  {
-    "name": "Zurich Insurance Group AG",
-    "ticker": "Zurich Insurance Group Aktiengesellschaft"
   },
   {
     "name": "Ferguson Enterprises Inc",
@@ -4940,20 +4664,8 @@
     "ticker": "FAST"
   },
   {
-    "name": "DuPont De Nemours Inc",
-    "ticker": "DuPont de Nemours Incorporated"
-  },
-  {
     "name": "MSCI Inc",
     "ticker": "MSCI"
-  },
-  {
-    "name": "Quanta Services Inc",
-    "ticker": "Quanta Services Incorporated"
-  },
-  {
-    "name": "Agilent Technologies Inc",
-    "ticker": "Agilent Technologies Incorporated"
   },
   {
     "name": "Thomson Reuters Corporation",
@@ -4972,10 +4684,6 @@
     "ticker": "REE.MC"
   },
   {
-    "name": "Legrand Promesses",
-    "ticker": "Legrand Promesses"
-  },
-  {
     "name": "Wellington Intl Airport 5.00% 16/06/2025",
     "ticker": ""
   },
@@ -4984,24 +4692,12 @@
     "ticker": ""
   },
   {
-    "name": "Canon Inc",
-    "ticker": "Canon Incorporated"
-  },
-  {
-    "name": "Intuitive Surgical Inc Common Stock",
-    "ticker": "Intuitive Surgical Inc"
-  },
-  {
     "name": "Host Hotels & Resorts Inc",
     "ticker": ""
   },
   {
     "name": "Prosus",
     "ticker": "PROSF"
-  },
-  {
-    "name": "Essential Utilities Inc",
-    "ticker": "Essential Utilities Incorporated"
   },
   {
     "name": "DT Midstream Ord",
@@ -5020,24 +4716,12 @@
     "ticker": "PAC"
   },
   {
-    "name": "Chipotle Mexican Grill Inc.",
-    "ticker": "Chipotle Mexican Grill Incorporated"
-  },
-  {
-    "name": "Assa Abloy B (SEK)",
-    "ticker": "Assa B.ST"
-  },
-  {
     "name": "Scentre Group Stapled",
     "ticker": ""
   },
   {
     "name": "Americold Realty Trust",
     "ticker": ""
-  },
-  {
-    "name": "Nordea Bank Abp (SEK)",
-    "ticker": "Nordea Bank Abp"
   },
   {
     "name": "Iberdrola SA",
@@ -5048,24 +4732,8 @@
     "ticker": "SNPS"
   },
   {
-    "name": "Tokio Marine Holdings Inc",
-    "ticker": "Tokio Marine Holdings Incorporated"
-  },
-  {
-    "name": "Societe Generale",
-    "ticker": "Societe Generale"
-  },
-  {
-    "name": "Truist Financial Corp",
-    "ticker": "Truist Financial Corporation"
-  },
-  {
     "name": "Old Dominion Freight Line Inc",
     "ticker": "ODFL"
-  },
-  {
-    "name": "Keyera Corp",
-    "ticker": "Keyera Corporation"
   },
   {
     "name": "Vornado Realty Trust",
@@ -5082,10 +4750,6 @@
   {
     "name": "Land Securities Group PLC",
     "ticker": ""
-  },
-  {
-    "name": "Castellum AB",
-    "ticker": "Castellum AB"
   },
   {
     "name": "TSB Bank TD 4.850% 05 Aug 2025",
@@ -5108,52 +4772,24 @@
     "ticker": "WDAY"
   },
   {
-    "name": "Equifax Inc",
-    "ticker": "Equifax Incorporated"
-  },
-  {
     "name": "Lloyds Banking Group PLC Ord",
     "ticker": "LLOY.L"
-  },
-  {
-    "name": "Deutsche Post N ORD",
-    "ticker": "Deutsche Post North Ordinary"
   },
   {
     "name": "Klepierre",
     "ticker": ""
   },
   {
-    "name": "National Bank of Canada",
-    "ticker": "National Bank of Canada"
-  },
-  {
     "name": "Weyerhaeuser Co",
     "ticker": "WY"
-  },
-  {
-    "name": "Lotus Bakeries NV",
-    "ticker": "Lotus Bakeries N.V."
   },
   {
     "name": "Arthur J. Gallagher & Co",
     "ticker": "AJG"
   },
   {
-    "name": "EssilorLuxottica",
-    "ticker": "EssilorLuxottica"
-  },
-  {
-    "name": "Spotify Technology S.A.",
-    "ticker": "Spotify Technology SA"
-  },
-  {
     "name": "Suntory Beverage & Food Ltd",
     "ticker": "SUNBF.T"
-  },
-  {
-    "name": "Geberit AG Reg",
-    "ticker": "Geberit Aktiengesellschaft Registered"
   },
   {
     "name": "Nippon Building Fund Inc JREIT",
@@ -5168,20 +4804,12 @@
     "ticker": "APA.AX"
   },
   {
-    "name": "Bridgestone Corp",
-    "ticker": "Bridgestone Corporation"
-  },
-  {
     "name": "Wolters Kluwer NV",
     "ticker": "WKL.AS"
   },
   {
     "name": "Macerich Co",
     "ticker": ""
-  },
-  {
-    "name": "Capitaland Investment Ord",
-    "ticker": "Capitaland Investment Ordinary"
   },
   {
     "name": "KDDI Corp",
@@ -5200,24 +4828,12 @@
     "ticker": "DAL"
   },
   {
-    "name": "China Tower Corporation Ltd - H Shares",
-    "ticker": "China Tower Corporation Limited - H Shares"
-  },
-  {
     "name": "Zoetis Inc Common Stock",
     "ticker": "ZTS"
   },
   {
-    "name": "Biogen Inc",
-    "ticker": "Biogen Incorporated"
-  },
-  {
     "name": "United Overseas Bank",
     "ticker": "U11.SI"
-  },
-  {
-    "name": "DoorDash, Inc. Class A",
-    "ticker": "DoorDash, Inc. Class A"
   },
   {
     "name": "Capital One Financial",
@@ -5230,18 +4846,6 @@
   {
     "name": "Waste Connections, Inc.",
     "ticker": "WCN.TO"
-  },
-  {
-    "name": "Tesco",
-    "ticker": "Tesco.L"
-  },
-  {
-    "name": "US Bancorp ORD",
-    "ticker": "US Bancorp"
-  },
-  {
-    "name": "Newmont Corp",
-    "ticker": "Newmont Corporation"
   },
   {
     "name": "HubSpot Inc",
@@ -5260,10 +4864,6 @@
     "ticker": ""
   },
   {
-    "name": "Vulcan Materials Co",
-    "ticker": "Vulcan Materials Company"
-  },
-  {
     "name": "Dover Corp",
     "ticker": "DOV"
   },
@@ -5278,10 +4878,6 @@
   {
     "name": "SEB-Skand Enskilda Banken A (EUR)",
     "ticker": "SEB.ST"
-  },
-  {
-    "name": "State Street Corp",
-    "ticker": "State Street Corporation"
   },
   {
     "name": "Tritax Big Box REIT Plc",
@@ -5308,10 +4904,6 @@
     "ticker": "PHM"
   },
   {
-    "name": "AutoZone Inc",
-    "ticker": "AutoZone Incorporated"
-  },
-  {
     "name": "Vicinity Centres",
     "ticker": ""
   },
@@ -5320,20 +4912,8 @@
     "ticker": "NUE"
   },
   {
-    "name": "Swedbank AB (SEK)",
-    "ticker": "Swedbank Aktiebolag"
-  },
-  {
-    "name": "Getlink SE Ord",
-    "ticker": "Getlink SE Ordinary"
-  },
-  {
     "name": "Dexus Units",
     "ticker": ""
-  },
-  {
-    "name": "Shopify Inc",
-    "ticker": "Shopify Incorporated"
   },
   {
     "name": "NEC Corp",
@@ -5344,36 +4924,16 @@
     "ticker": "BXB.AX"
   },
   {
-    "name": "South Bow Corp",
-    "ticker": "South Bow Corporation"
-  },
-  {
     "name": "Fifth Third Bancorp (OH)",
     "ticker": "FITB"
-  },
-  {
-    "name": "ResMed Inc",
-    "ticker": "ResMed Incorporated"
-  },
-  {
-    "name": "Svenska Handelsbanken A (EUR)",
-    "ticker": "Svenska Handelsbanken A (Euro)"
   },
   {
     "name": "Macquarie Group Limited",
     "ticker": "MQG.AX"
   },
   {
-    "name": "Republic Services Inc",
-    "ticker": "Republic Services Incorporated"
-  },
-  {
     "name": "Tractor Supply Co",
     "ticker": "TSCO"
-  },
-  {
-    "name": "Nintendo Co Ltd",
-    "ticker": "Nintendo Company Limited"
   },
   {
     "name": "Agree Realty Corp",
@@ -5388,10 +4948,6 @@
     "ticker": "MAR"
   },
   {
-    "name": "Amadeus IT Group SA",
-    "ticker": "Amadeus Information Technology Group Soci\u00e9t\u00e9 Anonyme"
-  },
-  {
     "name": "CubeSmart",
     "ticker": ""
   },
@@ -5400,20 +4956,12 @@
     "ticker": "PECO"
   },
   {
-    "name": "Martin Merietta Materials Inc Common Stock",
-    "ticker": "Martin Marietta Materials Inc Common Stock"
-  },
-  {
     "name": "3I Group",
     "ticker": "3I.L"
   },
   {
     "name": "Essential Properties Realty Trust Inc",
     "ticker": ""
-  },
-  {
-    "name": "Public Service Enterprise Grp",
-    "ticker": "Public Service Enterprise Group"
   },
   {
     "name": "GPT Group Stapled",
@@ -5444,24 +4992,8 @@
     "ticker": "ASR"
   },
   {
-    "name": "Murata Manufacturing Co Ltd",
-    "ticker": "Murata Manufacturing Company Limited"
-  },
-  {
-    "name": "Antero Midstream Corp",
-    "ticker": "Antero Midstream Corporation"
-  },
-  {
     "name": "TSB Bank TD 5.400% 05 May 2025",
     "ticker": ""
-  },
-  {
-    "name": "Nomura Research Institute Ltd",
-    "ticker": "Nomura Research Institute Limited"
-  },
-  {
-    "name": "Oriental Land Co",
-    "ticker": "Orient.Land"
   },
   {
     "name": "Gecina",
@@ -5504,44 +5036,16 @@
     "ticker": ""
   },
   {
-    "name": "Alcon",
-    "ticker": "Alcon"
-  },
-  {
     "name": "Keysight Technologies Inc",
     "ticker": "KEYS"
-  },
-  {
-    "name": "Ashtead Group",
-    "ticker": "Ashtead Group"
-  },
-  {
-    "name": "Freeport McMoRan Inc",
-    "ticker": "Freeport-McMoRan Inc"
-  },
-  {
-    "name": "Marvell Technology, Inc",
-    "ticker": "Marvell Technology, Incorporated"
-  },
-  {
-    "name": "Flughafen Zurich AG",
-    "ticker": "Flughafen Zurich Aktiengesellschaft"
   },
   {
     "name": "Mettler-Toledo Intl",
     "ticker": "MTD"
   },
   {
-    "name": "Assicurazioni Generali SpA",
-    "ticker": "Assicurazioni Generali Societa per Azioni"
-  },
-  {
     "name": "Genuine Parts Co",
     "ticker": "GPC"
-  },
-  {
-    "name": "Nippon Tel & Tel Corp",
-    "ticker": "Nippon Telephone and Telegraph Corporation"
   },
   {
     "name": "Japan Real Estate Invest Corp JREIT",
@@ -5568,14 +5072,6 @@
     "ticker": ""
   },
   {
-    "name": "Naturgy Energy Group SA",
-    "ticker": "Naturgy Energy Group Sociedad An\u00f3nima"
-  },
-  {
-    "name": "Brookfield Infrastructure Corporation Class A",
-    "ticker": "Brookfield Infrastructure Corporation Class A"
-  },
-  {
     "name": "Coca-Cola Europacific Partners plc",
     "ticker": "CCEP.L"
   },
@@ -5600,10 +5096,6 @@
     "ticker": ""
   },
   {
-    "name": "Palantir Technologies Inc. Class A",
-    "ticker": "Palantir Technologies Inc. Class A"
-  },
-  {
     "name": "Axon Enterprise Inc",
     "ticker": "AAXN"
   },
@@ -5620,16 +5112,8 @@
     "ticker": ""
   },
   {
-    "name": "NatWest Group",
-    "ticker": "National Westminster Bank Group"
-  },
-  {
     "name": "Terreno Realty Corp",
     "ticker": ""
-  },
-  {
-    "name": "M&T Bank Corp",
-    "ticker": "M&T Bank Corporation"
   },
   {
     "name": "Wabtec",
@@ -5644,14 +5128,6 @@
     "ticker": "TEAM"
   },
   {
-    "name": "CAPGEMINI SE",
-    "ticker": "Cap.PA"
-  },
-  {
-    "name": "Take Two Interactive Software",
-    "ticker": "Take-Two Interactive Software"
-  },
-  {
     "name": "Atlas Arteria ORD",
     "ticker": "ALX"
   },
@@ -5662,14 +5138,6 @@
   {
     "name": "ADP Promesses",
     "ticker": "ADP.PA"
-  },
-  {
-    "name": "Sugi Holdings Co Ltd",
-    "ticker": "Sugi Holdings Company Limited"
-  },
-  {
-    "name": "New Jersey Resources Corp",
-    "ticker": "New Jersey Resources Corporation"
   },
   {
     "name": "STAG Industrial Inc",
@@ -5684,20 +5152,8 @@
     "ticker": "NTAP"
   },
   {
-    "name": "Sun Life Financial ORD",
-    "ticker": "Sun Life Financial Ordinary Shares"
-  },
-  {
     "name": "Unite Group",
     "ticker": ""
-  },
-  {
-    "name": "Huntington Bancshares (OH)",
-    "ticker": "Huntington Bancshares"
-  },
-  {
-    "name": "Metro Inc.",
-    "ticker": "Metro Incorporated"
   },
   {
     "name": "DexCom Inc",
@@ -5716,24 +5172,12 @@
     "ticker": ""
   },
   {
-    "name": "Restaurant Brands International Inc.",
-    "ticker": "Restaurant Brands International Incorporated"
-  },
-  {
     "name": "Schindler-Hldg AG Ptg",
     "ticker": "SCHN.SW"
   },
   {
     "name": "INWIT - Infrastrutture Wireless Spa",
     "ticker": "INWIT.MI"
-  },
-  {
-    "name": "Investor AB A (SEK)",
-    "ticker": "Investor AB Class A"
-  },
-  {
-    "name": "Spire Inc",
-    "ticker": "Spire Incorporated"
   },
   {
     "name": "Nippon Yusen KK",
@@ -5752,28 +5196,12 @@
     "ticker": "JBHT"
   },
   {
-    "name": "Kunlun Energy Co. Ltd",
-    "ticker": "Kunlun Energy Company Limited"
-  },
-  {
-    "name": "Erste Group Bank AG",
-    "ticker": "Erste Group Bank Aktiengesellschaft"
-  },
-  {
     "name": "Infratil 3.35% 15/12/2026",
     "ticker": ""
   },
   {
     "name": "EPR Properties",
     "ticker": ""
-  },
-  {
-    "name": "Dollar General Corp",
-    "ticker": "Dollar General Corporation"
-  },
-  {
-    "name": "Ameriprise Financial Inc",
-    "ticker": "Ameriprise Financial Incorporated"
   },
   {
     "name": "Apollo Global Management Inc.",
@@ -5788,28 +5216,12 @@
     "ticker": "SONN.SW"
   },
   {
-    "name": "Best Buy ORD",
-    "ticker": "Best Buy Co., Inc."
-  },
-  {
-    "name": "Italgas SpA",
-    "ticker": "Italgas Societa Per Azioni"
-  },
-  {
     "name": "UPM-Kymmene Oyj",
     "ticker": "UPMKY"
   },
   {
     "name": "Lonza AG",
     "ticker": "LONN.SW"
-  },
-  {
-    "name": "Southwest Gas Holdings Inc",
-    "ticker": "Southwest Gas Holdings Incorporated"
-  },
-  {
-    "name": "Gartner Ord",
-    "ticker": "Gartner Ordinary"
   },
   {
     "name": "Cloudflare Inc.-A",
@@ -5820,24 +5232,8 @@
     "ticker": ""
   },
   {
-    "name": "Enagas SA Ord",
-    "ticker": "Enagas Sociedad Anonima Ordinary"
-  },
-  {
-    "name": "ONE Gas Inc",
-    "ticker": "ONE Gas Incorporated"
-  },
-  {
     "name": "Dollarama Inc",
     "ticker": "DOL.TO"
-  },
-  {
-    "name": "Credit Agricole SA",
-    "ticker": "Credit Agricole Societe Anonyme"
-  },
-  {
-    "name": "Illumina Inc",
-    "ticker": "Illumina Incorporated"
   },
   {
     "name": "Sea Ltd. (Singapore)-A",
@@ -5864,40 +5260,12 @@
     "ticker": "LEN"
   },
   {
-    "name": "Otis Worldwide Corp",
-    "ticker": "Otis Worldwide Corporation"
-  },
-  {
-    "name": "Fortive Corp",
-    "ticker": "Fortive Corporation"
-  },
-  {
-    "name": "Park Hotels & Resorts Inc",
-    "ticker": "Park Hotels & Resorts Inc."
-  },
-  {
-    "name": "Danske Bank A/S",
-    "ticker": "Danske Bank Aktieselskab"
-  },
-  {
     "name": "ON Semiconductor Corp",
     "ticker": "ON"
   },
   {
-    "name": "Fujitsu",
-    "ticker": "Fujitsu"
-  },
-  {
-    "name": "Vertiv Holdings Co",
-    "ticker": "Vertiv Holdings Company"
-  },
-  {
     "name": "Fabege AB",
     "ticker": "FABG.ST"
-  },
-  {
-    "name": "Steel Dynamics Inc",
-    "ticker": "Steel Dynamics Incorporated"
   },
   {
     "name": "Tanger Factory Outlet Centers",
@@ -5918,18 +5286,6 @@
   {
     "name": "CGI Inc. Class A SV",
     "ticker": "CGI.TO"
-  },
-  {
-    "name": "Garmin Ltd",
-    "ticker": "Garmin Limited"
-  },
-  {
-    "name": "Fanuc Co",
-    "ticker": "Fanuc Company"
-  },
-  {
-    "name": "Infineon Technologies AG",
-    "ticker": "Infineon Technologies Aktiengesellschaft"
   },
   {
     "name": "CSL Limited",
@@ -5956,20 +5312,12 @@
     "ticker": ""
   },
   {
-    "name": "Singapore Telecommunications Ltd",
-    "ticker": "Singapore Telecommunications Limited"
-  },
-  {
     "name": "Taisei Corp",
     "ticker": "TSE:1801"
   },
   {
     "name": "Coles Group Limited",
     "ticker": "CGL.AX"
-  },
-  {
-    "name": "Pan Pacific International Holdings Corp",
-    "ticker": "Pan Pacific International Holdings Corporation"
   },
   {
     "name": "Empire State Realty Trust Inc A",
@@ -5984,20 +5332,8 @@
     "ticker": "DELL"
   },
   {
-    "name": "Astellas Pharma Inc",
-    "ticker": "Astellas Pharmaceuticals Inc"
-  },
-  {
-    "name": "Obayashi Corp",
-    "ticker": "Obayashi Corporation"
-  },
-  {
     "name": "ASM Intl",
     "ticker": "ASM.AS"
-  },
-  {
-    "name": "Barrick Gold Corp Ord",
-    "ticker": "Barrick Gold Corporation"
   },
   {
     "name": "Warehouses De Pauw SCA",
@@ -6008,24 +5344,8 @@
     "ticker": "NXP"
   },
   {
-    "name": "Elia Group Ord",
-    "ticker": "Elia Group Ordinary"
-  },
-  {
-    "name": "Rio Tinto (AU Register)",
-    "ticker": "Rio Tinto"
-  },
-  {
     "name": "HICL Infrastructure Co Ltd",
     "ticker": "HICL.L"
-  },
-  {
-    "name": "Dassault Systemes SA",
-    "ticker": "Dassault Systemes Societe Anonyme"
-  },
-  {
-    "name": "SKANSKA AB-B (SEK)",
-    "ticker": "Skanska B.ST"
   },
   {
     "name": "Diamondrock Hospitality",
@@ -6036,20 +5356,12 @@
     "ticker": "TEF.MC"
   },
   {
-    "name": "Swiss Life Reg",
-    "ticker": "Swiss Life Reg"
-  },
-  {
     "name": "Covivio",
     "ticker": ""
   },
   {
     "name": "Vonovia SE",
     "ticker": ""
-  },
-  {
-    "name": "Vestas Wind Systems AS (DKK)",
-    "ticker": "Vestas Wind Systems A/S"
   },
   {
     "name": "Adidas AG",
@@ -6060,14 +5372,6 @@
     "ticker": "NTDTF"
   },
   {
-    "name": "Computershare",
-    "ticker": "Computershare"
-  },
-  {
-    "name": "Japan Post Holdings co",
-    "ticker": "Japan Post Holdings Company"
-  },
-  {
     "name": "RioCan REIT",
     "ticker": ""
   },
@@ -6076,24 +5380,12 @@
     "ticker": ""
   },
   {
-    "name": "Northwestern Corp",
-    "ticker": "Northwestern Corporation"
-  },
-  {
     "name": "Advance Residence Invstment Corp",
     "ticker": ""
   },
   {
-    "name": "Next",
-    "ticker": "Next.L"
-  },
-  {
     "name": "CareTrust REIT Inc",
     "ticker": ""
-  },
-  {
-    "name": "Cognizant Tech Solutions Corp",
-    "ticker": "Cognizant Technology Solutions Corporation"
   },
   {
     "name": "Orix JREIT Inc",
@@ -6108,10 +5400,6 @@
     "ticker": "KAIKY"
   },
   {
-    "name": "Aristocrat Leisure Limited",
-    "ticker": "Aristocrat Leisure Limited"
-  },
-  {
     "name": "Fibra Uno Administracion S.A. de C.V.",
     "ticker": ""
   },
@@ -6120,16 +5408,8 @@
     "ticker": "PNN.L"
   },
   {
-    "name": "Moncler SpA",
-    "ticker": "Moncler Societa per Azioni"
-  },
-  {
     "name": "Independence Realty Trust Inc",
     "ticker": ""
-  },
-  {
-    "name": "China Resources Gas Group Ltd",
-    "ticker": "China Resources Gas Group Limited"
   },
   {
     "name": "Grupo Aeroportuario Cen-Adr",
@@ -6156,24 +5436,8 @@
     "ticker": ""
   },
   {
-    "name": "Medipal Holdings Co",
-    "ticker": "Medipal Holdings Company"
-  },
-  {
-    "name": "Stantec Inc",
-    "ticker": "Stantec Incorporated"
-  },
-  {
-    "name": "Toho Gas Co",
-    "ticker": "Toho Gas Company"
-  },
-  {
     "name": "Four Corners Property Trust",
     "ticker": ""
-  },
-  {
-    "name": "Japan Airport Terminal Co",
-    "ticker": "Japan Airport Terminal Company"
   },
   {
     "name": "LondonMetric Property PLC",
@@ -6182,14 +5446,6 @@
   {
     "name": "Gibson Energy Inc",
     "ticker": "GEI.TO"
-  },
-  {
-    "name": "Heidelberg Materials AG",
-    "ticker": "Hei.DE"
-  },
-  {
-    "name": "Aviva PLC ORD",
-    "ticker": "Aviva Public Limited Company Ordinary Shares"
   },
   {
     "name": "Sun Hung Kai Properties Ltd",
@@ -6204,10 +5460,6 @@
     "ticker": ""
   },
   {
-    "name": "Addtech AB B (SEK)",
-    "ticker": "Add-B.ST"
-  },
-  {
     "name": "Broadstone Net Lease Inc",
     "ticker": ""
   },
@@ -6220,20 +5472,8 @@
     "ticker": ""
   },
   {
-    "name": "Secom Co",
-    "ticker": "Secom Company"
-  },
-  {
-    "name": "China Gas Holdings Ltd",
-    "ticker": "China Gas Holdings Limited"
-  },
-  {
     "name": "Orange",
     "ticker": "ORAN.PA"
-  },
-  {
-    "name": "Leroy Seafood Group ASA",
-    "ticker": "Leroy Seafood Group ASA"
   },
   {
     "name": "Sagax AB B Shares",
@@ -6264,18 +5504,6 @@
     "ticker": "CPK"
   },
   {
-    "name": "Regions Financial Corp",
-    "ticker": "Regions Financial Corporation"
-  },
-  {
-    "name": "Swisscom AG Reg",
-    "ticker": "Swisscom Aktiengesellschaft Registered"
-  },
-  {
-    "name": "Publicis Groupe",
-    "ticker": "Publicis Groupe"
-  },
-  {
     "name": "Boliden AB (SEK)",
     "ticker": "BOL.ST"
   },
@@ -6292,20 +5520,8 @@
     "ticker": "BAX"
   },
   {
-    "name": "Legal & General Group PLC Ord",
-    "ticker": "Legal & General Group PLC Ordinary"
-  },
-  {
     "name": "T Rowe Price Group ORD",
     "ticker": "TROW"
-  },
-  {
-    "name": "MatsukiyoCocokara & Co",
-    "ticker": "MatsukiyoCocokara & Company"
-  },
-  {
-    "name": "Kyocera Corp",
-    "ticker": "Kyocera Corporation"
   },
   {
     "name": "Wharf Real Estate Investment Company Ltd",
@@ -6324,10 +5540,6 @@
     "ticker": "WLTW"
   },
   {
-    "name": "Tyson Foods Inc A",
-    "ticker": "Tyson Foods Incorporated Class A"
-  },
-  {
     "name": "Japan Hotel REIT Investment Corporation",
     "ticker": ""
   },
@@ -6336,40 +5548,20 @@
     "ticker": "RKUNY"
   },
   {
-    "name": "James Hardie Industries PLC Cdi 1:1",
-    "ticker": "James Hardie Industries Public Limited Company Chess Depositary Interest 1:1"
-  },
-  {
     "name": "AP Moller - Maersk AS B",
     "ticker": "APM.CO"
-  },
-  {
-    "name": "Sumitomo Mitsui Ord",
-    "ticker": "Sumitomo Mitsui Ordinary"
   },
   {
     "name": "Mitsui Fudosan Logistics Park Inc",
     "ticker": ""
   },
   {
-    "name": "Toppan Inc",
-    "ticker": "Toppan Incorporated"
-  },
-  {
     "name": "Ares Management Corp",
     "ticker": "ARES"
   },
   {
-    "name": "FinecoBank Spa",
-    "ticker": "FinecoBank S.p.A."
-  },
-  {
     "name": "TELUS Corp",
     "ticker": "TELUS.TO"
-  },
-  {
-    "name": "Shionogi & Co",
-    "ticker": "Shionogi and Company"
   },
   {
     "name": "LXP Industrial Trust",
@@ -6378,14 +5570,6 @@
   {
     "name": "SES SA",
     "ticker": "SESG.PA"
-  },
-  {
-    "name": "Electronic Arts",
-    "ticker": "Electronic Arts"
-  },
-  {
-    "name": "Asics Corp",
-    "ticker": "Asics Corporation"
   },
   {
     "name": "Smiths Group PLC",
@@ -6412,16 +5596,8 @@
     "ticker": "ZBH"
   },
   {
-    "name": "China Merchants Port Holdings Co Ltd",
-    "ticker": "China Merchants Port Holdings Company Limited"
-  },
-  {
     "name": "Big Yellow Group REIT",
     "ticker": ""
-  },
-  {
-    "name": "Japan Post Bank co",
-    "ticker": "Japan Post Bank Company"
   },
   {
     "name": "Principal Financial Group",
@@ -6452,10 +5628,6 @@
     "ticker": "CCL-B.TO"
   },
   {
-    "name": "Lifco AB",
-    "ticker": "Lifco.ST"
-  },
-  {
     "name": "MTU Aero Engines AG",
     "ticker": "MTX.F"
   },
@@ -6472,10 +5644,6 @@
     "ticker": "HEXA-B.ST"
   },
   {
-    "name": "Tele2 AB B (SEK)",
-    "ticker": "Tele2-B.ST"
-  },
-  {
     "name": "Medical Properties Trust Inc",
     "ticker": ""
   },
@@ -6488,16 +5656,8 @@
     "ticker": "SBRY.L"
   },
   {
-    "name": "Pearson",
-    "ticker": "Pearson.L"
-  },
-  {
     "name": "Tradeweb Markets Inc.",
     "ticker": "TW"
-  },
-  {
-    "name": "Grab Holdings Limited Class A",
-    "ticker": "Grab Holdings Limited Class A"
   },
   {
     "name": "Lasalle Logiport REIT",
@@ -6514,14 +5674,6 @@
   {
     "name": "Sekisui House Reit Inc",
     "ticker": ""
-  },
-  {
-    "name": "Alnylam Pharmaceuticals Inc",
-    "ticker": "Alnylam Pharmaceuticals Incorporated"
-  },
-  {
-    "name": "AIB Group Plc",
-    "ticker": "Allied Irish Banks Group Public Limited Company"
   },
   {
     "name": "IDEXX Laboratories Inc",
@@ -6548,14 +5700,6 @@
     "ticker": "BEHL.HK"
   },
   {
-    "name": "Global Payments Inc",
-    "ticker": "Global Payments Incorporated"
-  },
-  {
-    "name": "Pinterest Inc",
-    "ticker": "Pinterest Incorporated"
-  },
-  {
     "name": "Zscaler, Inc.",
     "ticker": "ZS"
   },
@@ -6564,16 +5708,8 @@
     "ticker": "STME.MI"
   },
   {
-    "name": "Hang Seng Bank Ltd.",
-    "ticker": "Hang Seng Bank Limited"
-  },
-  {
     "name": "National Health Investors",
     "ticker": ""
-  },
-  {
-    "name": "Element Fleet Management Corp",
-    "ticker": "Element Fleet Management Corporation"
   },
   {
     "name": "Mapletree Pan Asia Commercial Trust",
@@ -6596,16 +5732,8 @@
     "ticker": ""
   },
   {
-    "name": "Orsted",
-    "ticker": "Orsted"
-  },
-  {
     "name": "Japan Logistics Fund",
     "ticker": ""
-  },
-  {
-    "name": "Intermediate Capital Group PLC",
-    "ticker": "Intermediate Capital Group Public Limited Company"
   },
   {
     "name": "Schindler-Hldg AG Reg",
@@ -6616,28 +5744,12 @@
     "ticker": ""
   },
   {
-    "name": "Ackermans & Van Haaren NV",
-    "ticker": "Ackermans & Van Haaren NV"
-  },
-  {
-    "name": "Sysmex Corp",
-    "ticker": "Sysmex Corporation"
-  },
-  {
     "name": "Arch Capital Group Ltd",
     "ticker": "ACGL"
   },
   {
-    "name": "LY Corp",
-    "ticker": "LY Corporation"
-  },
-  {
     "name": "National Storage REIT",
     "ticker": ""
-  },
-  {
-    "name": "Smith & Nephew",
-    "ticker": "Smith and Nephew"
   },
   {
     "name": "Acadia Realty Trust",
@@ -6656,16 +5768,8 @@
     "ticker": ""
   },
   {
-    "name": "Sumitomo Forestry Co",
-    "ticker": "Sumitomo Forestry Company"
-  },
-  {
     "name": "American Assets Trust Inc",
     "ticker": ""
-  },
-  {
-    "name": "Toyo Suisan Kaisha",
-    "ticker": "Toyo Suisan Kaisha"
   },
   {
     "name": "GMT 4.74%  14/04/2027",
@@ -6684,24 +5788,12 @@
     "ticker": "BOUY.PA"
   },
   {
-    "name": "Mediobanca SpA",
-    "ticker": "Mediobanca Societa per Azioni"
-  },
-  {
     "name": "VeriSign Inc",
     "ticker": "VRSN"
   },
   {
-    "name": "Chocoladefabriken Lindt & Spruengli PAR",
-    "ticker": "Chocoladefabriken Lindt & Spr\u00fcngli Participation Certificate"
-  },
-  {
     "name": "National Storage Affiliates Trust",
     "ticker": ""
-  },
-  {
-    "name": "BOC Hong Kong (Holdings) Ltd.",
-    "ticker": "Bank of China Hong Kong (Holdings) Limited"
   },
   {
     "name": "Marks and Spencer Group PLC",
@@ -6710,14 +5802,6 @@
   {
     "name": "Sunstone Hotel Investors",
     "ticker": ""
-  },
-  {
-    "name": "Nitori Holdings Co",
-    "ticker": "Nitori Holdings Company"
-  },
-  {
-    "name": "First Solar Inc",
-    "ticker": "First Solar Incorporated"
   },
   {
     "name": "ACS Actividades de Construccion y Servicios SA",
@@ -6760,10 +5844,6 @@
     "ticker": ""
   },
   {
-    "name": "Swedish Orphan Biovitrum AB (SEK)",
-    "ticker": "Swedish Orphan Biovitrum Aktiebolag"
-  },
-  {
     "name": "Telenor Ord",
     "ticker": "TEL.OL"
   },
@@ -6784,10 +5864,6 @@
     "ticker": ""
   },
   {
-    "name": "Fujikura Ltd",
-    "ticker": "Fujikura Limited"
-  },
-  {
     "name": "Northwest Natural Holding Co",
     "ticker": "NWN"
   },
@@ -6804,48 +5880,16 @@
     "ticker": "BAWG.VI"
   },
   {
-    "name": "Chubu Electric Power Co Inc",
-    "ticker": "Chubu Electric Power Company Incorporated"
-  },
-  {
     "name": "SJW Group",
     "ticker": "SJW"
-  },
-  {
-    "name": "Nippon Express Holdings Inc",
-    "ticker": "Nippon Express Holdings Incorporated"
-  },
-  {
-    "name": "Beijing Enterprises Water Group Ltd",
-    "ticker": "Beijing Enterprises Water Group Limited"
   },
   {
     "name": "Kojamo Oyj",
     "ticker": ""
   },
   {
-    "name": "Telia Company AB",
-    "ticker": "Telia Company Aktiebolag"
-  },
-  {
-    "name": "Alamos Gold Inc",
-    "ticker": "Alamos Gold Incorporated"
-  },
-  {
     "name": "AP Moller - Maersk AS A",
     "ticker": "APM.CO"
-  },
-  {
-    "name": "Hong Kong Land Hldgs Ltd",
-    "ticker": "Hong Kong Land Holdings Limited"
-  },
-  {
-    "name": "Cash & Cash Equivalents",
-    "ticker": "Cash and Cash Equivalents"
-  },
-  {
-    "name": "Currency Hedging",
-    "ticker": "Currency Hedging"
   },
   {
     "name": "iShares Core US Aggregate Bond ETF",
@@ -6870,10 +5914,6 @@
   {
     "name": "NZGS 4.50% 15/05/2035",
     "ticker": ""
-  },
-  {
-    "name": "Bank of China Deposit",
-    "ticker": "Bank of China Deposit"
   },
   {
     "name": "NZGS 2.75% 15/04/2037",
@@ -7020,28 +6060,8 @@
     "ticker": ""
   },
   {
-    "name": "ArcelorMittal Inc Ord",
-    "ticker": "ArcelorMittal Inc Ordinary"
-  },
-  {
-    "name": "Nomura Holdings Inc",
-    "ticker": "Nomura Holdings Incorporated"
-  },
-  {
-    "name": "Super Micro Computer Inc",
-    "ticker": "Super Micro Computer Incorporated"
-  },
-  {
     "name": "Hennes & Mauritz AB B",
     "ticker": "HNNMY"
-  },
-  {
-    "name": "West Fraser Timber Co Ltd (CAD)",
-    "ticker": "West Fraser Timber Company Limited"
-  },
-  {
-    "name": "SCREEN Holdings Co Ltd",
-    "ticker": "SCREEN Holdings Company Limited"
   },
   {
     "name": "Gjensidige Forsikring ASA",
@@ -7050,10 +6070,6 @@
   {
     "name": "Tomra Systems Ord",
     "ticker": "TOM.NO"
-  },
-  {
-    "name": "Fortescue Metals Group LTD",
-    "ticker": "Fortescue Metals Group Limited"
   },
   {
     "name": "Bluescope Steel Limited",
@@ -7072,28 +6088,8 @@
     "ticker": "SAMPO.HE"
   },
   {
-    "name": "Singapore Airlines",
-    "ticker": "Singapore Airlines"
-  },
-  {
-    "name": "Kinross Gold Corp",
-    "ticker": "Kinross Gold Corporation"
-  },
-  {
-    "name": "Poste Italiane Spa",
-    "ticker": "Poste Italiane Societa per Azioni"
-  },
-  {
     "name": "AGEAS",
     "ticker": "AGEA.BR"
-  },
-  {
-    "name": "Bank of Ireland Group PLC",
-    "ticker": "Bank of Ireland Group Public Limited Company"
-  },
-  {
-    "name": "Ono Pharmaceutical Co",
-    "ticker": "Ono Pharmaceutical Company"
   },
   {
     "name": "ALS Ltd",
@@ -7112,32 +6108,16 @@
     "ticker": "SKF-B.ST"
   },
   {
-    "name": "Allstate Corp",
-    "ticker": "Allstate Corporation"
-  },
-  {
     "name": "JFE Holdings Inc",
     "ticker": "JFEEY"
-  },
-  {
-    "name": "Corpay Inc",
-    "ticker": "Corpay Incorporated"
   },
   {
     "name": "Qantas Airways Limited",
     "ticker": "QAN.AX"
   },
   {
-    "name": "Shimizu Corp",
-    "ticker": "Shimizu Corporation"
-  },
-  {
     "name": "Saputo Inc",
     "ticker": "SAP.TO"
-  },
-  {
-    "name": "Siemens Healthineers AG",
-    "ticker": "Siemens Healthineers Aktiengesellschaft"
   },
   {
     "name": "Toromont Industries Ltd",
@@ -7172,24 +6152,12 @@
     "ticker": "ISETF"
   },
   {
-    "name": "Koninklijke KPN NV",
-    "ticker": "Koninklijke KPN N.V."
-  },
-  {
     "name": "ZOZO Inc",
     "ticker": "ZOZO.T"
   },
   {
     "name": "Rogers Communications Inc B",
     "ticker": "RCI-B.TO"
-  },
-  {
-    "name": "Stora Enso OYJ R",
-    "ticker": "Stora Enso OYJ Restricted"
-  },
-  {
-    "name": "Sumitomo Metal Mining Co Ltd",
-    "ticker": "Sumitomo Metal Mining Company Limited"
   },
   {
     "name": "Trade Desk Inc Class A",
@@ -7220,14 +6188,6 @@
     "ticker": "TMX.TO"
   },
   {
-    "name": "Sweco B",
-    "ticker": "Sweco AB"
-  },
-  {
-    "name": "George Weston Ltd",
-    "ticker": "George Weston Limited"
-  },
-  {
     "name": "Energias de Portugal SA",
     "ticker": "EDP.LS"
   },
@@ -7240,36 +6200,16 @@
     "ticker": "ABN.AS"
   },
   {
-    "name": "Svenska Cellulosa AB - B  (SEK)",
-    "ticker": "Svenska Cellulosa AB - Class B"
-  },
-  {
     "name": "Nikon Corp",
     "ticker": "NINOY"
-  },
-  {
-    "name": "Tokyu Corp",
-    "ticker": "Tokyu Corporation"
-  },
-  {
-    "name": "Empire Company Limited Class A",
-    "ticker": "Empire Company Limited Class A"
   },
   {
     "name": "AerCap Holdings NV (US)",
     "ticker": "AER"
   },
   {
-    "name": "Latour Investment AB B",
-    "ticker": "Latour Investment Aktiebolag Class B"
-  },
-  {
     "name": "REA Group LTD",
     "ticker": "REA.AX"
-  },
-  {
-    "name": "Minebea Mitsumi Co",
-    "ticker": "Minebea Mitsumi Corporation"
   },
   {
     "name": "BCE Inc",
@@ -7282,10 +6222,6 @@
   {
     "name": "Seiko Epson Corp",
     "ticker": "SEKEY"
-  },
-  {
-    "name": "Daito Trust Construction Co",
-    "ticker": "Daito Trust Construction Company"
   },
   {
     "name": "SSAB AB",
@@ -7408,10 +6344,6 @@
     "ticker": ""
   },
   {
-    "name": "Kennedy-Wilson Holdings Inc",
-    "ticker": "Kennedy-Wilson Holdings Incorporated"
-  },
-  {
     "name": "RLJ Lodging Trust",
     "ticker": ""
   },
@@ -7432,10 +6364,6 @@
     "ticker": ""
   },
   {
-    "name": "Region Group ORD",
-    "ticker": "Region Group Ordinary Shares"
-  },
-  {
     "name": "Elme Communities",
     "ticker": ""
   },
@@ -7444,16 +6372,8 @@
     "ticker": ""
   },
   {
-    "name": "Netstreit Ord",
-    "ticker": "Netstreit Ordinary"
-  },
-  {
     "name": "Sila Realty Trust Inc",
     "ticker": ""
-  },
-  {
-    "name": "Japan Excellent",
-    "ticker": "Japan Excellent"
   },
   {
     "name": "Dream Industrial REIT",
@@ -7528,10 +6448,6 @@
     "ticker": ""
   },
   {
-    "name": "Leopalace 21 Corp",
-    "ticker": "Leopalace 21 Corporation"
-  },
-  {
     "name": "Easterly Government Properties Inc",
     "ticker": ""
   },
@@ -7560,20 +6476,12 @@
     "ticker": ""
   },
   {
-    "name": "Samhallsbyggnadsbolaget i Norden AB",
-    "ticker": "Samhallsbyggnadsbolaget i Norden Aktiebolag"
-  },
-  {
     "name": "Net Lease Office Properties",
     "ticker": ""
   },
   {
     "name": "Equity Commonwealth",
     "ticker": ""
-  },
-  {
-    "name": "Helios Towers PLC",
-    "ticker": "Helios Towers Public Limited Company"
   },
   {
     "name": "Acea Spa Ord",
@@ -7584,20 +6492,8 @@
     "ticker": "NFE"
   },
   {
-    "name": "Hutchison Port Holdings Trust",
-    "ticker": "Hutchison Port Holdings Trust"
-  },
-  {
     "name": "COSCO SHIPPING Ports Ltd",
     "ticker": "CSPKY"
-  },
-  {
-    "name": "UNITIL Corp",
-    "ticker": "Unitil Corporation"
-  },
-  {
-    "name": "China Water Affairs Group Ltd",
-    "ticker": "China Water Affairs Group Limited"
   },
   {
     "name": "Beijing Capital International Airport Co. Ltd. - H Shares",
@@ -7608,24 +6504,8 @@
     "ticker": "RWAY.MI"
   },
   {
-    "name": "Westshore Terminals Investment Corp",
-    "ticker": "Westshore Terminals Investment Corporation"
-  },
-  {
     "name": "Corporacion America Airports SA",
     "ticker": ""
-  },
-  {
-    "name": "Shenzhen Expressway Co Ltd H Shares",
-    "ticker": "Shenzhen Expressway Company Limited H Shares"
-  },
-  {
-    "name": "Yuexiu Transport Infrastructure Ltd",
-    "ticker": "Yuexiu Transport Infrastructure Limited"
-  },
-  {
-    "name": "Elia Group Ord Rights",
-    "ticker": "Elia.BR"
   },
   {
     "name": "Vestas Wind Systems AS (EUR)",
@@ -7640,10 +6520,6 @@
     "ticker": "ENPH"
   },
   {
-    "name": "Orsted (EUR)",
-    "ticker": "Orsted"
-  },
-  {
     "name": "Nextracker Inc Class A",
     "ticker": "NEXA"
   },
@@ -7656,20 +6532,8 @@
     "ticker": "ORA"
   },
   {
-    "name": "Fortum Oyj",
-    "ticker": "Fortum Oyj"
-  },
-  {
-    "name": "Northland Power Inc.",
-    "ticker": "Northland Power Incorporated"
-  },
-  {
     "name": "EDP Renovaveis SA",
     "ticker": "EDPR.LS"
-  },
-  {
-    "name": "Clearway Energy Inc Class C",
-    "ticker": "Clearway Energy Inc Class C"
   },
   {
     "name": "Centrais Electricas Brasileiras SA ADR",
@@ -7684,92 +6548,20 @@
     "ticker": "BKW.SW"
   },
   {
-    "name": "Neste Oyj",
-    "ticker": "Neste Corporation"
-  },
-  {
-    "name": "Algonquin Power & Utilities Corp.",
-    "ticker": "Algonquin Power and Utilities Corporation"
-  },
-  {
     "name": "Nordex SE",
     "ticker": "NDX1.DE"
-  },
-  {
-    "name": "Boralex Inc. 'A'",
-    "ticker": "Boralex Inc. Class A"
-  },
-  {
-    "name": "Acciona SA",
-    "ticker": "Acciona Sociedad Anonima"
-  },
-  {
-    "name": "Innergex Renewable Energy Inc",
-    "ticker": "Innergex Renewable Energy Corporation.TO"
-  },
-  {
-    "name": "Conch Venture ORD",
-    "ticker": "Conch Venture Ordinary Shares"
-  },
-  {
-    "name": "Central New Energy Holding Group Ltd",
-    "ticker": "Central New Energy Holding Group Limited"
-  },
-  {
-    "name": "Plug Power Inc",
-    "ticker": "Plug Power Incorporated"
-  },
-  {
-    "name": "Enlight Renewable Energy Ltd",
-    "ticker": "Enlight Renewable Energy Limited"
   },
   {
     "name": "ERG SpA",
     "ticker": "ERG.MI"
   },
   {
-    "name": "Sunrun Inc.",
-    "ticker": "Sunrun Incorporated"
-  },
-  {
-    "name": "SolarEdge Technologies Inc",
-    "ticker": "SolarEdge Technologies Incorporated"
-  },
-  {
     "name": "Cia Energetica de Minas Gerais Pref ADR",
     "ticker": "CIG.C"
   },
   {
-    "name": "Array Technologies Inc",
-    "ticker": "Array Technologies Incorporated"
-  },
-  {
-    "name": "China Datang Corp Renewable Power Co Ltd",
-    "ticker": "China Datang Corporation Renewable Power Company Limited"
-  },
-  {
-    "name": "Corporacion Acciona Energias Renovables SA",
-    "ticker": "Corporacion Acciona Energias Renovables Sociedad Anonima"
-  },
-  {
-    "name": "Solaria Energia y Medioambiente SA",
-    "ticker": "Solaria Energia y Medioambiente Sociedad Anonima"
-  },
-  {
     "name": "Rex American Resources ORD",
     "ticker": "REX"
-  },
-  {
-    "name": "Shoals Technologies Group, Inc. Class A",
-    "ticker": "Shoals Technologies Group, Inc. Class A"
-  },
-  {
-    "name": "Goldwind Science & Technology Co Ltd",
-    "ticker": "Goldwind Science and Technology Company Limited"
-  },
-  {
-    "name": "Canadian Solar Inc",
-    "ticker": "Canadian Solar Incorporated"
   },
   {
     "name": "Renew Energy Global CL A ORD",
@@ -7784,84 +6576,20 @@
     "ticker": "S92.DE"
   },
   {
-    "name": "Altus Power Inc",
-    "ticker": "Altus Power Incorporated"
-  },
-  {
-    "name": "RENOVA Inc",
-    "ticker": "RENOVA Incorporated"
-  },
-  {
     "name": "Sunnova Energy International Inc.",
     "ticker": "NOVA"
-  },
-  {
-    "name": "Altria Group Inc",
-    "ticker": "Altria Group Incorporated"
   },
   {
     "name": "LTC Properties",
     "ticker": ""
   },
   {
-    "name": "LyondellBasell Industries CL A Ord",
-    "ticker": "LyondellBasell Industries Class A Ordinary"
-  },
-  {
-    "name": "Universal Corp",
-    "ticker": "Universal Corporation"
-  },
-  {
-    "name": "Western Union Ord",
-    "ticker": "Western Union Ordinary"
-  },
-  {
     "name": "AES Corp",
     "ticker": "AES"
   },
   {
-    "name": "Avista Corp",
-    "ticker": "Avista Corporation"
-  },
-  {
-    "name": "Amcor Ord",
-    "ticker": "Amcor Ordinary"
-  },
-  {
-    "name": "Portland General Electric Co",
-    "ticker": "Portland General Electric Company"
-  },
-  {
-    "name": "Black Hills Corp",
-    "ticker": "Black Hills Corporation"
-  },
-  {
-    "name": "HA Sustainable Infrastructure Capital Inc",
-    "ticker": "HA Sustainable Infrastructure Capital Incorporated"
-  },
-  {
-    "name": "Flowers Foods Inc",
-    "ticker": "Flowers Foods Incorporated"
-  },
-  {
     "name": "MSC Industrial Direct Class A",
     "ticker": "MSM"
-  },
-  {
-    "name": "Franklin Resources Inc",
-    "ticker": "Franklin Resources Incorporated"
-  },
-  {
-    "name": "Whirlpool Corp",
-    "ticker": "Whirlpool Corporation"
-  },
-  {
-    "name": "Elisa Corporation",
-    "ticker": "Elisa Corporation"
-  },
-  {
-    "name": "Valmet OYJ",
-    "ticker": "Valmet Corporation"
   },
   {
     "name": "Northwest Bancshares Inc.",
@@ -7874,22 +6602,6 @@
   {
     "name": "FMC Corporation Ordinary Shares",
     "ticker": "FMC"
-  },
-  {
-    "name": "First Interstate Bancsystem Inc",
-    "ticker": "First Interstate BancSystem Inc"
-  },
-  {
-    "name": "Teleperformance",
-    "ticker": "Teleperformance"
-  },
-  {
-    "name": "Polaris Inc",
-    "ticker": "Polaris Incorporated"
-  },
-  {
-    "name": "Enel SpA",
-    "ticker": "Enel Societa Per Azioni"
   },
   {
     "name": "Columbia Banking System Inc",
@@ -7908,28 +6620,8 @@
     "ticker": "VLY"
   },
   {
-    "name": "Comerica Inc (MI)",
-    "ticker": "Comerica Incorporated"
-  },
-  {
-    "name": "Navient Ord",
-    "ticker": "Navient Ordinary"
-  },
-  {
-    "name": "Schroders ORD",
-    "ticker": "Schroders Ordinary Shares"
-  },
-  {
-    "name": "Emera Inc",
-    "ticker": "Emera Incorporated"
-  },
-  {
     "name": "Hope Bancorp Inc",
     "ticker": "HOPE"
-  },
-  {
-    "name": "Canadian Utilities Ltd A NV",
-    "ticker": "Canadian Utilities Limited Class A Non-Voting"
   },
   {
     "name": "Sino Land Co. Ltd.",
@@ -7938,10 +6630,6 @@
   {
     "name": "Henderson Land Development Co Ltd",
     "ticker": "HKG:0012"
-  },
-  {
-    "name": "Canadian Natural Resources Ltd",
-    "ticker": "Canadian Natural Resources Limited"
   },
   {
     "name": "Banque Cant Vaudoise Reg",
@@ -7960,16 +6648,8 @@
     "ticker": "BAS.SW"
   },
   {
-    "name": "Canadian Tire Corporation ORD (Class A)",
-    "ticker": "Canadian Tire Corporation Ordinary Shares (Class A)"
-  },
-  {
     "name": "Magna International Inc",
     "ticker": "MGA.TO"
-  },
-  {
-    "name": "Julius Baer Group",
-    "ticker": "Julius Baer Group"
   },
   {
     "name": "IG Group Holdings",
@@ -7980,48 +6660,20 @@
     "ticker": "CLPHY"
   },
   {
-    "name": "Power Assets Holdings Ltd",
-    "ticker": "Power Assets Holdings Limited"
-  },
-  {
     "name": "CK Infrastructure Holdings Ltd",
     "ticker": "CKI.HK"
-  },
-  {
-    "name": "Power Corporation of Canada",
-    "ticker": "Power Corporation of Canada"
   },
   {
     "name": "Toronto-Dominion Bank (US)",
     "ticker": "TD"
   },
   {
-    "name": "Great-West Lifeco Inc",
-    "ticker": "Great-West Lifeco Incorporated"
-  },
-  {
     "name": "IGM Financial Inc",
     "ticker": "IGM.TO"
   },
   {
-    "name": "ANZ (NZ Register)",
-    "ticker": "Australia and New Zealand Banking Group (New Zealand Register)"
-  },
-  {
-    "name": "Westpac Banking Corporation (NZ Register)",
-    "ticker": "Westpac Banking Corporation (New Zealand Register)"
-  },
-  {
     "name": "Property for Industry Limited",
     "ticker": ""
-  },
-  {
-    "name": "Air New Zealand Ltd",
-    "ticker": "Air New Zealand Limited"
-  },
-  {
-    "name": "Vector Limited",
-    "ticker": "Vector Limited"
   },
   {
     "name": "Ehang Holdings ADR",
@@ -8052,10 +6704,6 @@
     "ticker": "LCID"
   },
   {
-    "name": "Couchbase Inc",
-    "ticker": "Couchbase Incorporated"
-  },
-  {
     "name": "Roblox Class A Ord",
     "ticker": "RBLX"
   },
@@ -8072,16 +6720,8 @@
     "ticker": "DBX"
   },
   {
-    "name": "Silicon Laboratories Inc",
-    "ticker": "Silicon Laboratories Incorporated"
-  },
-  {
     "name": "Rumble Inc Class A",
     "ticker": "RUMBL"
-  },
-  {
-    "name": "Planet Labs PBC Class A Ord",
-    "ticker": "Planet Labs Public Benefit Corporation Class A Ordinary Shares"
   },
   {
     "name": "Roku, Inc. ",
@@ -8092,20 +6732,8 @@
     "ticker": "VRNS"
   },
   {
-    "name": "Roivant Sciences Ord",
-    "ticker": "Roivant Sciences Ordinary"
-  },
-  {
-    "name": "Avidity Biosciences Ord",
-    "ticker": "Avidity Biosciences Ordinary Shares"
-  },
-  {
     "name": "Inspire Medical Systems Inc",
     "ticker": "INSP"
-  },
-  {
-    "name": "Red Cat Holdings Inc",
-    "ticker": "Red Cat Holdings Incorporated"
   },
   {
     "name": "SentinelOne Class A Ord",
@@ -8116,24 +6744,8 @@
     "ticker": "RKLB"
   },
   {
-    "name": "Unity Software Ord",
-    "ticker": "Unity Software"
-  },
-  {
-    "name": "Snap, Inc.",
-    "ticker": "Snap Inc"
-  },
-  {
-    "name": "Verve Therapeutics Ord",
-    "ticker": "Verve Therapeutics Ordinary Shares"
-  },
-  {
     "name": "Vimeo Ord",
     "ticker": "VIMEO"
-  },
-  {
-    "name": "Recursion Pharmaceuticals Inc Class A",
-    "ticker": "Recursion Pharmaceuticals Inc Class A"
   },
   {
     "name": "Ambarella Inc",
@@ -8144,14 +6756,6 @@
     "ticker": "ALLO"
   },
   {
-    "name": "Butterfly Network Inc Class A",
-    "ticker": "Butterfly Network Inc Class A"
-  },
-  {
-    "name": "Microvision Inc",
-    "ticker": "Microvision Incorporated"
-  },
-  {
     "name": "Bandwidth Inc",
     "ticker": "BAND"
   },
@@ -8160,36 +6764,12 @@
     "ticker": "IDEA"
   },
   {
-    "name": "Fastly CL A ORD",
-    "ticker": "Fastly Class A Ordinary Shares"
-  },
-  {
-    "name": "Asana Inc. Class A",
-    "ticker": "Asana Incorporated Class A"
-  },
-  {
-    "name": "Upstart Holdings Ord",
-    "ticker": "Upstart Holdings Ordinary"
-  },
-  {
-    "name": "Trump Media Technology Group Corp",
-    "ticker": "Trump Media Technology Group Corporation"
-  },
-  {
     "name": "Autolus Therapeutics PLC",
     "ticker": "AUTL"
   },
   {
-    "name": "Intellia Therapeutic Ord",
-    "ticker": "Intellia Therapeutics Ordinary"
-  },
-  {
     "name": "4D Molecular Therapeutics Inc",
     "ticker": "FDMT"
-  },
-  {
-    "name": "Flywire Corp",
-    "ticker": "Flywire Corporation"
   },
   {
     "name": "Jumia Technologies ADR",
@@ -8200,24 +6780,8 @@
     "ticker": "INDI"
   },
   {
-    "name": "Iovance Biotherapeutics Inc",
-    "ticker": "Iovance Biotherapeutics Incorporated"
-  },
-  {
     "name": "Nano Dimension Ltd ADR",
     "ticker": "NNDM"
-  },
-  {
-    "name": "iRobot Corporation",
-    "ticker": "iRobot Corporation"
-  },
-  {
-    "name": "Ballard Power Systems Inc",
-    "ticker": "Ballard Power Systems Incorporated"
-  },
-  {
-    "name": "Lightwave Logic Inc",
-    "ticker": "Lightwave Logic Incorporated"
   },
   {
     "name": "XPeng Inc. ADR Class A",
@@ -8232,32 +6796,8 @@
     "ticker": "RIVN"
   },
   {
-    "name": "Garrett Motion Inc",
-    "ticker": "Garrett Motion Incorporated"
-  },
-  {
-    "name": "Li Auto Inc.-A",
-    "ticker": "Li"
-  },
-  {
     "name": "Honda Motor Co ADR",
     "ticker": "HMC"
-  },
-  {
-    "name": "Polestar Automotive Holding Class A ADS",
-    "ticker": "Polestar Automotive Holding Class A American Depositary Share"
-  },
-  {
-    "name": "Cummins Inc",
-    "ticker": "Cummins Incorporated"
-  },
-  {
-    "name": "General Motors Co",
-    "ticker": "General Motors Company"
-  },
-  {
-    "name": "VinFast Auto Ltd",
-    "ticker": "VinFast Automotive Limited"
   },
   {
     "name": "Visteon Corp",
@@ -8268,32 +6808,12 @@
     "ticker": "BWA"
   },
   {
-    "name": "Allison Transmission Holdings Inc",
-    "ticker": "Allison Transmission Holdings Incorporated"
-  },
-  {
-    "name": "ArcelorMittal Inc",
-    "ticker": "ArcelorMittal"
-  },
-  {
     "name": "NIO Inc-ADR",
     "ticker": "NIO"
   },
   {
     "name": "REV Group Inc",
     "ticker": "REV"
-  },
-  {
-    "name": "Toyota Motor Corp ADR",
-    "ticker": "Toyota Motor Corporation American Depositary Receipt"
-  },
-  {
-    "name": "American Axle & Manufacturing Holdings",
-    "ticker": "American Axle and Manufacturing Holdings"
-  },
-  {
-    "name": "Lear Corp",
-    "ticker": "Lear Corporation"
   },
   {
     "name": "Gentherm Inc",
@@ -8306,10 +6826,6 @@
   {
     "name": "Stellantis Ordinary Shares",
     "ticker": "STLA.MI"
-  },
-  {
-    "name": "Blue Bird Corporation (Common)",
-    "ticker": "Blue Bird Corporation Common Stock"
   },
   {
     "name": "Hyster-Yale Materials Handling Inc A",
