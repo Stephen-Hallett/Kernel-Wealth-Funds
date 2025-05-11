@@ -369,7 +369,7 @@
     },
     {
       "name": "Cencora ORD",
-      "ticker": "Cencora Ordinary Shares",
+      "ticker": "CNC",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0037
@@ -418,7 +418,7 @@
     },
     {
       "name": "Canadian National Railways",
-      "ticker": "Canadian National Railway",
+      "ticker": "CNR.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0035
@@ -439,7 +439,7 @@
     },
     {
       "name": "BlackRock Ord",
-      "ticker": "BlackRock Ordinary",
+      "ticker": "BLK",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0034
@@ -474,7 +474,7 @@
     },
     {
       "name": "Danaher Corp",
-      "ticker": "Danaher Corporation",
+      "ticker": "DHR",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0032
@@ -502,14 +502,14 @@
     },
     {
       "name": "Applied Materials Inc",
-      "ticker": "Applied Materials Incorporated",
+      "ticker": "AMAT",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0031
     },
     {
       "name": "Cardinal Health Inc",
-      "ticker": "Cardinal Health Incorporated",
+      "ticker": "CAH",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.003
@@ -558,7 +558,7 @@
     },
     {
       "name": "Booking Holdings Inc",
-      "ticker": "Booking Holdings Incorporated",
+      "ticker": "BKNG",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0027
@@ -572,14 +572,14 @@
     },
     {
       "name": "Canadian Pacific Railway Ltd",
-      "ticker": "Canadian Pacific Railway Limited",
+      "ticker": "CP.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0027
     },
     {
       "name": "Walt Disney Co Ordinary Shares",
-      "ticker": "Walt Disney Company Common Stock",
+      "ticker": "DIS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0026
@@ -614,7 +614,7 @@
     },
     {
       "name": "National Australia Bank Limited (AU Register)",
-      "ticker": "National Australia Bank Limited",
+      "ticker": "NAB.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0025
@@ -628,14 +628,14 @@
     },
     {
       "name": "Micron Technology Inc",
-      "ticker": "Micron Technology Incorporated",
+      "ticker": "MU",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0025
     },
     {
       "name": "United Parcel Service Inc B",
-      "ticker": "United Parcel Service Inc Class B",
+      "ticker": "UPS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0024
@@ -649,14 +649,14 @@
     },
     {
       "name": "Bank of Nova Scotia Halifax",
-      "ticker": "Bank of Nova Scotia Halifax",
+      "ticker": "BNS",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0024
     },
     {
       "name": "Bank of Montreal Ord",
-      "ticker": "Bank of Montreal Ordinary Shares",
+      "ticker": "BMO.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0023
@@ -684,14 +684,14 @@
     },
     {
       "name": "Intercontinental Exchange Inc",
-      "ticker": "Intercontinental Exchange Incorporated",
+      "ticker": "ICE",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0021
     },
     {
       "name": "Stryker Corp",
-      "ticker": "Stryker Corporation",
+      "ticker": "SYK",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0021
@@ -705,28 +705,28 @@
     },
     {
       "name": "Intesa SanPaolo",
-      "ticker": "Intesa SanPaolo",
+      "ticker": "",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0021
     },
     {
       "name": "Tokyo Electron",
-      "ticker": "Tokyo Electron",
+      "ticker": "8035.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0021
     },
     {
       "name": "American Express Co",
-      "ticker": "American Express Company",
+      "ticker": "AXP",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0021
     },
     {
       "name": "Starbucks Corp",
-      "ticker": "Starbucks Corporation",
+      "ticker": "SBUX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0021
@@ -754,7 +754,7 @@
     },
     {
       "name": "ANZ Bank (AU Register)",
-      "ticker": "Australia and New Zealand Banking Group Limited",
+      "ticker": "ANZ.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.002
@@ -775,7 +775,7 @@
     },
     {
       "name": "Regeneron Pharmaceuticals Inc",
-      "ticker": "Regeneron Pharmaceuticals Incorporated",
+      "ticker": "REGN",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.002
@@ -796,7 +796,7 @@
     },
     {
       "name": "Fast Retailing Co",
-      "ticker": "Fast Retailing Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0019
@@ -817,7 +817,7 @@
     },
     {
       "name": "Sumitomo Mitsui Financial Group",
-      "ticker": "Sumitomo Mitsui Financial Group",
+      "ticker": "8316.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0018
@@ -831,14 +831,14 @@
     },
     {
       "name": "Autodesk Inc",
-      "ticker": "Autodesk Incorporated",
+      "ticker": "ADSK",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0018
     },
     {
       "name": "Keurig Dr Pepper Inc",
-      "ticker": "Keurig Dr Pepper Incorporated",
+      "ticker": "KDP",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0017
@@ -922,21 +922,21 @@
     },
     {
       "name": "Cadence Design Systems Inc",
-      "ticker": "Cadence Design Systems Incorporated",
+      "ticker": "CDNS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0016
     },
     {
       "name": "Manulife Financial Corporation",
-      "ticker": "Manulife Financial Corporation",
+      "ticker": "MFC.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0016
     },
     {
       "name": "Investor AB B (SEK)",
-      "ticker": "Investor AB Class B",
+      "ticker": "INVE-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0016
@@ -978,7 +978,7 @@
     },
     {
       "name": "DEUTSCHE BOERSE NA O.N.",
-      "ticker": "Deutsche Boerse Namens-Aktien",
+      "ticker": "DB1.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0015
@@ -992,7 +992,7 @@
     },
     {
       "name": "Canadian Imperial Bank of Commerce",
-      "ticker": "Canadian Imperial Bank of Commerce",
+      "ticker": "CM.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0015
@@ -1013,7 +1013,7 @@
     },
     {
       "name": "Daiichi Sankyo Co Ltd",
-      "ticker": "Daiichi Sankyo Company Limited",
+      "ticker": "4568.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0015
@@ -1027,7 +1027,7 @@
     },
     {
       "name": "Westpac Banking Corporation (AU Register)",
-      "ticker": "Westpac Banking Corporation",
+      "ticker": "WBC.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0014
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "Tokyo Ohka Kogyo Co Ltd",
-      "ticker": "Tokyo Ohka Kogyo Company Limited",
+      "ticker": "4186.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0014
@@ -1076,7 +1076,7 @@
     },
     {
       "name": "United Rentals Ord",
-      "ticker": "United Rentals Ordinary",
+      "ticker": "URI",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0014
@@ -1097,7 +1097,7 @@
     },
     {
       "name": "Fortinet",
-      "ticker": "Fortinet",
+      "ticker": "FTNT",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0013
@@ -1153,7 +1153,7 @@
     },
     {
       "name": "Vertex Pharmaceuticals",
-      "ticker": "Vertex Pharmaceuticals",
+      "ticker": "VRTX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0012
@@ -1167,7 +1167,7 @@
     },
     {
       "name": "Norfolk Southern Corp",
-      "ticker": "Norfolk Southern Corporation",
+      "ticker": "NSC",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0012
@@ -1195,7 +1195,7 @@
     },
     {
       "name": "Advantest Corp",
-      "ticker": "Advantest Corporation",
+      "ticker": "6857.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0012
@@ -1216,14 +1216,14 @@
     },
     {
       "name": "Chugai Pharmaceutical Co",
-      "ticker": "Chugai Pharmaceutical Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0012
     },
     {
       "name": "NetFlix Inc",
-      "ticker": "Netflix Inc",
+      "ticker": "NFLX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0012
@@ -1237,7 +1237,7 @@
     },
     {
       "name": "Zurich Insurance Group AG",
-      "ticker": "Zurich Insurance Group Aktiengesellschaft",
+      "ticker": "ZURN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0012
@@ -1279,7 +1279,7 @@
     },
     {
       "name": "Quanta Services Inc",
-      "ticker": "Quanta Services Incorporated",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0011
@@ -1293,7 +1293,7 @@
     },
     {
       "name": "Agilent Technologies Inc",
-      "ticker": "Agilent Technologies Incorporated",
+      "ticker": "A",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0011
@@ -1314,7 +1314,7 @@
     },
     {
       "name": "Legrand Promesses",
-      "ticker": "Legrand Promesses",
+      "ticker": "LR.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0011
@@ -1335,7 +1335,7 @@
     },
     {
       "name": "Intuitive Surgical Inc Common Stock",
-      "ticker": "Intuitive Surgical Inc",
+      "ticker": "ISRG",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0011
@@ -1363,21 +1363,21 @@
     },
     {
       "name": "Chipotle Mexican Grill Inc.",
-      "ticker": "Chipotle Mexican Grill Incorporated",
+      "ticker": "CMG",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.001
     },
     {
       "name": "Assa Abloy B (SEK)",
-      "ticker": "Assa B.ST",
+      "ticker": "ASSA-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.001
     },
     {
       "name": "Nordea Bank Abp (SEK)",
-      "ticker": "Nordea Bank Abp",
+      "ticker": "NDA-FI.HE",
       "countryName": "Finland",
       "countryCode": "FI",
       "proportion": 0.001
@@ -1398,21 +1398,21 @@
     },
     {
       "name": "Tokio Marine Holdings Inc",
-      "ticker": "Tokio Marine Holdings Incorporated",
+      "ticker": "8766.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.001
     },
     {
       "name": "Societe Generale",
-      "ticker": "Societe Generale",
+      "ticker": "GLE.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.001
     },
     {
       "name": "Truist Financial Corp",
-      "ticker": "Truist Financial Corporation",
+      "ticker": "TFC",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.001
@@ -1440,14 +1440,14 @@
     },
     {
       "name": "Equifax Inc",
-      "ticker": "Equifax Incorporated",
+      "ticker": "EFX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0009
     },
     {
       "name": "Rio Tinto PLC Ord (UK Register)",
-      "ticker": "Rio Tinto Public Limited Company Ordinary Shares",
+      "ticker": "RIO.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0009
@@ -1461,14 +1461,14 @@
     },
     {
       "name": "Deutsche Post N ORD",
-      "ticker": "Deutsche Post North Ordinary",
+      "ticker": "DPW.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0009
     },
     {
       "name": "National Bank of Canada",
-      "ticker": "National Bank of Canada",
+      "ticker": "NA.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0009
@@ -1489,7 +1489,7 @@
     },
     {
       "name": "Lotus Bakeries NV",
-      "ticker": "Lotus Bakeries N.V.",
+      "ticker": "LOTB.BR",
       "countryName": "Belgium",
       "countryCode": "BE",
       "proportion": 0.0009
@@ -1510,14 +1510,14 @@
     },
     {
       "name": "EssilorLuxottica",
-      "ticker": "EssilorLuxottica",
+      "ticker": "",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0009
     },
     {
       "name": "Spotify Technology S.A.",
-      "ticker": "Spotify Technology SA",
+      "ticker": "SPOT",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0009
@@ -1531,7 +1531,7 @@
     },
     {
       "name": "Geberit AG Reg",
-      "ticker": "Geberit Aktiengesellschaft Registered",
+      "ticker": "GEBN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0009
@@ -1580,7 +1580,7 @@
     },
     {
       "name": "Biogen Inc",
-      "ticker": "Biogen Incorporated",
+      "ticker": "BIIB",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0008
@@ -1594,7 +1594,7 @@
     },
     {
       "name": "DoorDash, Inc. Class A",
-      "ticker": "DoorDash, Inc. Class A",
+      "ticker": "DASH",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0008
@@ -1622,21 +1622,21 @@
     },
     {
       "name": "Tesco",
-      "ticker": "Tesco.L",
+      "ticker": "TSCO.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0008
     },
     {
       "name": "US Bancorp ORD",
-      "ticker": "US Bancorp",
+      "ticker": "USB",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0008
     },
     {
       "name": "Newmont Corp",
-      "ticker": "Newmont Corporation",
+      "ticker": "NEM",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0008
@@ -1657,7 +1657,7 @@
     },
     {
       "name": "Vulcan Materials Co",
-      "ticker": "Vulcan Materials Company",
+      "ticker": "VMC",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0008
@@ -1692,7 +1692,7 @@
     },
     {
       "name": "State Street Corp",
-      "ticker": "State Street Corporation",
+      "ticker": "STT",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0007
@@ -1713,7 +1713,7 @@
     },
     {
       "name": "AutoZone Inc",
-      "ticker": "AutoZone Incorporated",
+      "ticker": "AZO",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0007
@@ -1727,14 +1727,14 @@
     },
     {
       "name": "Swedbank AB (SEK)",
-      "ticker": "Swedbank Aktiebolag",
+      "ticker": "SWED-A.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0007
     },
     {
       "name": "Shopify Inc",
-      "ticker": "Shopify Incorporated",
+      "ticker": "SHOP",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0007
@@ -1762,14 +1762,14 @@
     },
     {
       "name": "ResMed Inc",
-      "ticker": "ResMed Incorporated",
+      "ticker": "RMD",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0007
     },
     {
       "name": "Svenska Handelsbanken A (EUR)",
-      "ticker": "Svenska Handelsbanken A (Euro)",
+      "ticker": "SHB-A.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0007
@@ -1783,7 +1783,7 @@
     },
     {
       "name": "Republic Services Inc",
-      "ticker": "Republic Services Incorporated",
+      "ticker": "RSG",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0007
@@ -1797,7 +1797,7 @@
     },
     {
       "name": "Nintendo Co Ltd",
-      "ticker": "Nintendo Company Limited",
+      "ticker": "7974.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0007
@@ -1818,14 +1818,14 @@
     },
     {
       "name": "Amadeus IT Group SA",
-      "ticker": "Amadeus Information Technology Group Société Anonyme",
+      "ticker": "AMS.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0007
     },
     {
       "name": "Martin Merietta Materials Inc Common Stock",
-      "ticker": "Martin Marietta Materials Inc Common Stock",
+      "ticker": "MLM",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0007
@@ -1853,7 +1853,7 @@
     },
     {
       "name": "Public Service Enterprise Grp",
-      "ticker": "Public Service Enterprise Group",
+      "ticker": "PEG",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0006
@@ -1895,21 +1895,21 @@
     },
     {
       "name": "Murata Manufacturing Co Ltd",
-      "ticker": "Murata Manufacturing Company Limited",
+      "ticker": "6981.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0006
     },
     {
       "name": "Nomura Research Institute Ltd",
-      "ticker": "Nomura Research Institute Limited",
+      "ticker": "4307.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0006
     },
     {
       "name": "Oriental Land Co",
-      "ticker": "Orient.Land",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0006
@@ -1944,7 +1944,7 @@
     },
     {
       "name": "Alcon",
-      "ticker": "Alcon",
+      "ticker": "ALC",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0006
@@ -1958,28 +1958,28 @@
     },
     {
       "name": "Deutsche Bank AG",
-      "ticker": "Deutsche Bank Aktiengesellschaft",
+      "ticker": "DBK.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0006
     },
     {
       "name": "Ashtead Group",
-      "ticker": "Ashtead Group",
+      "ticker": "AHT.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0006
     },
     {
       "name": "Freeport McMoRan Inc",
-      "ticker": "Freeport-McMoRan Inc",
+      "ticker": "FCX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0006
     },
     {
       "name": "Marvell Technology, Inc",
-      "ticker": "Marvell Technology, Incorporated",
+      "ticker": "MRVL",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0006
@@ -1993,7 +1993,7 @@
     },
     {
       "name": "Assicurazioni Generali SpA",
-      "ticker": "Assicurazioni Generali Societa per Azioni",
+      "ticker": "",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0006
@@ -2007,14 +2007,14 @@
     },
     {
       "name": "Nippon Tel & Tel Corp",
-      "ticker": "Nippon Telephone and Telegraph Corporation",
+      "ticker": "9432.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0006
     },
     {
       "name": "Ferrovial SE Ord",
-      "ticker": "Ferrovial SE Ordinary",
+      "ticker": "FER.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0006
@@ -2084,7 +2084,7 @@
     },
     {
       "name": "Palantir Technologies Inc. Class A",
-      "ticker": "Palantir Technologies Inc. Class A",
+      "ticker": "PLTR",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0006
@@ -2112,7 +2112,7 @@
     },
     {
       "name": "NatWest Group",
-      "ticker": "National Westminster Bank Group",
+      "ticker": "NWG.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0005
@@ -2126,7 +2126,7 @@
     },
     {
       "name": "M&T Bank Corp",
-      "ticker": "M&T Bank Corporation",
+      "ticker": "MTB",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
@@ -2154,14 +2154,14 @@
     },
     {
       "name": "CAPGEMINI SE",
-      "ticker": "Cap.PA",
+      "ticker": "CAP.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0005
     },
     {
       "name": "Take Two Interactive Software",
-      "ticker": "Take-Two Interactive Software",
+      "ticker": "TTWO",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
@@ -2182,7 +2182,7 @@
     },
     {
       "name": "Cellnex Telecom SA Ord",
-      "ticker": "Cellnex Telecom SA Ordinary",
+      "ticker": "CLNX.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0005
@@ -2203,7 +2203,7 @@
     },
     {
       "name": "Sugi Holdings Co Ltd",
-      "ticker": "Sugi Holdings Company Limited",
+      "ticker": "7649.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0005
@@ -2217,21 +2217,21 @@
     },
     {
       "name": "Sun Life Financial ORD",
-      "ticker": "Sun Life Financial Ordinary Shares",
+      "ticker": "SLF.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0005
     },
     {
       "name": "Huntington Bancshares (OH)",
-      "ticker": "Huntington Bancshares",
+      "ticker": "HBAN",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
     },
     {
       "name": "Metro Inc.",
-      "ticker": "Metro Incorporated",
+      "ticker": "MRU.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0005
@@ -2252,7 +2252,7 @@
     },
     {
       "name": "Restaurant Brands International Inc.",
-      "ticker": "Restaurant Brands International Incorporated",
+      "ticker": "QSR.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0005
@@ -2266,7 +2266,7 @@
     },
     {
       "name": "Investor AB A (SEK)",
-      "ticker": "Investor AB Class A",
+      "ticker": "INVE-A.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0005
@@ -2287,21 +2287,21 @@
     },
     {
       "name": "Erste Group Bank AG",
-      "ticker": "Erste Group Bank Aktiengesellschaft",
+      "ticker": "EBS.VI",
       "countryName": "Austria",
       "countryCode": "AT",
       "proportion": 0.0005
     },
     {
       "name": "Dollar General Corp",
-      "ticker": "Dollar General Corporation",
+      "ticker": "DG",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
     },
     {
       "name": "Ameriprise Financial Inc",
-      "ticker": "Ameriprise Financial Incorporated",
+      "ticker": "AMP",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
@@ -2322,7 +2322,7 @@
     },
     {
       "name": "Best Buy ORD",
-      "ticker": "Best Buy Co., Inc.",
+      "ticker": "BBY",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
@@ -2343,7 +2343,7 @@
     },
     {
       "name": "Gartner Ord",
-      "ticker": "Gartner Ordinary",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0005
@@ -2371,14 +2371,14 @@
     },
     {
       "name": "Credit Agricole SA",
-      "ticker": "Credit Agricole Societe Anonyme",
+      "ticker": "ACA.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0004
     },
     {
       "name": "Illumina Inc",
-      "ticker": "Illumina Incorporated",
+      "ticker": "ILMN",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
@@ -2420,21 +2420,21 @@
     },
     {
       "name": "Otis Worldwide Corp",
-      "ticker": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
     },
     {
       "name": "Fortive Corp",
-      "ticker": "Fortive Corporation",
+      "ticker": "FTV",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
     },
     {
       "name": "Danske Bank A/S",
-      "ticker": "Danske Bank Aktieselskab",
+      "ticker": "",
       "countryName": "Denmark",
       "countryCode": "DK",
       "proportion": 0.0004
@@ -2448,21 +2448,21 @@
     },
     {
       "name": "Fujitsu",
-      "ticker": "Fujitsu",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0004
     },
     {
       "name": "Vertiv Holdings Co",
-      "ticker": "Vertiv Holdings Company",
+      "ticker": "VRT",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
     },
     {
       "name": "Steel Dynamics Inc",
-      "ticker": "Steel Dynamics Incorporated",
+      "ticker": "STLD",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
@@ -2490,21 +2490,21 @@
     },
     {
       "name": "Garmin Ltd",
-      "ticker": "Garmin Limited",
+      "ticker": "GRMN",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
     },
     {
       "name": "Fanuc Co",
-      "ticker": "Fanuc Company",
+      "ticker": "6954.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0004
     },
     {
       "name": "Infineon Technologies AG",
-      "ticker": "Infineon Technologies Aktiengesellschaft",
+      "ticker": "IFX.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0004
@@ -2546,7 +2546,7 @@
     },
     {
       "name": "Singapore Telecommunications Ltd",
-      "ticker": "Singapore Telecommunications Limited",
+      "ticker": "Z74.SI",
       "countryName": "Singapore",
       "countryCode": "SG",
       "proportion": 0.0004
@@ -2567,14 +2567,14 @@
     },
     {
       "name": "Pan Pacific International Holdings Corp",
-      "ticker": "Pan Pacific International Holdings Corporation",
+      "ticker": "7532.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0004
     },
     {
       "name": "Hydro One Limited",
-      "ticker": "Hydro One Limited",
+      "ticker": "H",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0004
@@ -2595,14 +2595,14 @@
     },
     {
       "name": "Astellas Pharma Inc",
-      "ticker": "Astellas Pharmaceuticals Inc",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0004
     },
     {
       "name": "Obayashi Corp",
-      "ticker": "Obayashi Corporation",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0004
@@ -2616,7 +2616,7 @@
     },
     {
       "name": "Barrick Gold Corp Ord",
-      "ticker": "Barrick Gold Corporation",
+      "ticker": "ABX.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0004
@@ -2630,21 +2630,21 @@
     },
     {
       "name": "Rio Tinto (AU Register)",
-      "ticker": "Rio Tinto",
+      "ticker": "RIO.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0004
     },
     {
       "name": "Dassault Systemes SA",
-      "ticker": "Dassault Systemes Societe Anonyme",
+      "ticker": "",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0004
     },
     {
       "name": "SKANSKA AB-B (SEK)",
-      "ticker": "Skanska B.ST",
+      "ticker": "SKA-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0004
@@ -2658,7 +2658,7 @@
     },
     {
       "name": "Swiss Life Reg",
-      "ticker": "Swiss Life Reg",
+      "ticker": "SLHN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0004
@@ -2672,7 +2672,7 @@
     },
     {
       "name": "Vestas Wind Systems AS (DKK)",
-      "ticker": "Vestas Wind Systems A/S",
+      "ticker": "VWS.CO",
       "countryName": "Denmark",
       "countryCode": "DK",
       "proportion": 0.0004
@@ -2693,28 +2693,28 @@
     },
     {
       "name": "Computershare",
-      "ticker": "Computershare",
+      "ticker": "CPU.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0004
     },
     {
       "name": "Japan Post Holdings co",
-      "ticker": "Japan Post Holdings Company",
+      "ticker": "6178.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0004
     },
     {
       "name": "Next",
-      "ticker": "Next.L",
+      "ticker": "NXT.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0004
     },
     {
       "name": "Cognizant Tech Solutions Corp",
-      "ticker": "Cognizant Technology Solutions Corporation",
+      "ticker": "CTSH",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
@@ -2735,14 +2735,14 @@
     },
     {
       "name": "Aristocrat Leisure Limited",
-      "ticker": "Aristocrat Leisure Limited",
+      "ticker": "ALL.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0004
     },
     {
       "name": "Moncler SpA",
-      "ticker": "Moncler Societa per Azioni",
+      "ticker": "MONC.MI",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0004
@@ -2756,7 +2756,7 @@
     },
     {
       "name": "Fortis Inc",
-      "ticker": "Fortis Incorporated",
+      "ticker": "FTS.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0004
@@ -2777,35 +2777,35 @@
     },
     {
       "name": "Swiss Re Reg",
-      "ticker": "Swiss Reinsurance",
+      "ticker": "SREN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0003
     },
     {
       "name": "Medipal Holdings Co",
-      "ticker": "Medipal Holdings Company",
+      "ticker": "7459.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
     },
     {
       "name": "Stantec Inc",
-      "ticker": "Stantec Incorporated",
+      "ticker": "STN.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0003
     },
     {
       "name": "Heidelberg Materials AG",
-      "ticker": "Hei.DE",
+      "ticker": "HEI.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0003
     },
     {
       "name": "Aviva PLC ORD",
-      "ticker": "Aviva Public Limited Company Ordinary Shares",
+      "ticker": "AV.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0003
@@ -2819,7 +2819,7 @@
     },
     {
       "name": "Addtech AB B (SEK)",
-      "ticker": "Add-B.ST",
+      "ticker": "ADDTECH-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0003
@@ -2833,7 +2833,7 @@
     },
     {
       "name": "Secom Co",
-      "ticker": "Secom Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
@@ -2847,7 +2847,7 @@
     },
     {
       "name": "Leroy Seafood Group ASA",
-      "ticker": "Leroy Seafood Group ASA",
+      "ticker": "",
       "countryName": "Norway",
       "countryCode": "NO",
       "proportion": 0.0003
@@ -2868,21 +2868,21 @@
     },
     {
       "name": "Regions Financial Corp",
-      "ticker": "Regions Financial Corporation",
+      "ticker": "RF",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0003
     },
     {
       "name": "Swisscom AG Reg",
-      "ticker": "Swisscom Aktiengesellschaft Registered",
+      "ticker": "SCMN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0003
     },
     {
       "name": "Publicis Groupe",
-      "ticker": "Publicis Groupe",
+      "ticker": "PUB.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0003
@@ -2903,7 +2903,7 @@
     },
     {
       "name": "Legal & General Group PLC Ord",
-      "ticker": "Legal & General Group PLC Ordinary",
+      "ticker": "LGEN.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0003
@@ -2917,14 +2917,14 @@
     },
     {
       "name": "MatsukiyoCocokara & Co",
-      "ticker": "MatsukiyoCocokara & Company",
+      "ticker": "3088.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
     },
     {
       "name": "Kyocera Corp",
-      "ticker": "Kyocera Corporation",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
@@ -2952,7 +2952,7 @@
     },
     {
       "name": "Tyson Foods Inc A",
-      "ticker": "Tyson Foods Incorporated Class A",
+      "ticker": "TSN",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0003
@@ -2966,7 +2966,7 @@
     },
     {
       "name": "James Hardie Industries PLC Cdi 1:1",
-      "ticker": "James Hardie Industries Public Limited Company Chess Depositary Interest 1:1",
+      "ticker": "JHX.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0003
@@ -2980,14 +2980,14 @@
     },
     {
       "name": "Sumitomo Mitsui Ord",
-      "ticker": "Sumitomo Mitsui Ordinary",
+      "ticker": "8316.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
     },
     {
       "name": "Toppan Inc",
-      "ticker": "Toppan Incorporated",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
@@ -3001,7 +3001,7 @@
     },
     {
       "name": "FinecoBank Spa",
-      "ticker": "FinecoBank S.p.A.",
+      "ticker": "",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0003
@@ -3015,21 +3015,21 @@
     },
     {
       "name": "Shionogi & Co",
-      "ticker": "Shionogi and Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
     },
     {
       "name": "Electronic Arts",
-      "ticker": "Electronic Arts",
+      "ticker": "EA",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0003
     },
     {
       "name": "Asics Corp",
-      "ticker": "Asics Corporation",
+      "ticker": "7936.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
@@ -3064,7 +3064,7 @@
     },
     {
       "name": "Japan Post Bank co",
-      "ticker": "Japan Post Bank Company",
+      "ticker": "7182.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
@@ -3106,7 +3106,7 @@
     },
     {
       "name": "Lifco AB",
-      "ticker": "Lifco.ST",
+      "ticker": "LIFCO-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0003
@@ -3134,14 +3134,14 @@
     },
     {
       "name": "Tele2 AB B (SEK)",
-      "ticker": "Tele2-B.ST",
+      "ticker": "TEL2-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0003
     },
     {
       "name": "Prudential PLC Ord (GBP)",
-      "ticker": "Prudential Public Limited Company Ordinary Shares",
+      "ticker": "PRU.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0003
@@ -3155,7 +3155,7 @@
     },
     {
       "name": "Pearson",
-      "ticker": "Pearson.L",
+      "ticker": "PSON.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0003
@@ -3169,7 +3169,7 @@
     },
     {
       "name": "Grab Holdings Limited Class A",
-      "ticker": "Grab Holdings Limited Class A",
+      "ticker": "GRAB",
       "countryName": "Singapore",
       "countryCode": "SG",
       "proportion": 0.0003
@@ -3197,14 +3197,14 @@
     },
     {
       "name": "Alnylam Pharmaceuticals Inc",
-      "ticker": "Alnylam Pharmaceuticals Incorporated",
+      "ticker": "ALNY",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
     },
     {
       "name": "AIB Group Plc",
-      "ticker": "Allied Irish Banks Group Public Limited Company",
+      "ticker": "AIBG.IR",
       "countryName": "Ireland",
       "countryCode": "IE",
       "proportion": 0.0002
@@ -3232,14 +3232,14 @@
     },
     {
       "name": "Global Payments Inc",
-      "ticker": "Global Payments Incorporated",
+      "ticker": "GPN",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
     },
     {
       "name": "Pinterest Inc",
-      "ticker": "Pinterest Incorporated",
+      "ticker": "PINS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
@@ -3260,14 +3260,14 @@
     },
     {
       "name": "Hang Seng Bank Ltd.",
-      "ticker": "Hang Seng Bank Limited",
+      "ticker": "0011.HK",
       "countryName": "Hong Kong",
       "countryCode": "HK",
       "proportion": 0.0002
     },
     {
       "name": "Element Fleet Management Corp",
-      "ticker": "Element Fleet Management Corporation",
+      "ticker": "EFN.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0002
@@ -3281,14 +3281,14 @@
     },
     {
       "name": "Orsted",
-      "ticker": "Orsted",
+      "ticker": "ORSTED.CO",
       "countryName": "Denmark",
       "countryCode": "DK",
       "proportion": 0.0002
     },
     {
       "name": "Intermediate Capital Group PLC",
-      "ticker": "Intermediate Capital Group Public Limited Company",
+      "ticker": "ICP.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0002
@@ -3302,21 +3302,21 @@
     },
     {
       "name": "United Utilities Group PLC Ord",
-      "ticker": "United Utilities Group Public Limited Company Ordinary",
+      "ticker": "UU.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0002
     },
     {
       "name": "Ackermans & Van Haaren NV",
-      "ticker": "Ackermans & Van Haaren NV",
+      "ticker": "ACKB.BR",
       "countryName": "Belgium",
       "countryCode": "BE",
       "proportion": 0.0002
     },
     {
       "name": "Sysmex Corp",
-      "ticker": "Sysmex Corporation",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
@@ -3330,7 +3330,7 @@
     },
     {
       "name": "LY Corp",
-      "ticker": "LY Corporation",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
@@ -3344,21 +3344,21 @@
     },
     {
       "name": "Smith & Nephew",
-      "ticker": "Smith and Nephew",
+      "ticker": "SN.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0002
     },
     {
       "name": "Sumitomo Forestry Co",
-      "ticker": "Sumitomo Forestry Company",
+      "ticker": "1911.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
     },
     {
       "name": "Toyo Suisan Kaisha",
-      "ticker": "Toyo Suisan Kaisha",
+      "ticker": "2875.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
@@ -3372,7 +3372,7 @@
     },
     {
       "name": "Mediobanca SpA",
-      "ticker": "Mediobanca Societa per Azioni",
+      "ticker": "MB.MI",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0002
@@ -3386,14 +3386,14 @@
     },
     {
       "name": "Chocoladefabriken Lindt & Spruengli PAR",
-      "ticker": "Chocoladefabriken Lindt & Sprüngli Participation Certificate",
+      "ticker": "LISN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0002
     },
     {
       "name": "BOC Hong Kong (Holdings) Ltd.",
-      "ticker": "Bank of China Hong Kong (Holdings) Limited",
+      "ticker": "2388.HK",
       "countryName": "Hong Kong",
       "countryCode": "HK",
       "proportion": 0.0002
@@ -3407,14 +3407,14 @@
     },
     {
       "name": "Nitori Holdings Co",
-      "ticker": "Nitori Holdings Company",
+      "ticker": "9843.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
     },
     {
       "name": "First Solar Inc",
-      "ticker": "First Solar Incorporated",
+      "ticker": "FSLR",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
@@ -3442,7 +3442,7 @@
     },
     {
       "name": "Swedish Orphan Biovitrum AB (SEK)",
-      "ticker": "Swedish Orphan Biovitrum Aktiebolag",
+      "ticker": "SOBI.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0002
@@ -3470,7 +3470,7 @@
     },
     {
       "name": "Fujikura Ltd",
-      "ticker": "Fujikura Limited",
+      "ticker": "5803.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
@@ -3491,28 +3491,28 @@
     },
     {
       "name": "Chubu Electric Power Co Inc",
-      "ticker": "Chubu Electric Power Company Incorporated",
+      "ticker": "9502.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
     },
     {
       "name": "Nippon Express Holdings Inc",
-      "ticker": "Nippon Express Holdings Incorporated",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
     },
     {
       "name": "Telia Company AB",
-      "ticker": "Telia Company Aktiebolag",
+      "ticker": "TELIA.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0002
     },
     {
       "name": "Alamos Gold Inc",
-      "ticker": "Alamos Gold Incorporated",
+      "ticker": "AGI.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0002
@@ -3533,7 +3533,7 @@
     },
     {
       "name": "Hong Kong Land Hldgs Ltd",
-      "ticker": "Hong Kong Land Holdings Limited",
+      "ticker": "HKL.HK",
       "countryName": "Hong Kong",
       "countryCode": "HK",
       "proportion": 0.0002
@@ -3547,21 +3547,21 @@
     },
     {
       "name": "ArcelorMittal Inc Ord",
-      "ticker": "ArcelorMittal Inc Ordinary",
+      "ticker": "MT",
       "countryName": "Luxembourg",
       "countryCode": "LU",
       "proportion": 0.0002
     },
     {
       "name": "Nomura Holdings Inc",
-      "ticker": "Nomura Holdings Incorporated",
+      "ticker": "8604.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
     },
     {
       "name": "Super Micro Computer Inc",
-      "ticker": "Super Micro Computer Incorporated",
+      "ticker": "SMCI",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
@@ -3575,21 +3575,21 @@
     },
     {
       "name": "West Fraser Timber Co Ltd (CAD)",
-      "ticker": "West Fraser Timber Company Limited",
+      "ticker": "WFG.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0002
     },
     {
       "name": "Edison Intl",
-      "ticker": "Edison International",
+      "ticker": "EIX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0002
     },
     {
       "name": "SCREEN Holdings Co Ltd",
-      "ticker": "SCREEN Holdings Company Limited",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0002
@@ -3610,7 +3610,7 @@
     },
     {
       "name": "Fortescue Metals Group LTD",
-      "ticker": "Fortescue Metals Group Limited",
+      "ticker": "FMG.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0002
@@ -3652,21 +3652,21 @@
     },
     {
       "name": "Singapore Airlines",
-      "ticker": "Singapore Airlines",
+      "ticker": "C6L.SI",
       "countryName": "Singapore",
       "countryCode": "SG",
       "proportion": 0.0002
     },
     {
       "name": "Kinross Gold Corp",
-      "ticker": "Kinross Gold Corporation",
+      "ticker": "K.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0002
     },
     {
       "name": "Poste Italiane Spa",
-      "ticker": "Poste Italiane Societa per Azioni",
+      "ticker": "PST.MI",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0002
@@ -3680,14 +3680,14 @@
     },
     {
       "name": "Bank of Ireland Group PLC",
-      "ticker": "Bank of Ireland Group Public Limited Company",
+      "ticker": "BIRG.IR",
       "countryName": "Ireland",
       "countryCode": "IE",
       "proportion": 0.0002
     },
     {
       "name": "Ono Pharmaceutical Co",
-      "ticker": "Ono Pharmaceutical Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0001
@@ -3729,7 +3729,7 @@
     },
     {
       "name": "Allstate Corp",
-      "ticker": "Allstate Corporation",
+      "ticker": "ALL",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0001
@@ -3743,7 +3743,7 @@
     },
     {
       "name": "Corpay Inc",
-      "ticker": "Corpay Incorporated",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0001
@@ -3757,7 +3757,7 @@
     },
     {
       "name": "Shimizu Corp",
-      "ticker": "Shimizu Corporation",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0001
@@ -3771,7 +3771,7 @@
     },
     {
       "name": "Siemens Healthineers AG",
-      "ticker": "Siemens Healthineers Aktiengesellschaft",
+      "ticker": "",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0001
@@ -3799,7 +3799,7 @@
     },
     {
       "name": "Severn Trent PLC Ord",
-      "ticker": "Severn Trent Public Limited Company Ordinary",
+      "ticker": "SVT.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0001
@@ -3841,7 +3841,7 @@
     },
     {
       "name": "Koninklijke KPN NV",
-      "ticker": "Koninklijke KPN N.V.",
+      "ticker": "KPN.AS",
       "countryName": "Netherlands",
       "countryCode": "NL",
       "proportion": 0.0001
@@ -3862,14 +3862,14 @@
     },
     {
       "name": "Stora Enso OYJ R",
-      "ticker": "Stora Enso OYJ Restricted",
+      "ticker": "STERV.HE",
       "countryName": "Finland",
       "countryCode": "FI",
       "proportion": 0.0001
     },
     {
       "name": "Sumitomo Metal Mining Co Ltd",
-      "ticker": "Sumitomo Metal Mining Company Limited",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0001
@@ -3925,7 +3925,7 @@
     },
     {
       "name": "Capitaland Investment Ord",
-      "ticker": "Capitaland Investment Ordinary",
+      "ticker": "",
       "countryName": "Singapore",
       "countryCode": "SG",
       "proportion": 0.0001
@@ -3939,14 +3939,14 @@
     },
     {
       "name": "Sweco B",
-      "ticker": "Sweco AB",
+      "ticker": "SWEC-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0001
     },
     {
       "name": "George Weston Ltd",
-      "ticker": "George Weston Limited",
+      "ticker": "WN.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0001
@@ -3974,7 +3974,7 @@
     },
     {
       "name": "Svenska Cellulosa AB - B  (SEK)",
-      "ticker": "Svenska Cellulosa AB - Class B",
+      "ticker": "SCA-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0001
@@ -3988,14 +3988,14 @@
     },
     {
       "name": "Tokyu Corp",
-      "ticker": "Tokyu Corporation",
+      "ticker": "9005.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0001
     },
     {
       "name": "Empire Company Limited Class A",
-      "ticker": "Empire Company Limited Class A",
+      "ticker": "EMP.A",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0001
@@ -4009,7 +4009,7 @@
     },
     {
       "name": "Castellum AB",
-      "ticker": "Castellum AB",
+      "ticker": "CAST.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0001
@@ -4023,7 +4023,7 @@
     },
     {
       "name": "Latour Investment AB B",
-      "ticker": "Latour Investment Aktiebolag Class B",
+      "ticker": "LATO-B.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0001
@@ -4044,7 +4044,7 @@
     },
     {
       "name": "Minebea Mitsumi Co",
-      "ticker": "Minebea Mitsumi Corporation",
+      "ticker": "6479.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0001
@@ -4072,7 +4072,7 @@
     },
     {
       "name": "Daito Trust Construction Co",
-      "ticker": "Daito Trust Construction Company",
+      "ticker": "1878.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0001
@@ -4114,7 +4114,7 @@
     },
     {
       "name": "Cash & Cash Equivalents",
-      "ticker": "Cash and Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0006

@@ -124,7 +124,7 @@
     },
     {
       "name": "Fortis Inc",
-      "ticker": "Fortis Incorporated",
+      "ticker": "FTS.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0177
@@ -138,14 +138,14 @@
     },
     {
       "name": "Ferrovial SE Ord",
-      "ticker": "Ferrovial SE Ordinary",
+      "ticker": "FER.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0169
     },
     {
       "name": "Cellnex Telecom SA Ord",
-      "ticker": "Cellnex Telecom SA Ordinary",
+      "ticker": "CLNX.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0162
@@ -166,14 +166,14 @@
     },
     {
       "name": "Centerpoint Energy Inc",
-      "ticker": "CenterPoint Energy Incorporated",
+      "ticker": "CNP",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0145
     },
     {
       "name": "Edison Intl",
-      "ticker": "Edison International",
+      "ticker": "EIX",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.014
@@ -208,14 +208,14 @@
     },
     {
       "name": "Tokyo Gas Co",
-      "ticker": "Tokyo Gas Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0086
     },
     {
       "name": "Hydro One Limited",
-      "ticker": "Hydro One Limited",
+      "ticker": "H",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0083
@@ -229,21 +229,21 @@
     },
     {
       "name": "Hong Kong and China Gas Co Ltd",
-      "ticker": "Hong Kong and China Gas Company Limited",
+      "ticker": "0003.HK",
       "countryName": "Hong Kong",
       "countryCode": "HK",
       "proportion": 0.0073
     },
     {
       "name": "United Utilities Group PLC Ord",
-      "ticker": "United Utilities Group Public Limited Company Ordinary",
+      "ticker": "UU.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0069
     },
     {
       "name": "Severn Trent PLC Ord",
-      "ticker": "Severn Trent Public Limited Company Ordinary",
+      "ticker": "SVT.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0067
@@ -264,7 +264,7 @@
     },
     {
       "name": "Essential Utilities Inc",
-      "ticker": "Essential Utilities Incorporated",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0061
@@ -292,7 +292,7 @@
     },
     {
       "name": "Keyera Corp",
-      "ticker": "Keyera Corporation",
+      "ticker": "KEY.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0055
@@ -313,21 +313,21 @@
     },
     {
       "name": "China Tower Corporation Ltd - H Shares",
-      "ticker": "China Tower Corporation Limited - H Shares",
+      "ticker": "0788.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0049
     },
     {
       "name": "Getlink SE Ord",
-      "ticker": "Getlink SE Ordinary",
+      "ticker": "GET.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0042
     },
     {
       "name": "South Bow Corp",
-      "ticker": "South Bow Corporation",
+      "ticker": "SBW.V",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0041
@@ -341,28 +341,28 @@
     },
     {
       "name": "Antero Midstream Corp",
-      "ticker": "Antero Midstream Corporation",
+      "ticker": "AM",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0037
     },
     {
       "name": "Flughafen Zurich AG",
-      "ticker": "Flughafen Zurich Aktiengesellschaft",
+      "ticker": "FHZN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0035
     },
     {
       "name": "Naturgy Energy Group SA",
-      "ticker": "Naturgy Energy Group Sociedad Anónima",
+      "ticker": "NTGY.MC",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0034
     },
     {
       "name": "Brookfield Infrastructure Corporation Class A",
-      "ticker": "Brookfield Infrastructure Corporation Class A",
+      "ticker": "BIPC",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0034
@@ -376,7 +376,7 @@
     },
     {
       "name": "New Jersey Resources Corp",
-      "ticker": "New Jersey Resources Corporation",
+      "ticker": "NJR",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.003
@@ -390,42 +390,42 @@
     },
     {
       "name": "Spire Inc",
-      "ticker": "Spire Incorporated",
+      "ticker": "SR",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0028
     },
     {
       "name": "Kunlun Energy Co. Ltd",
-      "ticker": "Kunlun Energy Company Limited",
+      "ticker": "0135.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0028
     },
     {
       "name": "Italgas SpA",
-      "ticker": "Italgas Societa Per Azioni",
+      "ticker": "IG.MI",
       "countryName": "Italy",
       "countryCode": "IT",
       "proportion": 0.0027
     },
     {
       "name": "Southwest Gas Holdings Inc",
-      "ticker": "Southwest Gas Holdings Incorporated",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0027
     },
     {
       "name": "Enagas SA Ord",
-      "ticker": "Enagas Sociedad Anonima Ordinary",
+      "ticker": "",
       "countryName": "Spain",
       "countryCode": "ES",
       "proportion": 0.0026
     },
     {
       "name": "ONE Gas Inc",
-      "ticker": "ONE Gas Incorporated",
+      "ticker": "OGS",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0026
@@ -439,7 +439,7 @@
     },
     {
       "name": "Elia Group Ord",
-      "ticker": "Elia Group Ordinary",
+      "ticker": "ELI.BR",
       "countryName": "Belgium",
       "countryCode": "BE",
       "proportion": 0.0023
@@ -453,7 +453,7 @@
     },
     {
       "name": "Northwestern Corp",
-      "ticker": "Northwestern Corporation",
+      "ticker": "NWE",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0022
@@ -467,7 +467,7 @@
     },
     {
       "name": "China Resources Gas Group Ltd",
-      "ticker": "China Resources Gas Group Limited",
+      "ticker": "1193.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0021
@@ -495,14 +495,14 @@
     },
     {
       "name": "Toho Gas Co",
-      "ticker": "Toho Gas Company",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.002
     },
     {
       "name": "Japan Airport Terminal Co",
-      "ticker": "Japan Airport Terminal Company",
+      "ticker": "9706.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.002
@@ -516,7 +516,7 @@
     },
     {
       "name": "China Gas Holdings Ltd",
-      "ticker": "China Gas Holdings Limited",
+      "ticker": "0384.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0019
@@ -551,7 +551,7 @@
     },
     {
       "name": "China Merchants Port Holdings Co Ltd",
-      "ticker": "China Merchants Port Holdings Company Limited",
+      "ticker": "0144.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0016
@@ -593,14 +593,14 @@
     },
     {
       "name": "Beijing Enterprises Water Group Ltd",
-      "ticker": "Beijing Enterprises Water Group Limited",
+      "ticker": "371.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.001
     },
     {
       "name": "Helios Towers PLC",
-      "ticker": "Helios Towers Public Limited Company",
+      "ticker": "HTWS.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0009
@@ -621,7 +621,7 @@
     },
     {
       "name": "Hutchison Port Holdings Trust",
-      "ticker": "Hutchison Port Holdings Trust",
+      "ticker": "",
       "countryName": "Singapore",
       "countryCode": "SG",
       "proportion": 0.0007
@@ -635,14 +635,14 @@
     },
     {
       "name": "UNITIL Corp",
-      "ticker": "Unitil Corporation",
+      "ticker": "UTL",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0006
     },
     {
       "name": "China Water Affairs Group Ltd",
-      "ticker": "China Water Affairs Group Limited",
+      "ticker": "",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0005
@@ -663,7 +663,7 @@
     },
     {
       "name": "Westshore Terminals Investment Corp",
-      "ticker": "Westshore Terminals Investment Corporation",
+      "ticker": "WTE.TO",
       "countryName": "Canada",
       "countryCode": "CA",
       "proportion": 0.0004
@@ -677,21 +677,21 @@
     },
     {
       "name": "Shenzhen Expressway Co Ltd H Shares",
-      "ticker": "Shenzhen Expressway Company Limited H Shares",
+      "ticker": "0548.HK",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0004
     },
     {
       "name": "Yuexiu Transport Infrastructure Ltd",
-      "ticker": "Yuexiu Transport Infrastructure Limited",
+      "ticker": "",
       "countryName": "China",
       "countryCode": "CN",
       "proportion": 0.0003
     },
     {
       "name": "Elia Group Ord Rights",
-      "ticker": "Elia.BR",
+      "ticker": "ELI.BR",
       "countryName": "Belgium",
       "countryCode": "BE",
       "proportion": 0.0001
@@ -705,7 +705,7 @@
     },
     {
       "name": "Currency Hedging",
-      "ticker": "Currency Hedging",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0017

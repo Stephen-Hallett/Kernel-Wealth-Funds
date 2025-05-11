@@ -49,7 +49,24 @@ information_prompt = ChatPromptTemplate.from_messages(
 )
 
 ticker_prompt = ChatPromptTemplate.from_template(
-    "Given the {country_name} {asset_type} asset '{asset_name}' listed on the {exchange} exchange,\
-    Please locate and return the ticker symbol as it appears on Yahoo Finance, or an empty string if there is no ticker. \
-    Return the ticker in JSON format."
+    """You are a financial assistant that identifies Yahoo Finance ticker symbols.
+
+Given the {country_name} {asset_type} asset '{asset_name}' listed on the {exchange} exchange:
+
+→ Locate and return the *exact* Yahoo Finance ticker symbol (e.g., 'AAPL', 'VTI', '4568.T').  
+→ Do **not** return a company name or description.  
+→ If you are uncertain or no symbol is available, return an empty string.
+
+Your output must be a JSON object with the field 'ticker'.
+
+### Examples:
+Input: 'SPDR S&P 500 ETF Trust' → Output: {{ "ticker": "SPY" }}
+Input: 'Toyota Motor Corp' → Output: {{ "ticker": "TM" }}
+Input: 'Daiichi Sankyo Co Ltd' → Output: {{ "ticker": "4568.T" }}
+Input: 'Private real estate in Iceland' → Output: {{ "ticker": "" }}
+Input: 'Westpac Banking Corporation (AU Register)'  → Output: {{ "ticker": "WBC.AX" }}
+Input: 'The Warehouse Group Limited'  → Output: {{ "ticker": "WHS.NZ" }}
+
+Now return the output for this asset only:
+"""
 )

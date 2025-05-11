@@ -131,7 +131,7 @@
     },
     {
       "name": "Manawa Energy Limited",
-      "ticker": "Manawa Energy Limited Company",
+      "ticker": "MNW.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0273
@@ -180,7 +180,7 @@
     },
     {
       "name": "Restaurant Brands New Zealand Limited",
-      "ticker": "Restaurant Brands New Zealand Limited",
+      "ticker": "RBD.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0089
@@ -194,7 +194,7 @@
     },
     {
       "name": "The Warehouse Group Limited",
-      "ticker": "The Warehouse Group Limited",
+      "ticker": "WHS.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0079
@@ -208,7 +208,7 @@
     },
     {
       "name": "Cash & Cash Equivalents",
-      "ticker": "Cash and Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0002

@@ -23,6 +23,9 @@ def get_ticker(name: str, country: str) -> str:
         return ticker_dict[name]
 
     ticker = ticker_detector.detect(name, country)
+
+    # If ticker contains any lowercase letters it wasn't found correctly.
+    ticker = "" if any(c.islower() for c in ticker) else ticker
     ticker_db.append({"name": name, "ticker": ticker})
     with Path("tickers/tickers.json").open("w") as f:
         f.write(json.dumps(ticker_db, indent=2))

@@ -292,7 +292,7 @@
     },
     {
       "name": "Castellum AB",
-      "ticker": "Castellum AB",
+      "ticker": "CAST.ST",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0048
@@ -348,7 +348,7 @@
     },
     {
       "name": "Capitaland Investment Ord",
-      "ticker": "Capitaland Investment Ordinary",
+      "ticker": "",
       "countryName": "Singapore",
       "countryCode": "SG",
       "proportion": 0.0042
@@ -565,7 +565,7 @@
     },
     {
       "name": "Park Hotels & Resorts Inc",
-      "ticker": "Park Hotels & Resorts Inc.",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0025
@@ -1237,7 +1237,7 @@
     },
     {
       "name": "Kennedy-Wilson Holdings Inc",
-      "ticker": "Kennedy-Wilson Holdings Incorporated",
+      "ticker": "KW",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0007
@@ -1279,7 +1279,7 @@
     },
     {
       "name": "Region Group ORD",
-      "ticker": "Region Group Ordinary Shares",
+      "ticker": "RGN.AX",
       "countryName": "Australia",
       "countryCode": "AU",
       "proportion": 0.0006
@@ -1300,7 +1300,7 @@
     },
     {
       "name": "Netstreit Ord",
-      "ticker": "Netstreit Ordinary",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0006
@@ -1314,7 +1314,7 @@
     },
     {
       "name": "Japan Excellent",
-      "ticker": "Japan Excellent",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0006
@@ -1447,7 +1447,7 @@
     },
     {
       "name": "Leopalace 21 Corp",
-      "ticker": "Leopalace 21 Corporation",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0003
@@ -1503,7 +1503,7 @@
     },
     {
       "name": "Samhallsbyggnadsbolaget i Norden AB",
-      "ticker": "Samhallsbyggnadsbolaget i Norden Aktiebolag",
+      "ticker": "",
       "countryName": "Sweden",
       "countryCode": "SE",
       "proportion": 0.0002
@@ -1524,14 +1524,14 @@
     },
     {
       "name": "Cash & Cash Equivalents",
-      "ticker": "Cash and Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0082
     },
     {
       "name": "Currency Hedging",
-      "ticker": "Currency Hedging",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0066

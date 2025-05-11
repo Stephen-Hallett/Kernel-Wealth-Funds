@@ -502,7 +502,7 @@
     },
     {
       "name": "Colgate-Palmolive Co",
-      "ticker": "Colgate-Palmolive Company",
+      "ticker": "CL",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0027
@@ -530,14 +530,14 @@
     },
     {
       "name": "Rio Tinto PLC Ord (UK Register)",
-      "ticker": "Rio Tinto Public Limited Company Ordinary Shares",
+      "ticker": "RIO.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0023
     },
     {
       "name": "Emerson Electric Co",
-      "ticker": "Emerson Electric Company",
+      "ticker": "EMR",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0022
@@ -551,7 +551,7 @@
     },
     {
       "name": "Diageo PLC",
-      "ticker": "Diageo Public Limited Company",
+      "ticker": "DGE.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0021
@@ -572,28 +572,28 @@
     },
     {
       "name": "Saint-Gobain Cie de",
-      "ticker": "Saint-Gobain Compagnie de",
+      "ticker": "SGO.PA",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0018
     },
     {
       "name": "Swiss Re Reg",
-      "ticker": "Swiss Reinsurance",
+      "ticker": "SREN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.0018
     },
     {
       "name": "Kimberly-Clark",
-      "ticker": "Kimberly-Clark",
+      "ticker": "KMB",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0017
     },
     {
       "name": "Deutsche Bank AG",
-      "ticker": "Deutsche Bank Aktiengesellschaft",
+      "ticker": "DBK.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0016
@@ -607,28 +607,28 @@
     },
     {
       "name": "Honda Motor Co",
-      "ticker": "Honda Motor Company",
+      "ticker": "7267.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0016
     },
     {
       "name": "Mercedes-Benz Group AG",
-      "ticker": "Mercedes-Benz Group Aktiengesellschaft",
+      "ticker": "MBG.DE",
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0015
     },
     {
       "name": "Ford Motor Co",
-      "ticker": "Ford Motor Company",
+      "ticker": "F",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0014
     },
     {
       "name": "Anglo American PLC",
-      "ticker": "Anglo American Public Limited Company",
+      "ticker": "AAL.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0013
@@ -642,7 +642,7 @@
     },
     {
       "name": "Engie",
-      "ticker": "Engie",
+      "ticker": "",
       "countryName": "France",
       "countryCode": "FR",
       "proportion": 0.0012
@@ -656,21 +656,21 @@
     },
     {
       "name": "DuPont De Nemours Inc",
-      "ticker": "DuPont de Nemours Incorporated",
+      "ticker": "DD",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0011
     },
     {
       "name": "Canon Inc",
-      "ticker": "Canon Incorporated",
+      "ticker": "7751.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0011
     },
     {
       "name": "Prudential PLC Ord (GBP)",
-      "ticker": "Prudential Public Limited Company Ordinary Shares",
+      "ticker": "PRU.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.001
@@ -684,7 +684,7 @@
     },
     {
       "name": "Bridgestone Corp",
-      "ticker": "Bridgestone Corporation",
+      "ticker": "5108.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0009
@@ -705,14 +705,14 @@
     },
     {
       "name": "Cash & Cash Equivalents",
-      "ticker": "Cash and Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0039
     },
     {
       "name": "Currency Hedging",
-      "ticker": "Currency Hedging",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0056

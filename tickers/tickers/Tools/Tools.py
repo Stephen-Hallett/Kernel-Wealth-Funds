@@ -28,9 +28,13 @@ class InformationTools(BaseModel):
 
 
 class TickerTools(BaseModel):
-    """Detect the ticker for a specified asset as it appears on Yahoo Finance."""
+    """Detect the Yahoo Finance ticker symbol for a given asset."""
 
     ticker: str = Field(
         ...,
-        description="A ticker symbol for an exchange traded asset as it would appear on yahoo finance - or an empty string where no ticker is found.",
+        description=(
+            "A valid ticker symbol as it appears on Yahoo Finance (e.g., 'AAPL', 'VTI', '4568.T'). "
+            "This must be the actual symbol used on Yahoo Finance, not the company name. "
+            "If no ticker is found or you are unsure, return an empty string ('')."
+        ),
     )

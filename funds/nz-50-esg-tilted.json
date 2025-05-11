@@ -103,7 +103,7 @@
     },
     {
       "name": "ANZ (NZ Register)",
-      "ticker": "Australia and New Zealand Banking Group (New Zealand Register)",
+      "ticker": "ANZ.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0221
@@ -131,7 +131,7 @@
     },
     {
       "name": "Westpac Banking Corporation (NZ Register)",
-      "ticker": "Westpac Banking Corporation (New Zealand Register)",
+      "ticker": "WBC.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.013
@@ -159,7 +159,7 @@
     },
     {
       "name": "Air New Zealand Ltd",
-      "ticker": "Air New Zealand Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0091
@@ -271,7 +271,7 @@
     },
     {
       "name": "Vector Limited",
-      "ticker": "Vector Limited",
+      "ticker": "",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0021
@@ -285,7 +285,7 @@
     },
     {
       "name": "The Warehouse Group Limited",
-      "ticker": "The Warehouse Group Limited",
+      "ticker": "WHS.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0013
@@ -313,14 +313,14 @@
     },
     {
       "name": "Manawa Energy Limited",
-      "ticker": "Manawa Energy Limited Company",
+      "ticker": "MNW.NZ",
       "countryName": "New Zealand",
       "countryCode": "NZ",
       "proportion": 0.0005
     },
     {
       "name": "Cash & Cash Equivalents",
-      "ticker": "Cash and Cash Equivalents",
+      "ticker": "",
       "countryName": "",
       "countryCode": "",
       "proportion": 0.0004
