@@ -49,8 +49,10 @@ def main() -> None:
     correlation = prices_df.corr()
     plt.figure(figsize=(20, 10))
     heatmap = sns.heatmap(correlation, vmin=-1, vmax=1, annot=True, cmap="BrBG")
-    heatmap.set_title("Correlation Heatmap", fontdict={"fontsize": 18}, pad=12)
-    plt.savefig("media/heatmap.png", dpi=300, bbox_inches="tight")
+    heatmap.set_title(
+        "Correlation Between Kernel Wealth Funds", fontdict={"fontsize": 18}, pad=12
+    )
+    plt.savefig("media/correlation.png", dpi=300, bbox_inches="tight")
 
     plt.figure(figsize=(18, 2))
     coverage_heatmap = sns.heatmap(
