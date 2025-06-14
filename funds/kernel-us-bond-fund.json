@@ -8,21 +8,21 @@
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.9888
+      "proportion": 0.9997
     },
     {
       "name": "Cash & Cash Equivalents",
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0006
+      "proportion": -0.0477
     },
     {
       "name": "Currency Hedging",
-      "ticker": "",
+      "ticker": "HEDJ",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0106
+      "proportion": 0.048
     }
   ]
 }

@@ -4,270 +4,270 @@
   "summary": "Invest in a diversified mix of global companies involved in the electric vehicles sector and the ecosystems supporting it – energy storage systems, clean fuel technology, charging infrastructure and more.",
   "holdings": [
     {
-      "name": "XPeng Inc. ADR Class A",
-      "ticker": "XPEV",
-      "countryName": "China",
-      "countryCode": "CN",
-      "proportion": 0.0575
-    },
-    {
       "name": "Dana Incorporated",
       "ticker": "DAN",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0529
+      "proportion": 0.0556
+    },
+    {
+      "name": "XPeng Inc. ADR Class A",
+      "ticker": "XPEV",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0526
     },
     {
       "name": "Rivian Automotive Inc",
       "ticker": "RIVN",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0438
-    },
-    {
-      "name": "Lucid Group Inc",
-      "ticker": "LCID",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0388
+      "proportion": 0.049
     },
     {
       "name": "Garrett Motion Inc",
       "ticker": "GTX",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0374
+      "proportion": 0.042
     },
     {
-      "name": "Li Auto Inc.-A",
-      "ticker": "LI",
-      "countryName": "China",
-      "countryCode": "CN",
-      "proportion": 0.0348
+      "name": "Lucid Group Inc",
+      "ticker": "LCID",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.041
     },
     {
       "name": "Honda Motor Co ADR",
       "ticker": "HMC",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0332
+      "proportion": 0.0381
+    },
+    {
+      "name": "Li Auto Inc.-A",
+      "ticker": "LI",
+      "countryName": "China",
+      "countryCode": "CN",
+      "proportion": 0.0344
     },
     {
       "name": "Tesla Inc Ordinary Shares",
       "ticker": "TSLA",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0307
+      "proportion": 0.0341
+    },
+    {
+      "name": "VinFast Auto Ltd",
+      "ticker": "VFS",
+      "countryName": "Vietnam",
+      "countryCode": "VN",
+      "proportion": 0.0318
+    },
+    {
+      "name": "Ballard Power Systems Inc",
+      "ticker": "BLDP.TO",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0315
     },
     {
       "name": "Polestar Automotive Holding Class A ADS",
       "ticker": "PSNY",
       "countryName": "Sweden",
       "countryCode": "SE",
-      "proportion": 0.0305
-    },
-    {
-      "name": "Cummins Inc",
-      "ticker": "CMI",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.03
-    },
-    {
-      "name": "General Motors Co",
-      "ticker": "GM",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0292
-    },
-    {
-      "name": "VinFast Auto Ltd",
-      "ticker": "",
-      "countryName": "Vietnam",
-      "countryCode": "VN",
-      "proportion": 0.029
+      "proportion": 0.0308
     },
     {
       "name": "Visteon Corp",
       "ticker": "VC",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0285
-    },
-    {
-      "name": "Borgwarner Inc",
-      "ticker": "BWA",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0281
-    },
-    {
-      "name": "Allison Transmission Holdings Inc",
-      "ticker": "ALSN",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0279
-    },
-    {
-      "name": "Ballard Power Systems Inc",
-      "ticker": "BLDP",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0278
+      "proportion": 0.0297
     },
     {
       "name": "ArcelorMittal Inc",
       "ticker": "MT",
       "countryName": "Luxembourg",
       "countryCode": "LU",
-      "proportion": 0.0276
+      "proportion": 0.029
     },
     {
-      "name": "SolarEdge Technologies Inc",
-      "ticker": "SEDG",
+      "name": "Cummins Inc",
+      "ticker": "CMI",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0268
+      "proportion": 0.0287
+    },
+    {
+      "name": "General Motors Co",
+      "ticker": "GM",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0286
+    },
+    {
+      "name": "Borgwarner Inc",
+      "ticker": "BWA",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0283
     },
     {
       "name": "NIO Inc-ADR",
       "ticker": "NIO",
       "countryName": "China",
       "countryCode": "CN",
-      "proportion": 0.026
+      "proportion": 0.0282
     },
     {
       "name": "REV Group Inc",
-      "ticker": "REV",
+      "ticker": "REVG",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.026
+      "proportion": 0.0274
+    },
+    {
+      "name": "Allison Transmission Holdings Inc",
+      "ticker": "ALSN",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0274
     },
     {
       "name": "Toyota Motor Corp ADR",
       "ticker": "TM",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0245
-    },
-    {
-      "name": "Plug Power Inc",
-      "ticker": "PLUG",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0234
-    },
-    {
-      "name": "American Axle & Manufacturing Holdings",
-      "ticker": "AXL",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0224
-    },
-    {
-      "name": "Lear Corp",
-      "ticker": "LEA",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0222
+      "proportion": 0.0271
     },
     {
       "name": "Ford Motor Co",
       "ticker": "F",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0218
+      "proportion": 0.0222
     },
     {
-      "name": "PACCAR Inc",
-      "ticker": "PCAR",
+      "name": "Lear Corp",
+      "ticker": "LEA",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0204
+      "proportion": 0.022
     },
     {
-      "name": "Gentherm Inc",
-      "ticker": "GTHM",
+      "name": "American Axle & Manufacturing Holdings",
+      "ticker": "AXL",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0202
-    },
-    {
-      "name": "Enphase Energy Inc (NASDAQ)",
-      "ticker": "ENPH",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0202
-    },
-    {
-      "name": "Textron Inc",
-      "ticker": "TXT",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.02
-    },
-    {
-      "name": "Stellantis Ordinary Shares",
-      "ticker": "STLA.MI",
-      "countryName": "Italy",
-      "countryCode": "IT",
-      "proportion": 0.0197
-    },
-    {
-      "name": "ON Semiconductor Corp",
-      "ticker": "ON",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0192
+      "proportion": 0.0214
     },
     {
       "name": "Blue Bird Corporation (Common)",
       "ticker": "BLBD",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0189
+      "proportion": 0.0208
+    },
+    {
+      "name": "SolarEdge Technologies Inc",
+      "ticker": "SEDG",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0207
+    },
+    {
+      "name": "Gentherm Inc",
+      "ticker": "THRM",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.02
+    },
+    {
+      "name": "Textron Inc",
+      "ticker": "TXT",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0199
+    },
+    {
+      "name": "PACCAR Inc",
+      "ticker": "PCAR",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0193
+    },
+    {
+      "name": "ON Semiconductor Corp",
+      "ticker": "ON",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0191
     },
     {
       "name": "Hyster-Yale Materials Handling Inc A",
       "ticker": "HY",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.018
+      "proportion": 0.017
     },
     {
-      "name": "Sensata Technologies Holding plc",
-      "ticker": "ST",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0177
-    },
-    {
-      "name": "Blink Charging Co",
-      "ticker": "BLNK",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0164
+      "name": "Stellantis Ordinary Shares",
+      "ticker": "STLA",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0166
     },
     {
       "name": "Modine Manufacturing Co",
       "ticker": "MOD",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.015
+      "proportion": 0.0162
+    },
+    {
+      "name": "Sensata Technologies Holding plc",
+      "ticker": "ST",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0159
+    },
+    {
+      "name": "Plug Power Inc",
+      "ticker": "PLUG",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0154
+    },
+    {
+      "name": "Enphase Energy Inc (NASDAQ)",
+      "ticker": "ENPH",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0148
+    },
+    {
+      "name": "Blink Charging Co",
+      "ticker": "BLNK",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0133
     },
     {
       "name": "Aspen Aerogels Inc",
-      "ticker": "",
+      "ticker": "ASPN",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0129
+      "proportion": 0.0111
     },
     {
       "name": "Cash & Cash Equivalents",
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0006
+      "proportion": -0.0012
     }
   ]
 }

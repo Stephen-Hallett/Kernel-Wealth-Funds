@@ -8,14 +8,14 @@
       "ticker": "SPEM",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 1.0002
+      "proportion": 1.0001
     },
     {
       "name": "Cash & Cash Equivalents",
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": -0.0002
+      "proportion": -0.0001
     }
   ]
 }

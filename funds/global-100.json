@@ -8,70 +8,70 @@
       "ticker": "AAPL",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.1204
+      "proportion": 0.115
     },
     {
       "name": "Microsoft",
       "ticker": "MSFT",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.1007
+      "proportion": 0.1059
     },
     {
       "name": "Nvidia Ord",
       "ticker": "NVDA",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0958
+      "proportion": 0.0961
     },
     {
       "name": "Amazon.com Inc",
       "ticker": "AMZN",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0648
+      "proportion": 0.0627
     },
     {
       "name": "Alphabet Inc Class A",
       "ticker": "GOOGL",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0326
+      "proportion": 0.0334
     },
     {
       "name": "Broadcom Inc",
       "ticker": "AVGO",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0283
+      "proportion": 0.0325
     },
     {
       "name": "Alphabet Inc Class C",
       "ticker": "GOOG",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0267
-    },
-    {
-      "name": "JPMorgan Chase & Co",
-      "ticker": "JPM",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0248
+      "proportion": 0.0274
     },
     {
       "name": "Eli Lilly ORD",
       "ticker": "LLY",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0235
+      "proportion": 0.0255
+    },
+    {
+      "name": "JPMorgan Chase & Co",
+      "ticker": "JPM",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0246
     },
     {
       "name": "Exxon Mobil Corporation",
       "ticker": "XOM",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0187
+      "proportion": 0.0166
     },
     {
       "name": "Mastercard Inc Class A Ord",
@@ -81,59 +81,59 @@
       "proportion": 0.0161
     },
     {
+      "name": "Wal-Mart Stores Inc",
+      "ticker": "WMT",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0152
+    },
+    {
       "name": "Procter & Gamble Co",
       "ticker": "PG",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0144
-    },
-    {
-      "name": "Johnson & Johnson",
-      "ticker": "JNJ",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0144
+      "proportion": 0.0137
     },
     {
       "name": "Tencent",
       "ticker": "0700.HK",
       "countryName": "China",
       "countryCode": "CN",
-      "proportion": 0.0142
+      "proportion": 0.0136
     },
     {
-      "name": "Wal-Mart Stores Inc",
-      "ticker": "WMT",
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0137
+      "proportion": 0.0136
     },
     {
-      "name": "Chevron Corp",
-      "ticker": "CVX",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0101
+      "name": "SAP SE",
+      "ticker": "SAP.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0107
     },
     {
       "name": "The Coca-Cola Co",
       "ticker": "KO",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.01
-    },
-    {
-      "name": "SAP SE",
-      "ticker": "SAP",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.0097
+      "proportion": 0.0101
     },
     {
       "name": "Nestle SA (CH Registry)",
-      "ticker": "NESN.SW",
+      "ticker": "NESN",
       "countryName": "Switzerland",
       "countryCode": "CH",
+      "proportion": 0.0101
+    },
+    {
+      "name": "Philip Morris International",
+      "ticker": "PM",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0096
     },
     {
@@ -141,91 +141,70 @@
       "ticker": "ASML.AS",
       "countryName": "Netherlands",
       "countryCode": "NL",
-      "proportion": 0.0093
-    },
-    {
-      "name": "Philip Morris International",
-      "ticker": "PM",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0089
-    },
-    {
-      "name": "Cisco Systems Inc",
-      "ticker": "CSCO",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0089
-    },
-    {
-      "name": "Roche Hldgs AG Ptg Genus",
-      "ticker": "ROG.SW",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0083
-    },
-    {
-      "name": "Abbott Laboratories",
-      "ticker": "ABT",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0083
-    },
-    {
-      "name": "International Business Machines Corp",
-      "ticker": "IBM",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0083
-    },
-    {
-      "name": "Merck & Co Inc Common Stock",
-      "ticker": "MRK",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0082
-    },
-    {
-      "name": "Astrazeneca PLC ORD Shs",
-      "ticker": "AZN.L",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0081
-    },
-    {
-      "name": "McDonald's Corporation",
-      "ticker": "MCD",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0081
-    },
-    {
-      "name": "Shell Ord",
-      "ticker": "RDSB.L",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.008
-    },
-    {
-      "name": "Linde PLC",
-      "ticker": "LIN",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.008
-    },
-    {
-      "name": "Novartis AG",
-      "ticker": "NOVN.SW",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0079
+      "proportion": 0.0094
     },
     {
       "name": "Toyota Motor Corp",
       "ticker": "7203.T",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0078
+      "proportion": 0.0085
+    },
+    {
+      "name": "Roche Hldgs AG Ptg Genus",
+      "ticker": "ROG",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0083
+    },
+    {
+      "name": "Cisco Systems Inc",
+      "ticker": "CSCO",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0083
+    },
+    {
+      "name": "McDonald's Corporation",
+      "ticker": "MCD",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0083
+    },
+    {
+      "name": "Chevron Corp",
+      "ticker": "CVX",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0082
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0082
+    },
+    {
+      "name": "Novartis AG",
+      "ticker": "NOVN.SW",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0081
+    },
+    {
+      "name": "International Business Machines Corp",
+      "ticker": "IBM",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0081
+    },
+    {
+      "name": "Astrazeneca PLC ORD Shs",
+      "ticker": "AZN",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.008
     },
     {
       "name": "General Electric Co",
@@ -235,39 +214,60 @@
       "proportion": 0.0078
     },
     {
-      "name": "PepsiCo Inc",
-      "ticker": "PEP",
+      "name": "Linde PLC",
+      "ticker": "LIN",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0074
+      "proportion": 0.0078
+    },
+    {
+      "name": "Merck & Co Inc Common Stock",
+      "ticker": "MRK",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0078
+    },
+    {
+      "name": "Shell Ord",
+      "ticker": "SHEL",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0071
     },
     {
       "name": "HSBC Holdings PLC Ord",
       "ticker": "HSBA.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0073
+      "proportion": 0.0071
+    },
+    {
+      "name": "Servicenow Inc",
+      "ticker": "NOW",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0071
     },
     {
       "name": "Accenture plc A",
       "ticker": "ACN",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.007
-    },
-    {
-      "name": "Thermo Fisher Scientific",
-      "ticker": "TMO",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0069
+      "proportion": 0.0067
     },
     {
       "name": "Samsung Electronics",
       "ticker": "005930.KS",
       "countryName": "Korea, Republic of",
       "countryCode": "KR",
-      "proportion": 0.0068
+      "proportion": 0.0067
+    },
+    {
+      "name": "PepsiCo Inc",
+      "ticker": "PEP",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0067
     },
     {
       "name": "Siemens AG",
@@ -288,62 +288,55 @@
       "ticker": "QCOM",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0061
-    },
-    {
-      "name": "Servicenow Inc",
-      "ticker": "NOW",
-      "countryName": "United States",
-      "countryCode": "US",
       "proportion": 0.0059
     },
     {
-      "name": "Texas Instruments Incorporated",
-      "ticker": "TXN",
+      "name": "Thermo Fisher Scientific",
+      "ticker": "TMO",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0059
-    },
-    {
-      "name": "Mitsubishi UFJ Financial Group Inc",
-      "ticker": "8306.T",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0059
-    },
-    {
-      "name": "LVMH-Moet Vuitton",
-      "ticker": "MC.PA",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0057
-    },
-    {
-      "name": "Caterpillar Inc",
-      "ticker": "CAT",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0057
     },
     {
       "name": "Sony Corp",
       "ticker": "6758.T",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0056
+      "proportion": 0.0059
     },
     {
       "name": "Unilever PLC Ord",
       "ticker": "ULVR.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0054
+      "proportion": 0.0058
     },
     {
       "name": "Allianz SE",
       "ticker": "ALV.DE",
       "countryName": "Germany",
       "countryCode": "DE",
+      "proportion": 0.0058
+    },
+    {
+      "name": "Mitsubishi UFJ Financial Group Inc",
+      "ticker": "8306.T",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0055
+    },
+    {
+      "name": "Caterpillar Inc",
+      "ticker": "CAT",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0053
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0053
     },
     {
@@ -351,91 +344,98 @@
       "ticker": "MS",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0052
+      "proportion": 0.0051
     },
     {
-      "name": "Total SE",
-      "ticker": "FP.PA",
+      "name": "LVMH-Moet Vuitton",
+      "ticker": "LVMH.PA",
       "countryName": "France",
       "countryCode": "FR",
-      "proportion": 0.0052
+      "proportion": 0.0051
     },
     {
       "name": "Pfizer Inc",
       "ticker": "PFE",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0052
+      "proportion": 0.005
+    },
+    {
+      "name": "Total SE",
+      "ticker": "TTE",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0047
     },
     {
       "name": "Citigroup Inc",
       "ticker": "C",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0048
-    },
-    {
-      "name": "Deutsche Telekom AG",
-      "ticker": "DTE.DE",
-      "countryName": "Germany",
-      "countryCode": "DE",
       "proportion": 0.0046
-    },
-    {
-      "name": "Bristol-Myers Squibb",
-      "ticker": "BMY",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0045
     },
     {
       "name": "Schneider Electric SE Ordinary",
       "ticker": "SU.PA",
       "countryName": "France",
       "countryCode": "FR",
-      "proportion": 0.0044
-    },
-    {
-      "name": "Sanofi SA",
-      "ticker": "SAN.PA",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0044
+      "proportion": 0.0045
     },
     {
       "name": "BHP Group Ltd (AU register)",
       "ticker": "BHP.AX",
       "countryName": "Australia",
       "countryCode": "AU",
+      "proportion": 0.0045
+    },
+    {
+      "name": "Deutsche Telekom AG",
+      "ticker": "DTE.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
       "proportion": 0.0044
+    },
+    {
+      "name": "Sanofi SA",
+      "ticker": "SAN",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0043
     },
     {
       "name": "Marsh & McLennan Companies",
       "ticker": "MMC",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0043
+      "proportion": 0.004
+    },
+    {
+      "name": "Banco Santander Common Shares",
+      "ticker": "SAN",
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "proportion": 0.0038
     },
     {
       "name": "American Tower Corp A",
       "ticker": "AMT",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0037
+      "proportion": 0.0038
     },
     {
-      "name": "Banco Santander Common Shares",
-      "ticker": "SAN.MC",
-      "countryName": "Spain",
-      "countryCode": "ES",
-      "proportion": 0.0037
-    },
-    {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
+      "name": "Bristol-Myers Squibb",
+      "ticker": "BMY",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0035
+      "proportion": 0.0037
+    },
+    {
+      "name": "L'oreal Ordinary Shares",
+      "ticker": "OR.PA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0036
     },
     {
       "name": "UBS Group AG",
@@ -445,53 +445,39 @@
       "proportion": 0.0035
     },
     {
-      "name": "BP PLC",
-      "ticker": "BP.L",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
+      "name": "Munich Re AG",
+      "ticker": "MUV2.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
       "proportion": 0.0033
     },
     {
-      "name": "Aon plc",
-      "ticker": "AON",
+      "name": "Intel Corporation",
+      "ticker": "INTC",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0031
-    },
-    {
-      "name": "L'oreal Ordinary Shares",
-      "ticker": "LRLCF.PA",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0031
-    },
-    {
-      "name": "Munich Re AG",
-      "ticker": "MUV2.F",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.003
     },
     {
       "name": "ABB Ltd",
-      "ticker": "ABBN.SW",
+      "ticker": "ABB.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
       "proportion": 0.003
-    },
-    {
-      "name": "3M Company",
-      "ticker": "MMM",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0029
     },
     {
       "name": "GSK PLC",
       "ticker": "GSK.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0028
+      "proportion": 0.003
+    },
+    {
+      "name": "AXA",
+      "ticker": "CS",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0029
     },
     {
       "name": "Banco Bilbao Vizcaya Argentaria SA",
@@ -501,6 +487,27 @@
       "proportion": 0.0028
     },
     {
+      "name": "Aon plc",
+      "ticker": "AON",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0028
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0027
+    },
+    {
+      "name": "BP PLC",
+      "ticker": "BP.L",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0027
+    },
+    {
       "name": "Colgate-Palmolive Co",
       "ticker": "CL",
       "countryName": "United States",
@@ -508,25 +515,18 @@
       "proportion": 0.0027
     },
     {
+      "name": "National Grid PLC Ord",
+      "ticker": "NG.",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0026
+    },
+    {
       "name": "Nike INC - CL B",
       "ticker": "NKE",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0027
-    },
-    {
-      "name": "AXA",
-      "ticker": "AXA.PA",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0027
-    },
-    {
-      "name": "National Grid PLC Ord",
-      "ticker": "NG.L",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0023
+      "proportion": 0.0024
     },
     {
       "name": "Rio Tinto PLC Ord (UK Register)",
@@ -536,10 +536,10 @@
       "proportion": 0.0023
     },
     {
-      "name": "Emerson Electric Co",
-      "ticker": "EMR",
-      "countryName": "United States",
-      "countryCode": "US",
+      "name": "Diageo PLC",
+      "ticker": "DGE.L",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
       "proportion": 0.0022
     },
     {
@@ -550,10 +550,10 @@
       "proportion": 0.0022
     },
     {
-      "name": "Diageo PLC",
-      "ticker": "DGE.L",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
+      "name": "Emerson Electric Co",
+      "ticker": "EMR",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0021
     },
     {
@@ -561,42 +561,42 @@
       "ticker": "BARC.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0019
+      "proportion": 0.0021
     },
     {
       "name": "Johnson Controls International plc",
       "ticker": "JCI",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0019
+      "proportion": 0.002
     },
     {
       "name": "Saint-Gobain Cie de",
       "ticker": "SGO.PA",
       "countryName": "France",
       "countryCode": "FR",
-      "proportion": 0.0018
+      "proportion": 0.002
     },
     {
       "name": "Swiss Re Reg",
-      "ticker": "SREN.SW",
+      "ticker": "SSRE",
       "countryName": "Switzerland",
       "countryCode": "CH",
-      "proportion": 0.0018
-    },
-    {
-      "name": "Kimberly-Clark",
-      "ticker": "KMB",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0017
+      "proportion": 0.0019
     },
     {
       "name": "Deutsche Bank AG",
       "ticker": "DBK.DE",
       "countryName": "Germany",
       "countryCode": "DE",
-      "proportion": 0.0017
+      "proportion": 0.0018
+    },
+    {
+      "name": "Honda Motor Co",
+      "ticker": "7267.T",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0018
     },
     {
       "name": "BASF SE",
@@ -606,10 +606,10 @@
       "proportion": 0.0016
     },
     {
-      "name": "Honda Motor Co",
-      "ticker": "7267.T",
-      "countryName": "Japan",
-      "countryCode": "JP",
+      "name": "Kimberly-Clark",
+      "ticker": "KMB",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0016
     },
     {
@@ -618,6 +618,13 @@
       "countryName": "Germany",
       "countryCode": "DE",
       "proportion": 0.0015
+    },
+    {
+      "name": "E.ON SE",
+      "ticker": "EOAN.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0014
     },
     {
       "name": "Ford Motor Co",
@@ -634,36 +641,22 @@
       "proportion": 0.0013
     },
     {
+      "name": "Engie",
+      "ticker": "ENGI.PA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0013
+    },
+    {
       "name": "Seven & I Holdings Co Ltd",
       "ticker": "3382.T",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0012
-    },
-    {
-      "name": "Engie",
-      "ticker": "",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0012
-    },
-    {
-      "name": "E.ON SE",
-      "ticker": "EONG.DE",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.0012
-    },
-    {
-      "name": "DuPont De Nemours Inc",
-      "ticker": "DD",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0011
+      "proportion": 0.0013
     },
     {
       "name": "Canon Inc",
-      "ticker": "7751.T",
+      "ticker": "CAJ.T",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0011
@@ -676,10 +669,17 @@
       "proportion": 0.001
     },
     {
-      "name": "HP Inc",
-      "ticker": "HPE",
+      "name": "DuPont De Nemours Inc",
+      "ticker": "DD",
       "countryName": "United States",
       "countryCode": "US",
+      "proportion": 0.001
+    },
+    {
+      "name": "Bayer AG-REG",
+      "ticker": "BAYN.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
       "proportion": 0.0009
     },
     {
@@ -690,11 +690,11 @@
       "proportion": 0.0009
     },
     {
-      "name": "Bayer AG-REG",
-      "ticker": "BAYN.DE",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.0008
+      "name": "HP Inc",
+      "ticker": "HPQ",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
     },
     {
       "name": "Roche Hldgs AG Br",
@@ -708,7 +708,7 @@
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0039
+      "proportion": 0.0049
     }
   ]
 }

@@ -8,153 +8,139 @@
       "ticker": "MO",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0289
+      "proportion": 0.0287
     },
     {
       "name": "Verizon Communications Inc",
       "ticker": "VZ",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0247
+      "proportion": 0.0242
     },
     {
       "name": "CVS Health Corporation",
       "ticker": "CVS",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0238
-    },
-    {
-      "name": "LTC Properties",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0213
-    },
-    {
-      "name": "LyondellBasell Industries CL A Ord",
-      "ticker": "LYB",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0207
-    },
-    {
-      "name": "Universal Corp",
-      "ticker": "UVV",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0206
+      "proportion": 0.0235
     },
     {
       "name": "APA Group Stapled",
       "ticker": "APA.AX",
       "countryName": "Australia",
       "countryCode": "AU",
-      "proportion": 0.0203
+      "proportion": 0.0218
+    },
+    {
+      "name": "LTC Properties",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0217
+    },
+    {
+      "name": "Universal Corp",
+      "ticker": "UVV",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0216
+    },
+    {
+      "name": "Bouygues",
+      "ticker": "EN.PA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0201
     },
     {
       "name": "Highwoods Properties",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0202
-    },
-    {
-      "name": "Getty Realty Corp",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.02
-    },
-    {
-      "name": "Western Union Ord",
-      "ticker": "WU",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0199
+      "proportion": 0.0195
     },
     {
       "name": "Pfizer Inc",
       "ticker": "PFE",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0198
-    },
-    {
-      "name": "AES Corp",
-      "ticker": "AES",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0191
+      "proportion": 0.0192
     },
     {
       "name": "Avista Corp",
       "ticker": "AVA",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0188
+      "proportion": 0.0187
     },
     {
-      "name": "Bouygues",
-      "ticker": "BOUY.PA",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0179
-    },
-    {
-      "name": "Amcor Ord",
-      "ticker": "AMCR",
+      "name": "Western Union Ord",
+      "ticker": "WU",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.017
+      "proportion": 0.0187
     },
     {
-      "name": "Northwest Natural Holding Co",
-      "ticker": "NWN",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0167
-    },
-    {
-      "name": "Northwestern Corp",
-      "ticker": "NWE",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0166
-    },
-    {
-      "name": "Spire Inc",
-      "ticker": "SR",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0163
-    },
-    {
-      "name": "Portland General Electric Co",
-      "ticker": "POR",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0155
-    },
-    {
-      "name": "Boston Properties Inc",
+      "name": "Getty Realty Corp",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0153
-    },
-    {
-      "name": "Chevron Corp",
-      "ticker": "CVX",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0151
+      "proportion": 0.0181
     },
     {
       "name": "Energias de Portugal SA",
       "ticker": "EDP.LS",
       "countryName": "Portugal",
       "countryCode": "PT",
+      "proportion": 0.0177
+    },
+    {
+      "name": "LyondellBasell Industries CL A Ord",
+      "ticker": "LYB",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0172
+    },
+    {
+      "name": "Northwest Natural Holding Co",
+      "ticker": "NWN",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0169
+    },
+    {
+      "name": "Northwestern Corp",
+      "ticker": "NWE",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0168
+    },
+    {
+      "name": "Amcor Ord",
+      "ticker": "AMCR",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0162
+    },
+    {
+      "name": "Spire Inc",
+      "ticker": "SR",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0161
+    },
+    {
+      "name": "AES Corp",
+      "ticker": "AES",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0155
+    },
+    {
+      "name": "LondonMetric Property PLC",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
       "proportion": 0.0149
     },
     {
@@ -162,118 +148,139 @@
       "ticker": "BKH",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0147
+      "proportion": 0.0148
     },
     {
-      "name": "HA Sustainable Infrastructure Capital Inc",
-      "ticker": "HIC",
+      "name": "Portland General Electric Co",
+      "ticker": "POR",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0145
+      "proportion": 0.0148
     },
     {
-      "name": "Flowers Foods Inc",
-      "ticker": "FLO",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0139
-    },
-    {
-      "name": "Deutsche Post N ORD",
-      "ticker": "DPW.DE",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.0138
-    },
-    {
-      "name": "LondonMetric Property PLC",
+      "name": "Boston Properties Inc",
       "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0137
-    },
-    {
-      "name": "United Parcel Service Inc B",
-      "ticker": "UPS",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0135
-    },
-    {
-      "name": "MSC Industrial Direct Class A",
-      "ticker": "MSM",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0134
-    },
-    {
-      "name": "Franklin Resources Inc",
-      "ticker": "BEN",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0133
+      "proportion": 0.0146
     },
     {
       "name": "Warehouses De Pauw SCA",
       "ticker": "",
       "countryName": "Belgium",
       "countryCode": "BE",
-      "proportion": 0.0133
-    },
-    {
-      "name": "Whirlpool Corp",
-      "ticker": "WHR",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0131
-    },
-    {
-      "name": "Elisa Corporation",
-      "ticker": "ELISA.HE",
-      "countryName": "Finland",
-      "countryCode": "FI",
-      "proportion": 0.0128
+      "proportion": 0.0144
     },
     {
       "name": "Valmet OYJ",
       "ticker": "VALMT.HE",
       "countryName": "Finland",
       "countryCode": "FI",
-      "proportion": 0.0125
+      "proportion": 0.0142
+    },
+    {
+      "name": "Elisa Corporation",
+      "ticker": "ELI1V.HE",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0141
+    },
+    {
+      "name": "Deutsche Post N ORD",
+      "ticker": "DPW.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0139
+    },
+    {
+      "name": "MSC Industrial Direct Class A",
+      "ticker": "MSM",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0133
     },
     {
       "name": "TELUS Corp",
-      "ticker": "TELUS.TO",
+      "ticker": "T.TO",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0121
+      "proportion": 0.0131
+    },
+    {
+      "name": "Franklin Resources Inc",
+      "ticker": "BEN",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.013
+    },
+    {
+      "name": "Flowers Foods Inc",
+      "ticker": "FLO",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.013
     },
     {
       "name": "Northwest Bancshares Inc.",
       "ticker": "NWBI",
       "countryName": "United States",
       "countryCode": "US",
+      "proportion": 0.0125
+    },
+    {
+      "name": "HA Sustainable Infrastructure Capital Inc",
+      "ticker": "HASI",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0125
+    },
+    {
+      "name": "Chevron Corp",
+      "ticker": "CVX",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0124
+    },
+    {
+      "name": "Teleperformance",
+      "ticker": "TEP.PA",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0123
+    },
+    {
+      "name": "Ono Pharmaceutical Co",
+      "ticker": "4528.T",
+      "countryName": "Japan",
+      "countryCode": "JP",
       "proportion": 0.0121
+    },
+    {
+      "name": "Takeda Pharmaceutical Ord",
+      "ticker": "4502.T",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.012
     },
     {
       "name": "Legal & General Group PLC Ord",
       "ticker": "LGEN.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0118
+      "proportion": 0.0119
     },
     {
-      "name": "Deluxe Corp",
-      "ticker": "DLX",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0118
-    },
-    {
-      "name": "Takeda Pharmaceutical Ord",
-      "ticker": "TAK",
+      "name": "Japan Real Estate Invest Corp JREIT",
+      "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
+      "proportion": 0.0119
+    },
+    {
+      "name": "United Parcel Service Inc B",
+      "ticker": "UPS",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0117
     },
     {
@@ -284,59 +291,38 @@
       "proportion": 0.0116
     },
     {
+      "name": "Enel SpA",
+      "ticker": "ENEL.MI",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0113
+    },
+    {
+      "name": "Whirlpool Corp",
+      "ticker": "WHR",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0111
+    },
+    {
+      "name": "Deluxe Corp",
+      "ticker": "DLX",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.011
+    },
+    {
       "name": "First Interstate Bancsystem Inc",
       "ticker": "FIBK",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0112
-    },
-    {
-      "name": "Teleperformance",
-      "ticker": "TEP.PA",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0111
-    },
-    {
-      "name": "Ono Pharmaceutical Co",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0111
-    },
-    {
-      "name": "Polaris Inc",
-      "ticker": "PII",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0109
-    },
-    {
-      "name": "Japan Real Estate Invest Corp JREIT",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0106
+      "proportion": 0.0103
     },
     {
       "name": "DNB Bank ASA",
       "ticker": "DNB.OL",
       "countryName": "Norway",
       "countryCode": "NO",
-      "proportion": 0.0106
-    },
-    {
-      "name": "Enel SpA",
-      "ticker": "ENEL.MI",
-      "countryName": "Italy",
-      "countryCode": "IT",
-      "proportion": 0.0105
-    },
-    {
-      "name": "Columbia Banking System Inc",
-      "ticker": "COLB",
-      "countryName": "United States",
-      "countryCode": "US",
       "proportion": 0.0101
     },
     {
@@ -344,97 +330,146 @@
       "ticker": "PFS",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.01
-    },
-    {
-      "name": "Wesbanco Inc (VA)",
-      "ticker": "WSBC",
-      "countryName": "United States",
-      "countryCode": "US",
       "proportion": 0.0096
-    },
-    {
-      "name": "KeyCorp",
-      "ticker": "KEY",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0096
-    },
-    {
-      "name": "Valley National Bancorp",
-      "ticker": "VLY",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0096
-    },
-    {
-      "name": "Comerica Inc (MI)",
-      "ticker": "CMA",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0094
-    },
-    {
-      "name": "Navient Ord",
-      "ticker": "NAVI",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0093
-    },
-    {
-      "name": "Schroders ORD",
-      "ticker": "SDR.L",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0089
     },
     {
       "name": "Emera Inc",
       "ticker": "EMA.TO",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0088
+      "proportion": 0.0095
     },
     {
-      "name": "Hope Bancorp Inc",
-      "ticker": "HOPE",
+      "name": "Wesbanco Inc (VA)",
+      "ticker": "WSBC",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0086
+      "proportion": 0.0093
+    },
+    {
+      "name": "Valley National Bancorp",
+      "ticker": "VLY",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0093
+    },
+    {
+      "name": "Polaris Inc",
+      "ticker": "PII",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0091
+    },
+    {
+      "name": "Navient Ord",
+      "ticker": "NAVI",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0091
+    },
+    {
+      "name": "Columbia Banking System Inc",
+      "ticker": "COLB",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0091
     },
     {
       "name": "Canadian Utilities Ltd A NV",
       "ticker": "CU.TO",
       "countryName": "Canada",
       "countryCode": "CA",
+      "proportion": 0.009
+    },
+    {
+      "name": "KeyCorp",
+      "ticker": "KEY",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.009
+    },
+    {
+      "name": "Schroders ORD",
+      "ticker": "SDR.L",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0087
+    },
+    {
+      "name": "Comerica Inc (MI)",
+      "ticker": "CMA",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0086
+    },
+    {
+      "name": "Hope Bancorp Inc",
+      "ticker": "HOPE",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0082
-    },
-    {
-      "name": "Pembina Pipeline Corporation",
-      "ticker": "PPL.TO",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0081
-    },
-    {
-      "name": "Sino Land Co. Ltd.",
-      "ticker": "",
-      "countryName": "Hong Kong",
-      "countryCode": "HK",
-      "proportion": 0.0077
-    },
-    {
-      "name": "Henderson Land Development Co Ltd",
-      "ticker": "HKG:0012",
-      "countryName": "Hong Kong",
-      "countryCode": "HK",
-      "proportion": 0.0076
     },
     {
       "name": "Terna SpA",
       "ticker": "TRN.MI",
       "countryName": "Italy",
       "countryCode": "IT",
+      "proportion": 0.0081
+    },
+    {
+      "name": "Banque Cant Vaudoise Reg",
+      "ticker": "",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0079
+    },
+    {
+      "name": "Sino Land Co. Ltd.",
+      "ticker": "",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0078
+    },
+    {
+      "name": "Pembina Pipeline Corporation",
+      "ticker": "PPL.TO",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0078
+    },
+    {
+      "name": "Henderson Land Development Co Ltd",
+      "ticker": "",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0077
+    },
+    {
+      "name": "TC Energy Corporation",
+      "ticker": "TRP.TO",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0077
+    },
+    {
+      "name": "ERG SpA",
+      "ticker": "ERG.MI",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0076
+    },
+    {
+      "name": "Allianz SE",
+      "ticker": "ALV.DE",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0074
+    },
+    {
+      "name": "Cembra Money Bank AG",
+      "ticker": "CMBN.SW",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
       "proportion": 0.0073
     },
     {
@@ -442,147 +477,112 @@
       "ticker": "KEY.TO",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0072
-    },
-    {
-      "name": "Canadian Natural Resources Ltd",
-      "ticker": "CNQ.TO",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0072
-    },
-    {
-      "name": "TC Energy Corporation",
-      "ticker": "TRP.TO",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0071
-    },
-    {
-      "name": "ERG SpA",
-      "ticker": "ERG.MI",
-      "countryName": "Italy",
-      "countryCode": "IT",
-      "proportion": 0.007
-    },
-    {
-      "name": "Banque Cant Vaudoise Reg",
-      "ticker": "BCV.SW",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0069
-    },
-    {
-      "name": "Zurich Insurance Group AG",
-      "ticker": "ZURN.SW",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0068
-    },
-    {
-      "name": "Cembra Money Bank AG",
-      "ticker": "CMBN.SW",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0068
-    },
-    {
-      "name": "Allianz SE",
-      "ticker": "ALV.DE",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.0067
-    },
-    {
-      "name": "A2A ORD",
-      "ticker": "A2A.MI",
-      "countryName": "Italy",
-      "countryCode": "IT",
-      "proportion": 0.0066
-    },
-    {
-      "name": "Baloise N Ord",
-      "ticker": "BAS.SW",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0065
+      "proportion": 0.0073
     },
     {
       "name": "Swiss Life Reg",
       "ticker": "SLHN.SW",
       "countryName": "Switzerland",
       "countryCode": "CH",
-      "proportion": 0.0064
+      "proportion": 0.0072
+    },
+    {
+      "name": "A2A ORD",
+      "ticker": "A2A.MI",
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "proportion": 0.0071
+    },
+    {
+      "name": "Zurich Insurance Group AG",
+      "ticker": "ZURN.SW",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0071
+    },
+    {
+      "name": "Baloise N Ord",
+      "ticker": "BSZ",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.007
     },
     {
       "name": "Canadian Tire Corporation ORD (Class A)",
-      "ticker": "CTC-A.TO",
+      "ticker": "CTC.A",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0064
+      "proportion": 0.0067
     },
     {
-      "name": "Rogers Communications Inc B",
-      "ticker": "RCI-B.TO",
+      "name": "Canadian Natural Resources Ltd",
+      "ticker": "CNQ.TO",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0062
-    },
-    {
-      "name": "Magna International Inc",
-      "ticker": "MGA.TO",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0056
-    },
-    {
-      "name": "Julius Baer Group",
-      "ticker": "",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0054
+      "proportion": 0.0067
     },
     {
       "name": "IG Group Holdings",
       "ticker": "IGG.L",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0052
+      "proportion": 0.0061
     },
     {
-      "name": "CLP Holdings Ltd",
-      "ticker": "CLPHY",
-      "countryName": "Hong Kong",
-      "countryCode": "HK",
-      "proportion": 0.0048
+      "name": "Rogers Communications Inc B",
+      "ticker": "RCI.B",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0061
+    },
+    {
+      "name": "Magna International Inc",
+      "ticker": "MGA.TO",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0058
     },
     {
       "name": "Power Assets Holdings Ltd",
-      "ticker": "",
+      "ticker": "0006.HK",
       "countryName": "Hong Kong",
       "countryCode": "HK",
-      "proportion": 0.0047
+      "proportion": 0.0051
+    },
+    {
+      "name": "Julius Baer Group",
+      "ticker": "BAER.S",
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.0051
+    },
+    {
+      "name": "CLP Holdings Ltd",
+      "ticker": "00002.HK",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.005
     },
     {
       "name": "CK Infrastructure Holdings Ltd",
-      "ticker": "CKI.HK",
+      "ticker": "1038.HK",
       "countryName": "Hong Kong",
       "countryCode": "HK",
-      "proportion": 0.0037
+      "proportion": 0.0045
     },
     {
       "name": "Power Corporation of Canada",
-      "ticker": "",
+      "ticker": "POW.TO",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0029
+      "proportion": 0.0031
     },
     {
       "name": "Toronto-Dominion Bank (US)",
       "ticker": "TD",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0028
+      "proportion": 0.003
     },
     {
       "name": "Great-West Lifeco Inc",
@@ -596,7 +596,7 @@
       "ticker": "BNS",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0025
+      "proportion": 0.0026
     },
     {
       "name": "IGM Financial Inc",
@@ -617,7 +617,7 @@
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0015
+      "proportion": 0.0044
     }
   ]
 }

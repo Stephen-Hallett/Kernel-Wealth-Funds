@@ -12,7 +12,7 @@ from tickers import TickerDetector
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BASE_URL = "https://kernelwealth.co.nz/_next/data/ymRZnwtwIAb2HNKx26G78/en/"
+BASE_URL = "https://kernelwealth.co.nz/_next/data/fBQF-lckztdjsneL2Wf5p/en/"
 ticker_detector = TickerDetector(os.environ["OPENAI_API_KEY"])
 
 
@@ -62,6 +62,7 @@ def get_holdings(slug: str) -> list[FundHolding]:
     fund_holding_info = requests.get(fund_url, timeout=30).json()["pageProps"]["fund"][
         "fundHoldings"
     ]
+    print("validating holdings")
     return [FundHolding.model_validate(f) for f in fund_holding_info]
 
 

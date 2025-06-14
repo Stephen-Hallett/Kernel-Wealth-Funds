@@ -885,18 +885,22 @@ wheels = [
 
 [[package]]
 name = "tickers"
-version = "0.1.2"
+version = "0.2.0"
 source = { editable = "tickers" }
 dependencies = [
     { name = "langchain" },
+    { name = "langchain-core" },
     { name = "langchain-openai" },
+    { name = "openai" },
     { name = "pydantic" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "langchain", specifier = ">=0.3.25" },
+    { name = "langchain-core", specifier = ">=0.3.59" },
     { name = "langchain-openai", specifier = ">=0.3.16" },
+    { name = "openai", specifier = ">=1.78.0" },
     { name = "pydantic", specifier = ">=2.11.4" },
 ]
 

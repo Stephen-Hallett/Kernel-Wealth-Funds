@@ -1,23 +1,18 @@
 from langchain.output_parsers.openai_tools import PydanticToolsParser
+from langchain_core.output_parsers.string import StrOutputParser
 from langchain_openai import ChatOpenAI
 
-from .Prompts.Prompts import information_prompt, normalisation_prompt, ticker_prompt
-from .Tools.Tools import InformationTools, NormalisationTools, TickerTools
+from .Prompts.Prompts import information_prompt, ticker_prompt
+from .Tools.Tools import InformationTools
 
 
 class TickerDetector:
     def __init__(self, openai_key: str) -> None:
-        self.normalisation_chain = (
-            normalisation_prompt
-            | ChatOpenAI(api_key=openai_key, temperature=0).bind_tools(
-                [NormalisationTools], strict=True, tool_choice="NormalisationTools"
-            )
-            | PydanticToolsParser(tools=[NormalisationTools])
-        )
-
         self.information_chain = (
             information_prompt
-            | ChatOpenAI(api_key=openai_key, temperature=0).bind_tools(
+            | ChatOpenAI(
+                api_key=openai_key, model="gpt-4.1-nano", temperature=0
+            ).bind_tools(
                 [InformationTools], strict=True, tool_choice="InformationTools"
             )
             | PydanticToolsParser(tools=[InformationTools])
@@ -26,9 +21,11 @@ class TickerDetector:
         self.ticker_chain = (
             ticker_prompt
             | ChatOpenAI(
-                api_key=openai_key, model="gpt-4-turbo", temperature=0
-            ).bind_tools([TickerTools], strict=True, tool_choice="TickerTools")
-            | PydanticToolsParser(tools=[TickerTools])
+                api_key=openai_key,
+                model="ft:gpt-4.1-nano-2025-04-14:personal::BYS5as8d",
+                temperature=0,
+            )
+            | StrOutputParser()
         )
 
     def detect(self, asset_name: str, country_name: str) -> str:
@@ -38,24 +35,16 @@ class TickerDetector:
         :param country_name: Country location of the asset
         :return: A ticker symbol e.g. AAPL, MSFT, etc.
         """
-        normalisation_results = self.normalisation_chain.invoke(
-            {"input_name": asset_name}
-        )
+
         information_results = self.information_chain.invoke(
-            {
-                "country_name": country_name,
-                "expanded_name": normalisation_results[0].expanded_name,
-            }
+            {"country_name": country_name, "expanded_name": asset_name}
         )
-        if information_results[0].asset_type not in ["stock", "crypto"]:
+        if information_results[0].asset_type not in ("stock", "crypto"):
             return ""
 
-        ticker_results = self.ticker_chain.invoke(
+        return self.ticker_chain.invoke(
             {
                 "country_name": country_name,
-                "asset_type": information_results[0].asset_type,
                 "asset_name": information_results[0].asset_name,
-                "exchange": information_results[0].exchange,
             }
         )
-        return ticker_results[0].ticker

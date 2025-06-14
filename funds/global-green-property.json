@@ -5,66 +5,73 @@
   "holdings": [
     {
       "name": "ProLogis Inc",
-      "ticker": "",
+      "ticker": "PLD",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0805
+      "proportion": 0.0746
     },
     {
       "name": "Welltower Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0603
+      "proportion": 0.0608
     },
     {
       "name": "Equinix REIT Ord",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0564
+      "proportion": 0.0603
     },
     {
       "name": "Simon Property Group A",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0459
+      "proportion": 0.0441
     },
     {
       "name": "Public Storage",
-      "ticker": "PSA",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0386
-    },
-    {
-      "name": "Ventas Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0317
+      "proportion": 0.0393
     },
     {
       "name": "Digital Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0314
+      "proportion": 0.0356
+    },
+    {
+      "name": "Ventas Inc",
+      "ticker": "VTR",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0328
     },
     {
       "name": "Realty Income Corp",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0249
+      "proportion": 0.0252
     },
     {
       "name": "AvalonBay Communities Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0248
+      "proportion": 0.0246
+    },
+    {
+      "name": "Mitsui Fudosan Co",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0191
     },
     {
       "name": "Extra Space Storage Inc",
@@ -78,28 +85,21 @@
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0178
-    },
-    {
-      "name": "Mitsui Fudosan Co",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.017
+      "proportion": 0.0164
     },
     {
       "name": "Equity Residential",
-      "ticker": "EQR",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0161
+      "proportion": 0.016
     },
     {
       "name": "Mid-America Apt Communties",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0134
+      "proportion": 0.013
     },
     {
       "name": "Invitation Homes",
@@ -109,11 +109,11 @@
       "proportion": 0.0129
     },
     {
-      "name": "Alexandria Real Estate Eqty",
+      "name": "Swiss Prime Site AG",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0121
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "proportion": 0.012
     },
     {
       "name": "American Homes 4 Rent A",
@@ -127,35 +127,28 @@
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0104
+      "proportion": 0.0102
     },
     {
       "name": "Kimco Realty Corp",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0103
+      "proportion": 0.0098
     },
     {
-      "name": "Swiss Prime Site AG",
+      "name": "Alexandria Real Estate Eqty",
       "ticker": "",
-      "countryName": "Switzerland",
-      "countryCode": "CH",
-      "proportion": 0.0102
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0096
     },
     {
       "name": "UDR Inc",
-      "ticker": "UDR",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0101
-    },
-    {
-      "name": "Healthpeak Properties Inc.",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0093
+      "proportion": 0.0095
     },
     {
       "name": "WP Carey Inc",
@@ -165,21 +158,21 @@
       "proportion": 0.0085
     },
     {
-      "name": "Regency Centers Corp",
+      "name": "Healthpeak Properties Inc.",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0084
     },
     {
-      "name": "Equity Lifestyle Properties Inc",
+      "name": "Regency Centers Corp",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0083
     },
     {
-      "name": "Boston Properties Inc",
+      "name": "Equity Lifestyle Properties Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -190,202 +183,216 @@
       "ticker": "",
       "countryName": "Hong Kong",
       "countryCode": "HK",
-      "proportion": 0.008
+      "proportion": 0.0081
     },
     {
-      "name": "Federal Realty Invt Trust",
+      "name": "Boston Properties Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0078
     },
     {
-      "name": "Camden Property Trust",
-      "ticker": "CPT",
+      "name": "Federal Realty Invt Trust",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0071
+      "proportion": 0.0076
     },
     {
       "name": "SEGRO PLC",
       "ticker": "",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.007
+      "proportion": 0.0072
     },
     {
       "name": "CapitaLand Integrated Commercial Trust",
       "ticker": "",
       "countryName": "Singapore",
       "countryCode": "SG",
-      "proportion": 0.0064
+      "proportion": 0.0068
     },
     {
-      "name": "Brixmor Property Group Inc",
+      "name": "Camden Property Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0063
-    },
-    {
-      "name": "Host Hotels & Resorts Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0062
-    },
-    {
-      "name": "Unibail Rodamco Westfield",
-      "ticker": "",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.006
+      "proportion": 0.0067
     },
     {
       "name": "Scentre Group Stapled",
       "ticker": "",
       "countryName": "Australia",
       "countryCode": "AU",
-      "proportion": 0.0057
+      "proportion": 0.0064
     },
     {
-      "name": "Americold Realty Trust",
+      "name": "Host Hotels & Resorts Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0057
+      "proportion": 0.0063
     },
     {
-      "name": "Vornado Realty Trust",
+      "name": "Unibail Rodamco Westfield",
+      "ticker": "",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0061
+    },
+    {
+      "name": "Brixmor Property Group Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0055
-    },
-    {
-      "name": "Rexford Industrial Realty Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0055
+      "proportion": 0.006
     },
     {
       "name": "Klepierre",
       "ticker": "",
       "countryName": "France",
       "countryCode": "FR",
-      "proportion": 0.0053
+      "proportion": 0.0059
     },
     {
       "name": "Nippon Building Fund Inc JREIT",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.005
+      "proportion": 0.0056
     },
     {
-      "name": "Macerich Co",
+      "name": "Vornado Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0049
+      "proportion": 0.0053
     },
     {
       "name": "Castellum AB",
-      "ticker": "CAST.ST",
+      "ticker": "",
       "countryName": "Sweden",
       "countryCode": "SE",
-      "proportion": 0.0048
+      "proportion": 0.0052
     },
     {
-      "name": "Omega Healthcare Investors",
+      "name": "Americold Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0046
-    },
-    {
-      "name": "EastGroup Properties",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0045
-    },
-    {
-      "name": "Tritax Big Box REIT Plc",
-      "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0043
-    },
-    {
-      "name": "CapitaLand Ascendas REIT",
-      "ticker": "",
-      "countryName": "Singapore",
-      "countryCode": "SG",
-      "proportion": 0.0043
+      "proportion": 0.0052
     },
     {
       "name": "PSP Swiss Property AG",
       "ticker": "",
       "countryName": "Switzerland",
       "countryCode": "CH",
-      "proportion": 0.0043
-    },
-    {
-      "name": "Healthcare Realty Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0043
+      "proportion": 0.005
     },
     {
       "name": "Vicinity Centres",
       "ticker": "",
       "countryName": "Australia",
       "countryCode": "AU",
-      "proportion": 0.0042
+      "proportion": 0.0047
     },
     {
-      "name": "Capitaland Investment Ord",
-      "ticker": "",
-      "countryName": "Singapore",
-      "countryCode": "SG",
-      "proportion": 0.0042
+      "name": "Omega Healthcare Investors",
+      "ticker": "OHI",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0047
     },
     {
       "name": "Land Securities Group PLC",
       "ticker": "",
       "countryName": "Great Britain",
       "countryCode": "GB",
+      "proportion": 0.0047
+    },
+    {
+      "name": "Rexford Industrial Realty Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0047
+    },
+    {
+      "name": "Tritax Big Box REIT Plc",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0046
+    },
+    {
+      "name": "CapitaLand Ascendas REIT",
+      "ticker": "",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0045
+    },
+    {
+      "name": "Capitaland Investment Ord",
+      "ticker": "CIY",
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0044
+    },
+    {
+      "name": "Macerich Co",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0043
+    },
+    {
+      "name": "British Land Co",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
       "proportion": 0.0042
+    },
+    {
+      "name": "GPT Group Stapled",
+      "ticker": "",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0042
+    },
+    {
+      "name": "EastGroup Properties",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0042
+    },
+    {
+      "name": "Gecina",
+      "ticker": "",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0041
     },
     {
       "name": "Agree Realty Corp",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0039
+      "proportion": 0.004
     },
     {
-      "name": "National Retail Properties Inc",
+      "name": "Healthcare Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0039
+      "proportion": 0.004
     },
     {
-      "name": "CubeSmart",
+      "name": "Japan Real Estate Invest Corp JREIT",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0039
-    },
-    {
-      "name": "Phillips Edison & Co Inc",
-      "ticker": "PECO",
-      "countryName": "United States",
-      "countryCode": "US",
+      "countryName": "Japan",
+      "countryCode": "JP",
       "proportion": 0.0039
     },
     {
@@ -396,192 +403,192 @@
       "proportion": 0.0039
     },
     {
-      "name": "GPT Group Stapled",
+      "name": "National Retail Properties Inc",
       "ticker": "",
-      "countryName": "Australia",
-      "countryCode": "AU",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0038
     },
     {
-      "name": "British Land Co",
+      "name": "CubeSmart",
       "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0038
     },
     {
-      "name": "Gecina",
-      "ticker": "",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0037
-    },
-    {
-      "name": "SL Green Realty Corp",
+      "name": "Phillips Edison & Co Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0036
-    },
-    {
-      "name": "Cousins Properties",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0036
-    },
-    {
-      "name": "Japan Real Estate Invest Corp JREIT",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0035
-    },
-    {
-      "name": "Kite Realty Group Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0034
+      "proportion": 0.0038
     },
     {
       "name": "GLP J-REIT",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0034
-    },
-    {
-      "name": "Nippon Prologis REIT Inc",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0033
-    },
-    {
-      "name": "Ryman Hospitality Properties Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0033
-    },
-    {
-      "name": "Japan Metropolitan Fund Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0033
-    },
-    {
-      "name": "First Industrial Realty Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0032
+      "proportion": 0.0036
     },
     {
       "name": "Dexus Units",
       "ticker": "",
       "countryName": "Australia",
       "countryCode": "AU",
-      "proportion": 0.0032
+      "proportion": 0.0035
     },
     {
-      "name": "Terreno Realty Corp",
+      "name": "Nippon Prologis REIT Inc",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0035
+    },
+    {
+      "name": "Japan Metropolitan Fund Investment Corp",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0034
+    },
+    {
+      "name": "Cousins Properties",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0032
+      "proportion": 0.0034
     },
     {
-      "name": "STAG Industrial Inc",
+      "name": "SL Green Realty Corp",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.003
+      "proportion": 0.0034
+    },
+    {
+      "name": "Kite Realty Group Trust",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0033
     },
     {
       "name": "Unite Group",
       "ticker": "",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0029
+      "proportion": 0.0032
+    },
+    {
+      "name": "Ryman Hospitality Properties Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0032
+    },
+    {
+      "name": "Hulic Co Ltd (New)",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0031
     },
     {
       "name": "Kenedix Office Investment Corp",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0029
-    },
-    {
-      "name": "Kilroy Realty Corp",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0029
-    },
-    {
-      "name": "Hulic Co Ltd (New)",
-      "ticker": "HULCF",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0028
+      "proportion": 0.0031
     },
     {
       "name": "Daiwa House REIT Investment Corp",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0028
+      "proportion": 0.003
     },
     {
-      "name": "EPR Properties",
+      "name": "First Industrial Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0028
+      "proportion": 0.0029
     },
     {
-      "name": "Wihlborgs Fastigheter AB",
+      "name": "Terreno Realty Corp",
       "ticker": "",
-      "countryName": "Sweden",
-      "countryCode": "SE",
-      "proportion": 0.0027
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0029
+    },
+    {
+      "name": "LEG Immobilien AG",
+      "ticker": "",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0029
     },
     {
       "name": "Merlin Properties Socimi SA",
       "ticker": "",
       "countryName": "Spain",
       "countryCode": "ES",
-      "proportion": 0.0026
+      "proportion": 0.0029
+    },
+    {
+      "name": "Wihlborgs Fastigheter AB",
+      "ticker": "",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0028
+    },
+    {
+      "name": "Kilroy Realty Corp",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0028
+    },
+    {
+      "name": "STAG Industrial Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0028
+    },
+    {
+      "name": "Aedifica",
+      "ticker": "",
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "proportion": 0.0027
     },
     {
       "name": "Nomura Real Estate Master Fund Inc",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
+      "proportion": 0.0027
+    },
+    {
+      "name": "EPR Properties",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0026
     },
     {
-      "name": "Park Hotels & Resorts Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0025
-    },
-    {
       "name": "Fabege AB",
-      "ticker": "FABG.ST",
+      "ticker": "",
       "countryName": "Sweden",
       "countryCode": "SE",
-      "proportion": 0.0025
+      "proportion": 0.0026
     },
     {
-      "name": "Tanger Factory Outlet Centers",
+      "name": "Warehouses De Pauw SCA",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
+      "countryName": "Belgium",
+      "countryCode": "BE",
       "proportion": 0.0025
     },
     {
@@ -589,70 +596,70 @@
       "ticker": "",
       "countryName": "Hong Kong",
       "countryCode": "HK",
-      "proportion": 0.0024
+      "proportion": 0.0025
     },
     {
-      "name": "Aedifica",
-      "ticker": "",
-      "countryName": "Belgium",
-      "countryCode": "BE",
-      "proportion": 0.0024
-    },
-    {
-      "name": "LEG Immobilien AG",
-      "ticker": "",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.0024
-    },
-    {
-      "name": "Empire State Realty Trust Inc A",
+      "name": "Park Hotels & Resorts Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0023
+      "proportion": 0.0024
     },
     {
-      "name": "Warehouses De Pauw SCA",
-      "ticker": "",
-      "countryName": "Belgium",
-      "countryCode": "BE",
-      "proportion": 0.0023
-    },
-    {
-      "name": "Diamondrock Hospitality",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0022
-    },
-    {
-      "name": "Covivio",
-      "ticker": "",
-      "countryName": "France",
-      "countryCode": "FR",
-      "proportion": 0.0022
-    },
-    {
-      "name": "RioCan REIT",
-      "ticker": "",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0022
-    },
-    {
-      "name": "Prologis Property Mexico SA de CV",
+      "name": "Fibra Uno Administracion S.A. de C.V.",
       "ticker": "",
       "countryName": "Mexico",
       "countryCode": "MX",
-      "proportion": 0.0022
+      "proportion": 0.0024
     },
     {
       "name": "Advance Residence Invstment Corp",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0022
+      "proportion": 0.0024
+    },
+    {
+      "name": "Prologis Property Mexico SA de CV",
+      "ticker": "",
+      "countryName": "Mexico",
+      "countryCode": "MX",
+      "proportion": 0.0024
+    },
+    {
+      "name": "Tanger Factory Outlet Centers",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0023
+    },
+    {
+      "name": "Orix JREIT Inc",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0023
+    },
+    {
+      "name": "RioCan REIT",
+      "ticker": "",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0023
+    },
+    {
+      "name": "United Urban Investment Corp",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0023
+    },
+    {
+      "name": "Covivio",
+      "ticker": "",
+      "countryName": "France",
+      "countryCode": "FR",
+      "proportion": 0.0023
     },
     {
       "name": "CareTrust REIT Inc",
@@ -662,39 +669,39 @@
       "proportion": 0.0022
     },
     {
-      "name": "Orix JREIT Inc",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0022
-    },
-    {
-      "name": "United Urban Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0021
-    },
-    {
-      "name": "Fibra Uno Administracion S.A. de C.V.",
-      "ticker": "",
-      "countryName": "Mexico",
-      "countryCode": "MX",
-      "proportion": 0.0021
-    },
-    {
-      "name": "Independence Realty Trust Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0021
-    },
-    {
       "name": "American Healthcare REIT, Inc.",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.002
+      "proportion": 0.0022
+    },
+    {
+      "name": "LondonMetric Property PLC",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0022
+    },
+    {
+      "name": "Fastighets AB Balder",
+      "ticker": "",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0022
+    },
+    {
+      "name": "Diamondrock Hospitality",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0022
+    },
+    {
+      "name": "Empire State Realty Trust Inc A",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0021
     },
     {
       "name": "Four Corners Property Trust",
@@ -704,24 +711,31 @@
       "proportion": 0.002
     },
     {
-      "name": "LondonMetric Property PLC",
+      "name": "Independence Realty Trust Inc",
       "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.002
     },
     {
-      "name": "Fastighets AB Balder",
-      "ticker": "",
+      "name": "Sagax AB B Shares",
+      "ticker": "SAX-B",
       "countryName": "Sweden",
       "countryCode": "SE",
-      "proportion": 0.0019
+      "proportion": 0.002
     },
     {
       "name": "Invincible Investment Corp",
-      "ticker": "",
+      "ticker": "8963.T",
       "countryName": "Japan",
       "countryCode": "JP",
+      "proportion": 0.0019
+    },
+    {
+      "name": "Keppel DC REIT",
+      "ticker": "",
+      "countryName": "Singapore",
+      "countryCode": "SG",
       "proportion": 0.0019
     },
     {
@@ -732,38 +746,24 @@
       "proportion": 0.0019
     },
     {
-      "name": "Sagax AB B Shares",
-      "ticker": "SAGA B.ST",
-      "countryName": "Sweden",
-      "countryCode": "SE",
-      "proportion": 0.0019
-    },
-    {
-      "name": "Apple Hospitality REIT Inc",
+      "name": "Big Yellow Group REIT",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
       "proportion": 0.0018
     },
     {
-      "name": "Keppel DC REIT",
+      "name": "Mitsui Fudosan Logistics Park Inc",
       "ticker": "",
-      "countryName": "Singapore",
-      "countryCode": "SG",
+      "countryName": "Japan",
+      "countryCode": "JP",
       "proportion": 0.0018
     },
     {
-      "name": "Urban Edge Properties Inc.",
+      "name": "COFINIMMO SA - Sicaf Immobiliere",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0018
-    },
-    {
-      "name": "Wharf Real Estate Investment Company Ltd",
-      "ticker": "",
-      "countryName": "Hong Kong",
-      "countryCode": "HK",
+      "countryName": "Belgium",
+      "countryCode": "BE",
       "proportion": 0.0017
     },
     {
@@ -774,18 +774,32 @@
       "proportion": 0.0017
     },
     {
-      "name": "Mitsui Fudosan Logistics Park Inc",
+      "name": "Wharf Real Estate Investment Company Ltd",
+      "ticker": "",
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "proportion": 0.0017
+    },
+    {
+      "name": "Japan Prime Realty Inv Corp JREIT",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0017
     },
     {
-      "name": "LXP Industrial Trust",
+      "name": "Urban Edge Properties Inc.",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0016
+      "proportion": 0.0017
+    },
+    {
+      "name": "Apple Hospitality REIT Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0017
     },
     {
       "name": "Suntec Real Estate Investment Trust",
@@ -795,39 +809,18 @@
       "proportion": 0.0016
     },
     {
-      "name": "Japan Prime Realty Inv Corp JREIT",
+      "name": "Inmobiliaria Colonial SA",
       "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
+      "countryName": "Spain",
+      "countryCode": "ES",
       "proportion": 0.0016
     },
     {
-      "name": "Big Yellow Group REIT",
+      "name": "Derwent London Plc",
       "ticker": "",
       "countryName": "Great Britain",
       "countryCode": "GB",
       "proportion": 0.0016
-    },
-    {
-      "name": "Mapletree Logistics Trust",
-      "ticker": "",
-      "countryName": "Singapore",
-      "countryCode": "SG",
-      "proportion": 0.0015
-    },
-    {
-      "name": "Medical Properties Trust Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0015
-    },
-    {
-      "name": "Highwoods Properties",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0015
     },
     {
       "name": "Lasalle Logiport REIT",
@@ -837,10 +830,10 @@
       "proportion": 0.0015
     },
     {
-      "name": "COFINIMMO SA - Sicaf Immobiliere",
+      "name": "LXP Industrial Trust",
       "ticker": "",
-      "countryName": "Belgium",
-      "countryCode": "BE",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0015
     },
     {
@@ -851,24 +844,38 @@
       "proportion": 0.0015
     },
     {
-      "name": "Derwent London Plc",
+      "name": "Japan Logistics Fund",
       "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0014
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0015
     },
     {
-      "name": "Inmobiliaria Colonial SA",
+      "name": "Frasers Centrepoint Trust",
       "ticker": "",
-      "countryName": "Spain",
-      "countryCode": "ES",
-      "proportion": 0.0014
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0015
+    },
+    {
+      "name": "Highwoods Properties",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0015
     },
     {
       "name": "National Health Investors",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "name": "National Storage REIT",
+      "ticker": "",
+      "countryName": "Australia",
+      "countryCode": "AU",
       "proportion": 0.0014
     },
     {
@@ -886,10 +893,17 @@
       "proportion": 0.0014
     },
     {
-      "name": "Veris Residential Inc",
+      "name": "Medical Properties Trust Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
+      "proportion": 0.0014
+    },
+    {
+      "name": "Mapletree Logistics Trust",
+      "ticker": "",
+      "countryName": "Singapore",
+      "countryCode": "SG",
       "proportion": 0.0014
     },
     {
@@ -897,34 +911,13 @@
       "ticker": "",
       "countryName": "Hong Kong",
       "countryCode": "HK",
-      "proportion": 0.0014
+      "proportion": 0.0013
     },
     {
-      "name": "Japan Logistics Fund",
+      "name": "Industrial & Infrastructure Fund Investment Corp",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0014
-    },
-    {
-      "name": "Frasers Centrepoint Trust",
-      "ticker": "",
-      "countryName": "Singapore",
-      "countryCode": "SG",
-      "proportion": 0.0013
-    },
-    {
-      "name": "National Storage REIT",
-      "ticker": "",
-      "countryName": "Australia",
-      "countryCode": "AU",
-      "proportion": 0.0013
-    },
-    {
-      "name": "Acadia Realty Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
       "proportion": 0.0013
     },
     {
@@ -935,21 +928,28 @@
       "proportion": 0.0013
     },
     {
-      "name": "Industrial & Infrastructure Fund Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0012
+      "name": "Kojamo Oyj",
+      "ticker": "KOJAMO.HE",
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "proportion": 0.0013
     },
     {
-      "name": "American Assets Trust Inc",
+      "name": "Veris Residential Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0012
+      "proportion": 0.0013
     },
     {
       "name": "Activia Properties",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0013
+    },
+    {
+      "name": "Nippon Accommodations Fund",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
@@ -963,18 +963,74 @@
       "proportion": 0.0012
     },
     {
-      "name": "National Storage Affiliates Trust",
+      "name": "First Capital REIT",
+      "ticker": "",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0012
+    },
+    {
+      "name": "Corporacion Inmobiliaria Vesta SAB de CV - VESTA (MX)",
+      "ticker": "",
+      "countryName": "Mexico",
+      "countryCode": "MX",
+      "proportion": 0.0012
+    },
+    {
+      "name": "Safestore Holdings Plc",
+      "ticker": "SAFE.L",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0012
+    },
+    {
+      "name": "Acadia Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0012
     },
     {
-      "name": "Sunstone Hotel Investors",
+      "name": "SmartCentres REIT",
+      "ticker": "",
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "proportion": 0.0012
+    },
+    {
+      "name": "AEON REIT Investment Corp",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0012
+    },
+    {
+      "name": "American Assets Trust Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0012
+      "proportion": 0.0011
+    },
+    {
+      "name": "Aroundtown SA",
+      "ticker": "",
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "proportion": 0.0011
+    },
+    {
+      "name": "National Storage Affiliates Trust",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0011
+    },
+    {
+      "name": "Aeon Mall Co Ltd",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0011
     },
     {
       "name": "Curbline Properties Corp.",
@@ -984,38 +1040,10 @@
       "proportion": 0.0011
     },
     {
-      "name": "SmartCentres REIT",
-      "ticker": "",
-      "countryName": "Canada",
-      "countryCode": "CA",
-      "proportion": 0.0011
-    },
-    {
-      "name": "AEON REIT Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0011
-    },
-    {
-      "name": "Safestore Holdings Plc",
-      "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0011
-    },
-    {
-      "name": "JBG Smith Properties",
+      "name": "COPT Defense Properties ORD",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.0011
-    },
-    {
-      "name": "First Capital REIT",
-      "ticker": "",
-      "countryName": "Canada",
-      "countryCode": "CA",
       "proportion": 0.0011
     },
     {
@@ -1026,49 +1054,56 @@
       "proportion": 0.0011
     },
     {
-      "name": "COPT Defense Properties ORD",
-      "ticker": "COPT",
+      "name": "Sunstone Hotel Investors",
+      "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0011
     },
     {
-      "name": "Nippon Accommodations Fund",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0011
-    },
-    {
-      "name": "Aroundtown SA",
-      "ticker": "",
-      "countryName": "Germany",
-      "countryCode": "DE",
-      "proportion": 0.001
-    },
-    {
-      "name": "Kojamo Oyj",
-      "ticker": "",
-      "countryName": "Finland",
-      "countryCode": "FI",
-      "proportion": 0.001
-    },
-    {
-      "name": "Corporacion Inmobiliaria Vesta SAB de CV - VESTA (MX)",
-      "ticker": "",
-      "countryName": "Mexico",
-      "countryCode": "MX",
-      "proportion": 0.001
-    },
-    {
       "name": "Azrieli Group Ltd",
-      "ticker": "",
+      "ticker": "AZRG.TA",
       "countryName": "Israel",
       "countryCode": "IL",
       "proportion": 0.001
     },
     {
-      "name": "Global Net Lease, Inc.",
+      "name": "Assura REIT Ord",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.001
+    },
+    {
+      "name": "Primary Health Properties Plc",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.001
+    },
+    {
+      "name": "Hulic REIT Inc",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.001
+    },
+    {
+      "name": "Mitsubishi Estate Logistics REIT Investment Corp",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.001
+    },
+    {
+      "name": "Daiwa Office Investment Corp",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.001
+    },
+    {
+      "name": "JBG Smith Properties",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1079,52 +1114,17 @@
       "ticker": "",
       "countryName": "Canada",
       "countryCode": "CA",
-      "proportion": 0.0009
-    },
-    {
-      "name": "Assura REIT Ord",
-      "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0009
-    },
-    {
-      "name": "UMH Properties Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0009
-    },
-    {
-      "name": "Aeon Mall Co Ltd",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0009
-    },
-    {
-      "name": "Mitsubishi Estate Logistics REIT Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0009
-    },
-    {
-      "name": "Hulic REIT Inc",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0009
-    },
-    {
-      "name": "Daiwa Office Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0009
+      "proportion": 0.001
     },
     {
       "name": "Frontier Real Estate Investment",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.001
+    },
+    {
+      "name": "NTT UD REIT Investment Corp",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
@@ -1138,60 +1138,32 @@
       "proportion": 0.0009
     },
     {
-      "name": "Primary Health Properties Plc",
+      "name": "Global Net Lease, Inc.",
       "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0009
-    },
-    {
-      "name": "NTT UD REIT Investment Corp",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0009
-    },
-    {
-      "name": "Keppel REIT",
-      "ticker": "",
-      "countryName": "Singapore",
-      "countryCode": "SG",
-      "proportion": 0.0008
-    },
-    {
-      "name": "Charter Hall Retail REIT",
-      "ticker": "",
-      "countryName": "Australia",
-      "countryCode": "AU",
-      "proportion": 0.0008
-    },
-    {
-      "name": "Douglas Emmett",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0008
-    },
-    {
-      "name": "Pebblebrook Hotel Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0008
-    },
-    {
-      "name": "Getty Realty Corp",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0008
     },
     {
       "name": "Comforia Residential REIT Inc",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
-      "proportion": 0.0008
+      "proportion": 0.0009
+    },
+    {
+      "name": "UMH Properties Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0009
+    },
+    {
+      "name": "Charter Hall Retail REIT",
+      "ticker": "",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0009
     },
     {
       "name": "Grainger Plc",
@@ -1201,28 +1173,91 @@
       "proportion": 0.0008
     },
     {
-      "name": "Alexander & Baldwin Inc.",
-      "ticker": "ALEX",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0008
-    },
-    {
-      "name": "Piedmont Office Realty Trust Inc",
+      "name": "Keppel REIT",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0007
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "proportion": 0.0008
     },
     {
       "name": "Charter Hall Long WALE REIT",
       "ticker": "",
       "countryName": "Australia",
       "countryCode": "AU",
-      "proportion": 0.0007
+      "proportion": 0.0008
     },
     {
       "name": "Daiwa Securities Living Investment Corp",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0008
+    },
+    {
+      "name": "Hammerson",
+      "ticker": "",
+      "countryName": "Great Britain",
+      "countryCode": "GB",
+      "proportion": 0.0008
+    },
+    {
+      "name": "Tokyu REIT",
+      "ticker": "",
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "proportion": 0.0008
+    },
+    {
+      "name": "Alexander & Baldwin Inc.",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0008
+    },
+    {
+      "name": "Region Group ORD",
+      "ticker": "REG",
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "proportion": 0.0008
+    },
+    {
+      "name": "Paramount Group Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "name": "Getty Realty Corp",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "name": "Pebblebrook Hotel Trust",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "name": "Innovative Industrial Properties",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "name": "Douglas Emmett",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "name": "Mori Trust Sogo REIT",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
@@ -1236,10 +1271,10 @@
       "proportion": 0.0007
     },
     {
-      "name": "Kennedy-Wilson Holdings Inc",
-      "ticker": "KW",
-      "countryName": "United States",
-      "countryCode": "US",
+      "name": "Japan Excellent",
+      "ticker": "JEQ",
+      "countryName": "Japan",
+      "countryCode": "JP",
       "proportion": 0.0007
     },
     {
@@ -1250,56 +1285,14 @@
       "proportion": 0.0007
     },
     {
-      "name": "Hammerson",
-      "ticker": "",
-      "countryName": "Great Britain",
-      "countryCode": "GB",
-      "proportion": 0.0007
-    },
-    {
-      "name": "Tokyu REIT",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0007
-    },
-    {
-      "name": "Paramount Group Inc",
-      "ticker": "PGRE",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0007
-    },
-    {
-      "name": "Innovative Industrial Properties",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0007
-    },
-    {
-      "name": "Region Group ORD",
-      "ticker": "RGN.AX",
-      "countryName": "Australia",
-      "countryCode": "AU",
-      "proportion": 0.0006
-    },
-    {
-      "name": "Elme Communities",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0006
-    },
-    {
-      "name": "Mori Trust Sogo REIT",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0006
-    },
-    {
       "name": "Netstreit Ord",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0007
+    },
+    {
+      "name": "Piedmont Office Realty Trust Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1313,13 +1306,6 @@
       "proportion": 0.0006
     },
     {
-      "name": "Japan Excellent",
-      "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
-      "proportion": 0.0006
-    },
-    {
       "name": "Dream Industrial REIT",
       "ticker": "",
       "countryName": "Canada",
@@ -1327,10 +1313,10 @@
       "proportion": 0.0006
     },
     {
-      "name": "Brandywine Realty Trust",
+      "name": "Hoshino Resorts REITInc",
       "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
+      "countryName": "Japan",
+      "countryCode": "JP",
       "proportion": 0.0006
     },
     {
@@ -1338,24 +1324,38 @@
       "ticker": "",
       "countryName": "Great Britain",
       "countryCode": "GB",
-      "proportion": 0.0005
+      "proportion": 0.0006
+    },
+    {
+      "name": "Elme Communities",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0006
     },
     {
       "name": "H&R REIT",
       "ticker": "",
       "countryName": "Canada",
       "countryCode": "CA",
+      "proportion": 0.0006
+    },
+    {
+      "name": "Kennedy-Wilson Holdings Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
       "proportion": 0.0005
     },
     {
-      "name": "Hoshino Resorts REITInc",
+      "name": "Global One REIT",
       "ticker": "",
       "countryName": "Japan",
       "countryCode": "JP",
       "proportion": 0.0005
     },
     {
-      "name": "Centerspace",
+      "name": "Brandywine Realty Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1369,14 +1369,21 @@
       "proportion": 0.0005
     },
     {
-      "name": "Global One REIT",
+      "name": "Waypoint REIT Ltd Stapled",
       "ticker": "",
-      "countryName": "Japan",
-      "countryCode": "JP",
+      "countryName": "Australia",
+      "countryCode": "AU",
       "proportion": 0.0005
     },
     {
-      "name": "Apartment Investment & Mgmt",
+      "name": "Centerspace",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0005
+    },
+    {
+      "name": "Easterly Government Properties Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1390,49 +1397,21 @@
       "proportion": 0.0005
     },
     {
-      "name": "Waypoint REIT Ltd Stapled",
-      "ticker": "",
-      "countryName": "Australia",
-      "countryCode": "AU",
-      "proportion": 0.0004
-    },
-    {
-      "name": "Chatham Lodging Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0004
-    },
-    {
-      "name": "SITE Centers Corp",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0004
-    },
-    {
       "name": "CA Immobilien Anlagen AG",
       "ticker": "",
       "countryName": "Austria",
       "countryCode": "AT",
-      "proportion": 0.0004
+      "proportion": 0.0005
     },
     {
-      "name": "Hudson Pacific Properties Inc",
+      "name": "Apartment Investment & Mgmt",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
       "proportion": 0.0004
     },
     {
-      "name": "NexPoint Residential Trust Inc",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0004
-    },
-    {
-      "name": "Summit Hotel Properties Inc",
+      "name": "Chatham Lodging Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1446,6 +1425,20 @@
       "proportion": 0.0004
     },
     {
+      "name": "SITE Centers Corp",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
+      "name": "NexPoint Residential Trust Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0004
+    },
+    {
       "name": "Leopalace 21 Corp",
       "ticker": "",
       "countryName": "Japan",
@@ -1453,7 +1446,14 @@
       "proportion": 0.0003
     },
     {
-      "name": "Easterly Government Properties Inc",
+      "name": "Summit Hotel Properties Inc",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0003
+    },
+    {
+      "name": "Hudson Pacific Properties Inc",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1467,13 +1467,6 @@
       "proportion": 0.0003
     },
     {
-      "name": "Service Properties Trust",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0003
-    },
-    {
       "name": "Diversified Healthcare Trust",
       "ticker": "",
       "countryName": "United States",
@@ -1481,7 +1474,21 @@
       "proportion": 0.0002
     },
     {
+      "name": "Samhallsbyggnadsbolaget i Norden AB",
+      "ticker": "",
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "proportion": 0.0002
+    },
+    {
       "name": "Global Medical REIT Ord",
+      "ticker": "",
+      "countryName": "United States",
+      "countryCode": "US",
+      "proportion": 0.0002
+    },
+    {
+      "name": "Service Properties Trust",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1502,21 +1509,7 @@
       "proportion": 0.0002
     },
     {
-      "name": "Samhallsbyggnadsbolaget i Norden AB",
-      "ticker": "",
-      "countryName": "Sweden",
-      "countryCode": "SE",
-      "proportion": 0.0002
-    },
-    {
       "name": "Net Lease Office Properties",
-      "ticker": "",
-      "countryName": "United States",
-      "countryCode": "US",
-      "proportion": 0.0001
-    },
-    {
-      "name": "Equity Commonwealth",
       "ticker": "",
       "countryName": "United States",
       "countryCode": "US",
@@ -1527,14 +1520,14 @@
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0082
+      "proportion": -0.0295
     },
     {
       "name": "Currency Hedging",
-      "ticker": "",
+      "ticker": "HEDJ",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0066
+      "proportion": 0.0363
     }
   ]
 }

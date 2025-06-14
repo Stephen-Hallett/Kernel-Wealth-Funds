@@ -1,4 +1,7 @@
-import yfinance as yf
+import os
 
-test = yf.download("0371.HK", period="2Y", auto_adjust=True)
-print(test.head())
+from tickers import TickerDetector
+
+ticker_detector = TickerDetector(os.environ["OPENAI_API_KEY"])
+
+print(ticker_detector.detect("National Grid PLC Ord", "Great Britain"))

@@ -8,14 +8,14 @@
       "ticker": "VOO",
       "countryName": "United States",
       "countryCode": "US",
-      "proportion": 0.9984
+      "proportion": 1.002
     },
     {
       "name": "Cash & Cash Equivalents",
       "ticker": "",
       "countryName": "",
       "countryCode": "",
-      "proportion": 0.0016
+      "proportion": -0.002
     }
   ]
 }
