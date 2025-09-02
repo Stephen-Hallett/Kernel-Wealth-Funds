@@ -25,4 +25,4 @@ merged_funds = reduce(
 )
 merged_funds = merged_funds.set_index("date")
 merged_funds = merged_funds.ffill().pct_change().reset_index()
-merged_funds.to_csv("price_changes.csv", index=False)
+merged_funds.to_csv("data/price_changes.csv", index=False)
